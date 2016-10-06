@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Luke M Perez</title>
+    <link>http://lukemperez.com/publication/</link>
+    <description>Recent content in Publications on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016 Luke M Perez</copyright>
+    <lastBuildDate>Fri, 13 May 2016 19:30:08 -0500</lastBuildDate>
+    <atom:link href="http://lukemperez.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Irony of Technological War: Reinhold Niebuhr on drone warfare and the just war tradition</title>
+      <link>http://lukemperez.com/publication/irony-technology-war/</link>
+      <pubDate>Fri, 13 May 2016 19:30:08 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/publication/irony-technology-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blindside--U.S. Foreign Policy</title>
+      <link>http://lukemperez.com/publication/blindside/</link>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukemperez.com/publication/blindside/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
