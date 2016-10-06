@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Luke M Perez</title>
+    <link>http://lukemperez.com/project/</link>
+    <description>Recent content in Projects on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016 Luke M Perez</copyright>
+    <lastBuildDate>Fri, 30 Sep 2016 21:21:35 -0500</lastBuildDate>
+    <atom:link href="http://lukemperez.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Close the loops</title>
+      <link>http://lukemperez.com/project/GTD_writing/</link>
+      <pubDate>Fri, 30 Sep 2016 21:21:35 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/project/GTD_writing/</guid>
+      <description>
+
+&lt;h1 id=&#34;summary:095dfcedb9533c95beaf3135de64ca5b&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;A short course taught at the Department of Government at the
+University of Texas at Austin. GitHub Repo includes handout and links
+of suggested readings (and viewings) on time management, creativity,
+and best practices. I emphasized the &lt;em&gt;iterative&lt;/em&gt; nature of writing,
+stressing the need to manage the shallow work of email, meetings, and
+the like so that one can focus un-distracted on the Deep Work of
+writing, coding, and problem solving.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The flag and the cross</title>
+      <link>http://lukemperez.com/project/flag-cross/</link>
+      <pubDate>Fri, 13 May 2016 19:46:32 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/project/flag-cross/</guid>
+      <description>
+
+&lt;h1 id=&#34;summary:3df0e740ad498fb723fac1d1a06f0f89&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;A dissertation proposal investigating the role of religion in American grand strategy. Religion has recently garnered increased and consistent attention from international relations scholars. Yet, the subject matter remains both under theorized and more work help us better understand how actors previously overlook, but nevertheless significant, can influence American foreign policymaking.&lt;/p&gt;
+
+&lt;!-- # abstract 
+The role of religion in American foreign policy has only in recent years garnered consistent attention from scholars. From the sermons endorsing the American revolution and the [theological arguments of containment][Inboden] to the defense of persecuted religious minorities overseas, religion has a long history in American politics. Religion, however, is unique among other political phenomenon because it is broader conceptually than politics and has implications for nearly every aspect of social life. This project seeks to understand how religious actors sought to influence American grand strategy and how policymakers used and abused the presumptions of religious actors to form alliances in order to promote American national interest around the world.
+
+
+ --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

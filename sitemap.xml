@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://lukemperez.com/</loc>
+    <lastmod>2016-10-05T21:31:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/teaching/RHE_306/</loc>
+    <lastmod>2016-10-05T21:31:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/project/GTD_writing/</loc>
+    <lastmod>2016-09-30T21:21:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/post/hello-hugo/</loc>
+    <lastmod>2016-05-24T17:16:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/project/flag-cross/</loc>
+    <lastmod>2016-05-13T19:46:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/publication/irony-technology-war/</loc>
+    <lastmod>2016-05-13T19:30:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/home/about/</loc>
+    <lastmod>2016-05-10T22:30:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/publication/blindside/</loc>
+    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
