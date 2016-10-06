@@ -7,8 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 Luke M Perez</copyright>
-    <lastBuildDate>Tue, 24 May 2016 17:16:58 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2016 08:30:00 -0500</lastBuildDate>
     <atom:link href="http://lukemperez.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Close the loops</title>
+      <link>http://lukemperez.com/post/close-loops/</link>
+      <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/post/close-loops/</guid>
+      <description>&lt;p&gt;Last week I presented a best practices workshop on project management
+for my fellow graduate students. The purpose was to provide younger
+students in the program with ideas and concepts for managing projects
+&amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop
+afforded me the opportunity to reflect on the principles of
+productivity that I&amp;rsquo;ve learned over the years. Despite claims to the
+contrary, both from within and without, the academe is not unlike
+many other professions: it a profession fundamentally about knowledge
+work but with functionally infinite demands on otherwise scarce time
+and attention. For graduate students in particular, productivity
+wastes are especially pernicious because they are so
+deceptive. This problem arises from a basic failure to see project
+management as anxiety management. Uncompleted tasks and to-do lists,
+or worse, half-hearted to-do lists, create a cognitive load on the
+mind that destroys the ability to concentrate and get into what Cal
+Newport calls &lt;em&gt;deep work&lt;/em&gt;. This isn&amp;rsquo;t the right space to outline the
+basics of GTD or any task management system; but whatever system one
+uses will work better if we realize the end goal is to free up the
+mental bandwidth to concentrate more deeply and more frequently to do
+the work that matters to us most.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello Hugo</title>
