@@ -1,0 +1,11 @@
++++
+date = "2016-10-05T21:37:33-05:00"
+draft = true
+title = "teaching"
+section_id = 5
+weight = 5
++++
+
+### RHE 306 "Introduction to Rhetoric and Writing"
+
+RHE 306 -- Rhetoric & Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train your abilities analyzing various positions held in public debate and to advocate your own position effectively. You will learn the ethics of responsible argumentation, fair representation of positions with which you disagree, and responsible representation of your views to audiences with particular values or interests. Your work in this course will help you advance the reading and writing skills necessary for academic and professional success.
