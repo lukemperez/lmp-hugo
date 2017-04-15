@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Luke M Perez</title>
+    <link>http://lukemperez.com/home/</link>
+    <description>Recent content in Homes on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016 Luke M Perez</copyright>
+    <lastBuildDate>Tue, 10 May 2016 22:30:03 -0500</lastBuildDate>
+    
+	<atom:link href="http://lukemperez.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://lukemperez.com/home/about/</link>
+      <pubDate>Tue, 10 May 2016 22:30:03 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/home/about/</guid>
+      <description>Biography I am a doctoral candidate in political science with research interests in religion, ethics, and American foreign policy. I am also an aspiring coffee aficionado, part-time audiophile, and photography hobbyist.</description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>http://lukemperez.com/home/teaching/</link>
+      <pubDate>Wed, 05 Oct 2016 21:37:33 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/home/teaching/</guid>
+      <description> RHE 306 &amp;ldquo;Introduction to Rhetoric and Writing&amp;rdquo; RHE 306 &amp;ndash; Rhetoric &amp;amp; Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train students&amp;rsquo; abilities analyzing various positions held in public debate and to advocate your own position effectively.
+ Fall 2015 Spring 2016  </description>
+    </item>
+    
+  </channel>
+</rss>
