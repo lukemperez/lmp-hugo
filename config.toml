@@ -1,13 +1,13 @@
 baseurl = "http://lukemperez.com/"
 languageCode = "en-us"
-title = "Luke M. Perez"
+title = "Luke M Perez"
 copyright = "2017 Luke M Perez"
 address = "Austin, TX"
 publishdir = "public"
 canonifyurls = "true"
-googleanalytics = "UA-97407722-1"
+googleAnalytics = "UA-97407722-1"
 
-# basic parameters 
+# basic parameters
 [params]
     name = "Luke M Perez"
     role = "Doctoral Candidate"
@@ -39,7 +39,7 @@ googleanalytics = "UA-97407722-1"
 		institution = "The Ohio State University"
 		year = "2007"
 
-	# Social Media  
+	# Social Media
 	[[params.social]]
 		icon = "github"
 		icon_pack = "fa"
@@ -50,8 +50,8 @@ googleanalytics = "UA-97407722-1"
 		icon_pack = "fa"
 		link = "//twitter.com/lukemperez"
 
-# Navigation Links  
-# 
+# Navigation Links
+#
 # Weight parameters determine order of appearance for links
 
 [[menu.main]]
