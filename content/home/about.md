@@ -8,7 +8,7 @@ weight = 0
 
 ## Biography
 
-I am a doctoral student in political science with research interests
+I am a doctoral candidate in political science with research interests
 in religion, ethics, and American foreign policy. I am also an
 aspiring coffee aficionado, part-time audiophile, and photography
 hobbyist. 
