@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>http://lukemperez.com/post/mpsa_2017/</loc>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://lukemperez.com/teaching/rhe_306/</loc>
     <lastmod>2016-10-05T21:31:48-05:00</lastmod>
   </url>
@@ -52,6 +57,18 @@
   </url>
   
   <url>
+    <loc>http://lukemperez.com/tags/conferences/</loc>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lukemperez.com/tags/dissertation/</loc>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://lukemperez.com/tags/gtd/</loc>
     <lastmod>2016-10-03T08:30:00-05:00</lastmod>
     <priority>0</priority>
@@ -83,13 +100,13 @@
   
   <url>
     <loc>http://lukemperez.com/post/</loc>
-    <lastmod>2016-10-03T08:30:00-05:00</lastmod>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://lukemperez.com/tags/professional-development/</loc>
-    <lastmod>2016-05-24T17:16:58-05:00</lastmod>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -113,7 +130,7 @@
   
   <url>
     <loc>http://lukemperez.com/tags/</loc>
-    <lastmod>2016-10-03T08:30:00-05:00</lastmod>
+    <lastmod>2017-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
