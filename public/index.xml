@@ -7,17 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 Luke M Perez</copyright>
-    <lastBuildDate>Wed, 05 Oct 2016 21:31:48 -0500</lastBuildDate>
-    <atom:link href="http://lukemperez.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2016 21:37:33 -0500</lastBuildDate>
+    
+	<atom:link href="http://lukemperez.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>teaching</title>
+      <link>http://lukemperez.com/home/teaching/</link>
+      <pubDate>Wed, 05 Oct 2016 21:37:33 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/home/teaching/</guid>
+      <description> RHE 306 &amp;ldquo;Introduction to Rhetoric and Writing&amp;rdquo; RHE 306 &amp;ndash; Rhetoric &amp;amp; Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train students&amp;rsquo; abilities analyzing various positions held in public debate and to advocate your own position effectively.
+ Fall 2015 Spring 2016  </description>
+    </item>
     
     <item>
       <title>Rhetoric and Writing 306</title>
-      <link>http://lukemperez.com/teaching/RHE_306/</link>
+      <link>http://lukemperez.com/teaching/rhe_306/</link>
       <pubDate>Wed, 05 Oct 2016 21:31:48 -0500</pubDate>
       
-      <guid>http://lukemperez.com/teaching/RHE_306/</guid>
-      <description>&lt;p&gt;RHE 306 &amp;ndash; Rhetoric &amp;amp; Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train your abilities analyzing various positions held in public debate and to advocate your own position effectively. You will learn the ethics of responsible argumentation, fair representation of positions with which you disagree, and responsible representation of your views to audiences with particular values or interests. Your work in this course will help you advance the reading and writing skills necessary for academic and professional success.&lt;/p&gt;
-</description>
+      <guid>http://lukemperez.com/teaching/rhe_306/</guid>
+      <description>RHE 306 &amp;ndash; Rhetoric &amp;amp; Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train your abilities analyzing various positions held in public debate and to advocate your own position effectively. You will learn the ethics of responsible argumentation, fair representation of positions with which you disagree, and responsible representation of your views to audiences with particular values or interests. Your work in this course will help you advance the reading and writing skills necessary for academic and professional success.</description>
     </item>
     
     <item>
@@ -26,47 +37,16 @@
       <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
       
       <guid>http://lukemperez.com/post/close-loops/</guid>
-      <description>&lt;p&gt;Last week I presented a best practices workshop on project management
-for my fellow graduate students. The purpose was to provide younger
-students in the program with ideas and concepts for managing projects
-&amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop
-afforded me the opportunity to reflect on the principles of
-productivity that I&amp;rsquo;ve learned over the years. Despite claims to the
-contrary, both from within and without, the academe is not unlike
-many other professions: it a profession fundamentally about knowledge
-work but with functionally infinite demands on otherwise scarce time
-and attention. For graduate students in particular, productivity
-wastes are especially pernicious because they are so
-deceptive. This problem arises from a basic failure to see project
-management as anxiety management. Uncompleted tasks and to-do lists,
-or worse, half-hearted to-do lists, create a cognitive load on the
-mind that destroys the ability to concentrate and get into what Cal
-Newport calls &lt;em&gt;deep work&lt;/em&gt;. This isn&amp;rsquo;t the right space to outline the
-basics of GTD or any task management system; but whatever system one
-uses will work better if we realize the end goal is to free up the
-mental bandwidth to concentrate more deeply and more frequently to do
-the work that matters to us most.&lt;/p&gt;
-</description>
+      <description>Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop afforded me the opportunity to reflect on the principles of productivity that I&amp;rsquo;ve learned over the years. Despite claims to the contrary, both from within and without, the academe is not unlike many other professions: it a profession fundamentally about knowledge work but with functionally infinite demands on otherwise scarce time and attention.</description>
     </item>
     
     <item>
       <title>Close the loops</title>
-      <link>http://lukemperez.com/project/GTD_writing/</link>
+      <link>http://lukemperez.com/project/gtd_writing/</link>
       <pubDate>Fri, 30 Sep 2016 21:21:35 -0500</pubDate>
       
-      <guid>http://lukemperez.com/project/GTD_writing/</guid>
-      <description>
-
-&lt;h1 id=&#34;summary:095dfcedb9533c95beaf3135de64ca5b&#34;&gt;Summary&lt;/h1&gt;
-
-&lt;p&gt;A short course taught at the Department of Government at the
-University of Texas at Austin. GitHub Repo includes handout and links
-of suggested readings (and viewings) on time management, creativity,
-and best practices. I emphasized the &lt;em&gt;iterative&lt;/em&gt; nature of writing,
-stressing the need to manage the shallow work of email, meetings, and
-the like so that one can focus un-distracted on the Deep Work of
-writing, coding, and problem solving.&lt;/p&gt;
-</description>
+      <guid>http://lukemperez.com/project/gtd_writing/</guid>
+      <description>Summary A short course taught at the Department of Government at the University of Texas at Austin. GitHub Repo includes handout and links of suggested readings (and viewings) on time management, creativity, and best practices. I emphasized the iterative nature of writing, stressing the need to manage the shallow work of email, meetings, and the like so that one can focus un-distracted on the Deep Work of writing, coding, and problem solving.</description>
     </item>
     
     <item>
@@ -75,9 +55,7 @@ writing, coding, and problem solving.&lt;/p&gt;
       <pubDate>Tue, 24 May 2016 17:16:58 -0500</pubDate>
       
       <guid>http://lukemperez.com/post/hello-hugo/</guid>
-      <description>
-
-&lt;p&gt;I&amp;rsquo;ve hosted my webpage on &lt;a href=&#34;https://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt; since sometime in my second
+      <description>&lt;p&gt;I&amp;rsquo;ve hosted my webpage on &lt;a href=&#34;https://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt; since sometime in my second
 year at UT Austin. After several years on the platform, I have nothing
 but praise for the folks at &lt;a href=&#34;https://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt;: their reputation for
 up-time, customer service, and all around technical bad-assery is well
@@ -87,143 +65,16 @@ HTML, CSS, or anything of that stuff&amp;mdash;and I do mean it: without
 any&amp;mdash;then you cannot go wrong with a Squarespace site. But for me,
 the time has come to say goodbye.&lt;/p&gt;
 
-&lt;p&gt;Why leave? If I&amp;rsquo;ve been so happy with Squarespace why make the fuss? I
-could list a lot of reasons ranging from technical curiosity to summer
-boredom or whatever. But really it comes down to handful of several
-small but significant reasons:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Blog as text files (esp. in Markdown)&lt;/li&gt;
-&lt;li&gt;Needs of modern academics (syntax highlighting, e.g.)&lt;/li&gt;
-&lt;li&gt;Cost of hosting (esp. for a graduate student)&lt;/li&gt;
-&lt;li&gt;Reproducability&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;blogging-as-public-scholarship:960bf0242be616885a16cfa5bcee6757&#34;&gt;Blogging as public scholarship&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;d love to blog, er, post more &amp;ldquo;note&amp;rdquo; on teaching and learning (i.e.,
-scholarship) but Squarespace requires new posts come from within the
-browser. Sure, I could open Safari, go to my blog, click on new
-content, write a new post, and push it to website with a simplicity
-that only reinforces everything I&amp;rsquo;ve said above about why
-non-programming professionals should take a serious look at the
-platform. But Squarespace is a closed system. I couldn&amp;rsquo;t even export
-my content from their blog except into a Wordpress XML format. Which
-raises an interesting question why they make support for Markdown in
-the first place, since the whole point of Markdown, as I understand
-it, is to have human readable plain text files that can be converted
-into HTML when needed.&lt;/p&gt;
-
-&lt;h2 id=&#34;modern-academic:960bf0242be616885a16cfa5bcee6757&#34;&gt;Modern Academic&lt;/h2&gt;
-
-&lt;p&gt;Related to the first item is the need to integrate other tools of
-modern researchers. Whether it is linking to a &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; repo or
-conceptualizing blog posts as markdown files, working with a variety
-of open source tools have become every more integrated into the
-workflow of good scholarship. And although Squarespace can do some of
-those things, it is now much easier for me to work in an ecosystem of
-open, rather than closed systems.&lt;/p&gt;
-
-&lt;p&gt;But I need a few things that are not easy to do on their blogging
-module. First, as I begin to use R, Python, and other such programming
-tools, I need a way to work on a file in Markdown using code blocks to
-show my work and then easily convert that &lt;a href=&#34;http://plain-text.co/&#34;&gt;plain-text&lt;/a&gt; file into
-HTML, PDF, or LaTeX as my needs require. Such a workflow is possible
-using MS Word, Squarespace, and other tools, but they are not the ones
-I use. (I&amp;rsquo;ve not &lt;strong&gt;installed&lt;/strong&gt; Microsoft Word on any computer I&amp;rsquo;ve
-owned since 2009 or so.)&lt;/p&gt;
-
-&lt;h2 id=&#34;costs-of-hosting:960bf0242be616885a16cfa5bcee6757&#34;&gt;Costs of hosting&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s face it, graduate students make little to nothing. Every dollar
-counts. When I started graduate school, I saw paying for my domain
-name as a &lt;em&gt;sine qua non&lt;/em&gt; of a good online presence. But I thought I
-could &amp;ldquo;roll my own&amp;rdquo; and avoid paying a monthly hosting fee. I had
-tinkered with using &lt;a href=&#34;https://www.tumblr.com/&#34;&gt;Tumblr&lt;/a&gt; and &lt;a href=&#34;https://wordpress.com/&#34;&gt;Wordpress&lt;/a&gt; but found mixed
-results: namely, although the hosting was free and the url could be
-custom, the layout was garbage for professional engagement. Eventually
-I realized that quality can&amp;rsquo;t faked. I needed a professional looking
-site. Squarespace delivered.&lt;/p&gt;
-
-&lt;p&gt;What&amp;rsquo;s changed is that (a) my technical skills are much better than
-they were a few years ago and (b) free static hosting on
-&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;. Now I can load an entire website to a &lt;a href=&#34;https://github.com&#34;&gt;GitHub&lt;/a&gt; repo
-(short for &amp;ldquo;repository&amp;rdquo; if you&amp;rsquo;re not familiar), work a few settings,
-and host a website though GitHub. The only catch is that the webpages
-must be static rather than dynamic. The difference between the two is
-not really a topic for today, but the short of it is that each has
-their advantages. Every job needs different tools.&lt;/p&gt;
-
-&lt;p&gt;Anyway, the ease of which I can manage my website without paying a
-monthly fee was enough to finally push me to fill in a few gaps in my
-knowledge of website development.&lt;/p&gt;
-
-&lt;h2 id=&#34;replicate-research-replicate-blogging-replicate-anything:960bf0242be616885a16cfa5bcee6757&#34;&gt;Replicate research, replicate blogging, replicate anything&lt;/h2&gt;
-
-&lt;p&gt;I already mentioned this above:
-&lt;a href=&#34;https://support.squarespace.com/hc/en-us/articles/205814028-Importing-and-exporting-content&#34;&gt;exporting on Squarespace&lt;/a&gt;
-is not easy. I&amp;rsquo;m still not sure at the time of this drafting if I&amp;rsquo;ll
-even get my old blog over. Not that it matters since the friction to
-getting a post online kept many a thought, good and bad, from seeing
-the digital light of day. Still, it&amp;rsquo;s worth repeating: modern scholars
-must be able to reproduce their work. If I can&amp;rsquo;t literally email a
-plain text file of my blog post, journal article, or whatever to a
-colleague for his or her approval, I&amp;rsquo;m not doing my job right. And
-having multiple of versions of the same document in different formats
-(HTML, .MD, etc.) only increases the likelihood that at some point one
-file will become out of sync with the others being edited. Much easier
-to simply version control with git, and push the same file, always in
-sync, wherever it needs to go.&lt;/p&gt;
-
-&lt;h1 id=&#34;hello-hugo:960bf0242be616885a16cfa5bcee6757&#34;&gt;Hello Hugo&lt;/h1&gt;
-
-&lt;p&gt;So I finally bit the bullet and rebuilt the site as a static webpage
-using &lt;a href=&#34;gohugo.io&#34;&gt;Hugo&lt;/a&gt; and some thoughts from
-&lt;a href=&#34;https://kieranhealy.org/blog/archives/2014/02/24/powered-by-hugo/&#34;&gt;Kieran Healy&amp;rsquo;s post about using Hugo&lt;/a&gt;.
-I read repeatedly that the process was fast, but I was still surprised
-about how fast. Troubleshooting some terminal issues and downloading
-Hugo took more time than it did to port my major content into Hugo&amp;rsquo;s
-structure. Now I have a mostly hand-built site that relies on me, my
-GitHub, and some off the shelf tools.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll spare you the overview of command to build a site. If you&amp;rsquo;re
-reading this and interested in trying it, I suggest reading the docs
-at &lt;a href=&#34;gohugo.io&#34;&gt;Hugo&lt;/a&gt;. They will certainly be updated by the time that anyone
-comes across this post anyway, so there&amp;rsquo;s no need to date my work with
-a workflow that will be largely out of date soon anyway.&lt;/p&gt;
-
-&lt;p&gt;I do recommend, however, spending some time thinking about what themes
-for webpage layouts you like best. A lot of folks mistaken conclude
-they must build every last piece of code on their websites for it to
-really look &amp;ldquo;right&amp;rdquo; or for them to say with confidence they have HTML
-skills on their CVs and Resumes. But if you think of website themes, which are
-built on CSS, as the webpage equivalent to a LaTeX documentclass or
-&lt;code&gt;.sty&lt;/code&gt; file, you&amp;rsquo;ll realize there isn&amp;rsquo;t much difference between the
-two and, more importantly, no need to completely re-invent the wheel.&lt;/p&gt;
-
-&lt;p&gt;So three cheers to Squarespace for getting me this far and three more
-for &lt;a href=&#34;gohugo.io&#34;&gt;Hugo&lt;/a&gt; and &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>The flag and the cross</title>
-      <link>http://lukemperez.com/project/flag-cross/</link>
+      <title>Liberating Faith: international religious freedom and American Grand Strategy</title>
+      <link>http://lukemperez.com/project/liberating-faith/</link>
       <pubDate>Fri, 13 May 2016 19:46:32 -0500</pubDate>
       
-      <guid>http://lukemperez.com/project/flag-cross/</guid>
-      <description>
-
-&lt;h1 id=&#34;summary:3df0e740ad498fb723fac1d1a06f0f89&#34;&gt;Summary&lt;/h1&gt;
-
-&lt;p&gt;A dissertation proposal investigating the role of religion in American grand strategy. Religion has recently garnered increased and consistent attention from international relations scholars. Yet, the subject matter remains both under theorized and more work help us better understand how actors previously overlook, but nevertheless significant, can influence American foreign policymaking.&lt;/p&gt;
-
-&lt;!-- # abstract 
-The role of religion in American foreign policy has only in recent years garnered consistent attention from scholars. From the sermons endorsing the American revolution and the [theological arguments of containment][Inboden] to the defense of persecuted religious minorities overseas, religion has a long history in American politics. Religion, however, is unique among other political phenomenon because it is broader conceptually than politics and has implications for nearly every aspect of social life. This project seeks to understand how religious actors sought to influence American grand strategy and how policymakers used and abused the presumptions of religious actors to form alliances in order to promote American national interest around the world.
-
-
- --&gt;
-</description>
+      <guid>http://lukemperez.com/project/liberating-faith/</guid>
+      <description>Summary My dissertation investigates the rise of religious liberty in American grand strategy. I begin by noting the empirical oddity of America&amp;rsquo;s international religious freedom agenda vis-a-vis other global powers and argue that religious freedom has long been an integral component to American statecraft. Although religion has recently garnered renewed attention from international relations scholars, the subject remains under-theorized. My project seeks to help us understand more fully how American views of liberty have shaped the efforts to remake and rebuild international order.</description>
     </item>
     
     <item>
@@ -241,15 +92,7 @@ The role of religion in American foreign policy has only in recent years garnere
       <pubDate>Tue, 10 May 2016 22:30:03 -0500</pubDate>
       
       <guid>http://lukemperez.com/home/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h2&gt;
-
-&lt;p&gt;I am a doctoral student in political science with research interests
-in religion, ethics, and American foreign policy. I am also an
-aspiring coffee aficionado, part-time audiophile, and photography
-hobbyist.&lt;/p&gt;
-</description>
+      <description>Biography I am a doctoral candidate in political science with research interests in religion, ethics, and American foreign policy. I am also an aspiring coffee aficionado, part-time audiophile, and photography hobbyist.</description>
     </item>
     
     <item>
@@ -259,25 +102,6 @@ hobbyist.&lt;/p&gt;
       
       <guid>http://lukemperez.com/publication/blindside/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>http://lukemperez.com/home/teaching/</link>
-      <pubDate>Wed, 05 Oct 2016 21:37:33 -0500</pubDate>
-      
-      <guid>http://lukemperez.com/home/teaching/</guid>
-      <description>
-
-&lt;h3 id=&#34;rhe-306-introduction-to-rhetoric-and-writing:416f445d9bade50adf875443b512ceeb&#34;&gt;RHE 306 &amp;ldquo;Introduction to Rhetoric and Writing&amp;rdquo;&lt;/h3&gt;
-
-&lt;p&gt;RHE 306 &amp;ndash; Rhetoric &amp;amp; Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train students&amp;rsquo; abilities analyzing various positions held in public debate and to advocate your own position effectively.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fall 2015&lt;/li&gt;
-&lt;li&gt;Spring 2016&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>

@@ -8,16 +8,17 @@
     <language>en-us</language>
     <copyright>2016 Luke M Perez</copyright>
     <lastBuildDate>Wed, 05 Oct 2016 21:31:48 -0500</lastBuildDate>
-    <atom:link href="http://lukemperez.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://lukemperez.com/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Rhetoric and Writing 306</title>
-      <link>http://lukemperez.com/teaching/RHE_306/</link>
+      <link>http://lukemperez.com/teaching/rhe_306/</link>
       <pubDate>Wed, 05 Oct 2016 21:31:48 -0500</pubDate>
       
-      <guid>http://lukemperez.com/teaching/RHE_306/</guid>
-      <description>&lt;p&gt;RHE 306 &amp;ndash; Rhetoric &amp;amp; Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train your abilities analyzing various positions held in public debate and to advocate your own position effectively. You will learn the ethics of responsible argumentation, fair representation of positions with which you disagree, and responsible representation of your views to audiences with particular values or interests. Your work in this course will help you advance the reading and writing skills necessary for academic and professional success.&lt;/p&gt;
-</description>
+      <guid>http://lukemperez.com/teaching/rhe_306/</guid>
+      <description>RHE 306 &amp;ndash; Rhetoric &amp;amp; Writing is a course in argumentation that situates rhetoric as an art of civic discourse. It is designed to train your abilities analyzing various positions held in public debate and to advocate your own position effectively. You will learn the ethics of responsible argumentation, fair representation of positions with which you disagree, and responsible representation of your views to audiences with particular values or interests. Your work in this course will help you advance the reading and writing skills necessary for academic and professional success.</description>
     </item>
     
   </channel>
