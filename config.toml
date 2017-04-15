@@ -5,13 +5,14 @@ copyright = "2016 Luke M Perez"
 address = "Austin, TX"
 publishdir = "public"
 canonifyurls = "true"
+googleanalytics = "UA-97407722-1"
 
 # basic parameters 
 [params]
     name = "Luke M Perez"
-    role = "Doctoral Student"
+    role = "Doctoral Candidate"
     organization = "University of Texas at Austin"
-    interests = ["International Relations", "National Security", "Just War", "Religion", "Political Philosophy"]
+    interests = ["International Relations", "National Security", "Just War", "Religion", "Political Philosophy","Philosophy of Social Science"]
     qualifications = ["Research Design", "Qualitative Research Methods", "International Relations Theory", "Greek & Latin"]
     email = "lukemperez@utexas.edu"
 
