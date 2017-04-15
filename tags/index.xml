@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Luke M Perez</title>
+    <link>http://lukemperez.com/tags/</link>
+    <description>Recent content in Tags on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016 Luke M Perez</copyright>
+    <lastBuildDate>Mon, 03 Oct 2016 08:30:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://lukemperez.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gtd</title>
+      <link>http://lukemperez.com/tags/gtd/</link>
+      <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/tags/gtd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>http://lukemperez.com/tags/html/</link>
+      <pubDate>Tue, 24 May 2016 17:16:58 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://lukemperez.com/tags/hugo/</link>
+      <pubDate>Tue, 24 May 2016 17:16:58 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Professional Development</title>
+      <link>http://lukemperez.com/tags/professional-development/</link>
+      <pubDate>Tue, 24 May 2016 17:16:58 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/tags/professional-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://lukemperez.com/tags/projects/</link>
+      <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://lukemperez.com/tags/writing/</link>
+      <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
