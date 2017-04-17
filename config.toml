@@ -6,7 +6,7 @@ address = "Austin, TX"
 publishdir = "public"
 canonifyurls = "true"
 googleAnalytics = "UA-97407722-1"
-
+MetaDataFormat = "yaml"
 # basic parameters
 [params]
     name = "Luke M Perez"
