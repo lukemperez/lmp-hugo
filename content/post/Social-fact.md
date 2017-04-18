@@ -1,6 +1,6 @@
 ---
 title: Constructivism and Social Facts
-date: "2013-12-13T19:52-05:00"
+date: "2013-12-13"
 draft: True
 tags: ["Latinos","Social Theory","Constructivism"]
 ---
