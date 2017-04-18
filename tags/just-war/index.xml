@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Just War on Luke M Perez</title>
+    <link>http://lukemperez.com/tags/just-war/</link>
+    <description>Recent content in Just War on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <lastBuildDate>Tue, 03 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lukemperez.com/tags/just-war/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unjustified Destruction: A case from Star Wars</title>
+      <link>http://lukemperez.com/post/alderaan/</link>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukemperez.com/post/alderaan/</guid>
+      <description>The destruction of Alderaan was not Justified Sony Bunch is wrong (this time).</description>
+    </item>
+    
+  </channel>
+</rss>

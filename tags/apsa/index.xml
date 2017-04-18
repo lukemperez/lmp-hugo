@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apsa on Luke M Perez</title>
+    <link>http://lukemperez.com/tags/apsa/</link>
+    <description>Recent content in Apsa on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <lastBuildDate>Tue, 04 Sep 2012 20:13:05 -0500</lastBuildDate>
+    
+	<atom:link href="http://lukemperez.com/tags/apsa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtual APSA</title>
+      <link>http://lukemperez.com/post/virtual-apsa-postscript/</link>
+      <pubDate>Tue, 04 Sep 2012 20:13:05 -0500</pubDate>
+      
+      <guid>http://lukemperez.com/post/virtual-apsa-postscript/</guid>
+      <description>Would a conference by any other name smell as sweet? Last week the American Political Science Association (APSA) cancelled it annual conference which was to be held in New Orleans because of Hurricane/Tropical Storm Isaac. As as result, thousands of faculty, ABD interviewees, and other attendees suddenly had to think about practical implications of a year without the major conference. In their announcement about the cancellation, APSA suggested that all papers uploaded to SSRN (a public database where scholarly papers can be downloaded), would count for purposes of CV inclusion.</description>
+    </item>
+    
+  </channel>
+</rss>

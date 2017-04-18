@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poetry on Luke M Perez</title>
+    <link>http://lukemperez.com/tags/poetry/</link>
+    <description>Recent content in Poetry on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <lastBuildDate>Tue, 08 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lukemperez.com/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Promise to California</title>
+      <link>http://lukemperez.com/post/promise-to-california/</link>
+      <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukemperez.com/post/promise-to-california/</guid>
+      <description>A PROMISE to California,
+Also to the great Pastoral Plains, and for Oregon:
+Sojourning east a while longer, soon I travel toward you, to remain, to teach robust American love;
+For I know very well that I and robust love belong among you, inland, and along the Western Sea;
+For These States tend inland, and toward the Western Sea—and I will also.
+&amp;mdash;Walt Whitman
+ Nice motto for the homeland.</description>
+    </item>
+    
+  </channel>
+</rss>

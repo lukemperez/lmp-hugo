@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Luke M Perez</title>
+    <link>http://lukemperez.com/tags/teaching/</link>
+    <description>Recent content in Teaching on Luke M Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <lastBuildDate>Sat, 31 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://lukemperez.com/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When am I going to use this?</title>
+      <link>http://lukemperez.com/post/when-to-use-this/</link>
+      <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://lukemperez.com/post/when-to-use-this/</guid>
+      <description>When Am I Going to Use This Rebecca Eggenschwiler on the crux of the matter. Students never really ask &amp;ldquo;when am I going to use this?&amp;rdquo; honestly:
+ And the question itself — &amp;ldquo;When am I going to use this?&amp;rdquo; — is nearly always a lie, a front. The asker is not genuinely contemplating the use-value of Material X; rather, he or she is merely announcing the intent to give up.</description>
+    </item>
+    
+  </channel>
+</rss>
