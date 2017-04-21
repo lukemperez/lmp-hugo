@@ -1,117 +1,317 @@
-baseurl = "http://lukemperez.com/"
-languageCode = "en-us"
-title = "Luke M Perez"
-copyright = "&copy; 2017 Luke M Perez"
-address = "Austin, TX"
-publishdir = "public"
-canonifyurls = "true"
+# For Academic
+#
+baseurl = "https://lukemperez.com"
+title = "Luke Matthew Perez"
+copyright = "&copy; 2017 luke m perez"
+theme = "academic"
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+
+# Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-97407722-1"
-MetaDataFormat = "yaml"
-# basic parameters
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[blackfriday]
+  hrefTargetBlank = true
+
 [params]
-    name = "Luke M Perez"
-    # role = "Doctoral Candidate"
-    # organization = "University of Texas at Austin"
-    # interests = ["International Relations", "National Security", "Just War", "Religion", "Political Philosophy","Philosophy of Social Science"]
-    # qualifications = ["Research Design", "Qualitative Research Methods", "International Relations Theory", "Greek & Latin"]
-    subtitle = "Doctoral Candidate"
-    brand = "luke m perez"
-    highlightjs = "androidstudio"
-    email = "lukemperez@utexas.edu"
+  name = "Luke M Perez"
+  role = "Doctoral Candidate"
+  organization = "University of Texas at Austin"
+  organization_url = ""
+  avatar = "portrait.jpg"
+  email = "lukemperez@utexas.edu"
+  address = "Dept. of Government, 158 W 21st ST STOP A1800, Austin, TX 78712--1704"
+  office_hours = "by appointment"
+  phone = "310 367--1348"
+  skype = ""
+  telegram = ""
 
-    #date_format = "Mon, Jan 2, 2006"
-    dateFormat = "Mon, Jan 2 2006"
-    # Enable global LaTeX math rendering? If false, you can enable it locally on a per page basis.
-    math = false
+  # Enable Keybase in Contact section by entering your keybase.io username.
+  keybase = ""
 
-    # Link custom CSS and JS assets (relative to /static/css and /static/js respectively)
-    custom_css = []
-    custom_js  = []
+  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Mon, 2 Jan 2006"
 
-	# [[params.education]]
-	# 	course = "PhD in Government"
-	# 	institution = "University of Texas at Austin"
-	# 	year = "in-progress"
-	# [[params.education]]
-	# 	course = "MA in Political Science"
-	# 	institution = "Villanova University"
-	# 	year = "2011"
+  # Enable global LaTeX math rendering?
+  #   If false, you can enable it locally on a per page basis.
+  math = false
+
+  # Highlight.js options
+  #   highlight
+  #     Enable global source code highlighting?  If false, you can
+  #     override it for a particular page in that page's preamble.
   #
-	# [[params.education]]
-	# 	course = "BA in Greek and Latin, Political Science"
-	# 	institution = "The Ohio State University"
-	# 	year = "2007"
+  #     Example: highlight = true
   #
-	# # Social Media
-	# [[params.social]]
-	# 	icon = "github"
-	# 	icon_pack = "fa"
-	# 	link = "//github.com/lukemperez"
+  #   highlight_languages
+  #     Add support for highlighting additional languages. Support for
+  #     languages mentioned here will be included in all pages. You
+  #     can also set this variable for a particular page in that
+  #     page's preamble.
   #
-	# [[params.social]]
-	# 	icon = "twitter"
-	# 	icon_pack = "fa"
-	# 	link = "//twitter.com/lukemperez"
+  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
+  #
+  #   highlight_style
+  #     Choose a different CSS style for highlighting source
+  #     code. Setting this option in a page's preamble has no
+  #     effect.
+  #
+  #     Example: highlight_style = "github-gist"
+  #
+  #   highlight_version
+  #     Choose the version of highlight.js you want. Setting this
+  #     option in a page's preamble has no effect.
+  #
+  #     Example: highlight_version = "9.9.0"
+  #
+  #   For the list of supported languages, styles, and versions, see:
+  #   https://cdnjs.com/libraries/highlight.js/
+  #
+  #   For more info on the highlighting options, see:
+  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
+  highlight = true
+  highlight_languages = []
+  # highlight_style = "github"
+  # highlight_version = "9.9.0"
+
+  # Enable native social sharing buttons?
+  sharing = true
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  custom_css = []
+  custom_js  = []
+
+  # Publication types.
+  #   Used to categorize publications.
+  #   The index of the publication type in the list is used as its unique numerical identifier.
+  #   The numeric ID is used in a publication's frontmatter to categorize it.
+  #   The language can be edited below.
+  #   For multi-lingual sites, copy this block to each language section at the end of this file.
+  publication_types = [
+    'Uncategorized',  # 0
+    'Conference proceedings',  # 1
+    'Journal',  # 2
+    'Work in progress',  # 3
+    'Technical report',  # 4
+    'Book',  # 5
+    'Book chapter'  # 6
+  ]
+
+  # Social/Academic Networking
+  #
+  # Icon pack "fa" includes the following social network icons:
+  #
+  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
+  #   youtube, instagram, soundcloud
+  #
+  #   For email icon, use "fa" icon pack, "envelope" icon, and
+  #   "mailto:your@email.com" as the link.
+  #
+  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
+  #
+  # Icon pack "ai" includes the following academic network icons:
+  #
+  #   google-scholar, arxiv, orcid, researchgate, mendeley
+  #
+  #   Full list: https://jpswalsh.github.io/academicons/
+
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:test@example.org"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/lukemperez"
+
+  # [[params.social]]
+  #   icon = "google-scholar"
+  #   icon_pack = "ai"
+  #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/lukemperez"
+
 
 # Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 2
+
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
+
+# Taxonomies.
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+
+# Languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
+
+# Configure the English version of the website.
+[languages.en]
+  languageCode = "en-us"
+
+
+# For Blackburn
 #
-# Weight parameters determine order of appearance for links
-[menu]
-   [[menu.main]]
-      name = "Home"
-      pre = "<i class='fa fa-home fa-fw'></i>"
-      weight = 0
-      identifier = "home"
-      url = "/"
-
-  [[menu.main]]
-    name = "About"
-    pre = "<i class= 'fa fa-user fa-fw'></i>"
-    weight = 2
-    identifer = "about"
-    url = "/about/"
-
-# [[menu.main]]
-# 	name = "Publications"
-# 	url = "#publications"
-#   pre = "<i class='fa fa-list fa-fw'></i>"
-# 	weight = 2
+# baseurl = "http://lukemperez.com/"
+# languageCode = "en-us"
+# title = "Luke M Perez"
+# copyright = "&copy; 2017 Luke M Perez"
+# address = "Austin, TX"
+# publishdir = "public"
+# canonifyurls = "true"
+# googleAnalytics = "UA-97407722-1"
+# MetaDataFormat = "yaml"
+# # basic parameters
+# [params]
+#     name = "Luke M Perez"
+#     # role = "Doctoral Candidate"
+#     # organization = "University of Texas at Austin"
+#     # interests = ["International Relations", "National Security", "Just War", "Religion", "Political Philosophy","Philosophy of Social Science"]
+#     # qualifications = ["Research Design", "Qualitative Research Methods", "International Relations Theory", "Greek & Latin"]
+#     subtitle = "Doctoral Candidate"
+#     brand = "luke m perez"
+#     highlightjs = "androidstudio"
+#     email = "lukemperez@utexas.edu"
 #
-  [[menu.main]]
-	   name = "Posts"
-	   weight = 3
-     pre = "<i class= 'fa fa-list fa-fw'></i>"
-     identifier = "post"
-     url = "/post/"
+#     #date_format = "Mon, Jan 2, 2006"
+#     dateFormat = "Mon, Jan 2 2006"
+#     # Enable global LaTeX math rendering? If false, you can enable it locally on a per page basis.
+#     math = false
 #
-  [[menu.main]]
-	  name = "Projects"
-	  #  pre = "<i class= 'fa fa-list fa-fw'></i>"
-    pre = "<i class='fa fa-file-text-o fa-fw'></i>"
-    url = "/projects/"
-	  weight = 4
-
-  [[menu.main]]
-    name = "Teaching"
-    pre = "<i class ='fa fa-university fa-fw'></i>"
-    url = "/teaching/"
-    weight = 5
+#     # Link custom CSS and JS assets (relative to /static/css and /static/js respectively)
+#     custom_css = []
+#     custom_js  = []
 #
-# [[menu.main]]
-# 	name = "Contact"
-# 	url = "#contact"
-# 	weight = 6
-
-[social]
-
-  # SNS microblogging
-  twitter = "lukemperez"
-
-  # photography & leisure
-  instagram = "lukemperez"
-  flickr = "lukemperez"
-  # discogs = "lukemperez"
-
-  # Career
-  linkedin = "lukemperez"
-  github = "lukemperez"
+# 	# [[params.education]]
+# 	# 	course = "PhD in Government"
+# 	# 	institution = "University of Texas at Austin"
+# 	# 	year = "in-progress"
+# 	# [[params.education]]
+# 	# 	course = "MA in Political Science"
+# 	# 	institution = "Villanova University"
+# 	# 	year = "2011"
+#   #
+# 	# [[params.education]]
+# 	# 	course = "BA in Greek and Latin, Political Science"
+# 	# 	institution = "The Ohio State University"
+# 	# 	year = "2007"
+#   #
+# 	# # Social Media
+# 	# [[params.social]]
+# 	# 	icon = "github"
+# 	# 	icon_pack = "fa"
+# 	# 	link = "//github.com/lukemperez"
+#   #
+# 	# [[params.social]]
+# 	# 	icon = "twitter"
+# 	# 	icon_pack = "fa"
+# 	# 	link = "//twitter.com/lukemperez"
+#
+# # Navigation Links
+# #
+# # Weight parameters determine order of appearance for links
+# [menu]
+#    [[menu.main]]
+#       name = "Home"
+#       pre = "<i class='fa fa-home fa-fw'></i>"
+#       weight = 0
+#       identifier = "home"
+#       url = "/"
+#
+#   [[menu.main]]
+#     name = "About"
+#     pre = "<i class= 'fa fa-user fa-fw'></i>"
+#     weight = 2
+#     identifer = "about"
+#     url = "/about/"
+#
+# # [[menu.main]]
+# # 	name = "Publications"
+# # 	url = "#publications"
+# #   pre = "<i class='fa fa-list fa-fw'></i>"
+# # 	weight = 2
+# #
+#   [[menu.main]]
+# 	   name = "Posts"
+# 	   weight = 3
+#      pre = "<i class= 'fa fa-list fa-fw'></i>"
+#      identifier = "post"
+#      url = "/post/"
+# #
+#   [[menu.main]]
+# 	  name = "Projects"
+# 	  #  pre = "<i class= 'fa fa-list fa-fw'></i>"
+#     pre = "<i class='fa fa-file-text-o fa-fw'></i>"
+#     url = "/projects/"
+# 	  weight = 4
+#
+#   [[menu.main]]
+#     name = "Teaching"
+#     pre = "<i class ='fa fa-university fa-fw'></i>"
+#     url = "/teaching/"
+#     weight = 5
+# #
+# # [[menu.main]]
+# # 	name = "Contact"
+# # 	url = "#contact"
+# # 	weight = 6
+#
+# [social]
+#
+#   # SNS microblogging
+#   twitter = "lukemperez"
+#
+#   # photography & leisure
+#   instagram = "lukemperez"
+#   flickr = "lukemperez"
+#   # discogs = "lukemperez"
+#
+#   # Career
+#   linkedin = "lukemperez"
+#   github = "lukemperez"

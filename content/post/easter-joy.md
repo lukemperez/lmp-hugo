@@ -5,11 +5,7 @@ title: "Easter Joy"
 draft: false
 ---
 
-
-{{% fluid_img "/img/post/Nacho_Easter_Running.jpg" %}}
-
-
-The kiddo enjoyed his "first" Easter this weekend---last year he was still an infant.
+![Easter Joy](/img/Nacho_Easter_Running.jpg)
 
 
-<!--more-->
+The kiddo enjoyed his "first" Easter this weekend. At 18 months, he's now self-aware of the fun.
