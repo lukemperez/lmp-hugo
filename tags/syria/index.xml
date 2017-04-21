@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Syria on Luke M Perez</title>
-    <link>http://lukemperez.com/tags/syria/</link>
-    <description>Recent content in Syria on Luke M Perez</description>
+    <title>Syria on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/tags/syria/</link>
+    <description>Recent content in Syria on Luke Matthew Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
     <lastBuildDate>Fri, 13 Nov 2015 21:05:15 -0500</lastBuildDate>
-    
-	<atom:link href="http://lukemperez.com/tags/syria/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/syria/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Blindsided U.S. Foreign Policy?</title>
-      <link>http://lukemperez.com/post/blindside/</link>
+      <link>https://lukemperez.com/2015/11/a-blindsided-u.s.-foreign-policy/</link>
       <pubDate>Fri, 13 Nov 2015 21:05:15 -0500</pubDate>
       
-      <guid>http://lukemperez.com/post/blindside/</guid>
-      <description>Blindside&amp;mdash;U.S. Foreign Policy My post is up at Real Clear Defense. Close watching required: this issue isn&amp;rsquo;t going to go away any time soon.</description>
+      <guid>https://lukemperez.com/2015/11/a-blindsided-u.s.-foreign-policy/</guid>
+      <description>
+
+&lt;h1 id=&#34;blindside-u-s-foreign-policy-http-www-realcleardefense-com-articles-2015-10-13-blindside-us-foreign-policy-108572-html&#34;&gt;&lt;a href=&#34;http://www.realcleardefense.com/articles/2015/10/13/blindside_-_us_foreign_policy_108572.html&#34; target=&#34;_blank&#34;&gt;Blindside&amp;mdash;U.S. Foreign Policy&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;My post is up at Real Clear Defense. Close watching required: this issue isn&amp;rsquo;t going to go away any time soon.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

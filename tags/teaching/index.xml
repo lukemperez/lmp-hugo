@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching on Luke M Perez</title>
-    <link>http://lukemperez.com/tags/teaching/</link>
-    <description>Recent content in Teaching on Luke M Perez</description>
+    <title>Teaching on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/tags/teaching/</link>
+    <description>Recent content in Teaching on Luke Matthew Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
     <lastBuildDate>Sat, 31 Oct 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://lukemperez.com/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/teaching/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>When am I going to use this?</title>
-      <link>http://lukemperez.com/post/when-to-use-this/</link>
+      <link>https://lukemperez.com/2015/10/when-am-i-going-to-use-this/</link>
       <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://lukemperez.com/post/when-to-use-this/</guid>
-      <description>When Am I Going to Use This Rebecca Eggenschwiler on the crux of the matter. Students never really ask &amp;ldquo;when am I going to use this?&amp;rdquo; honestly:
- And the question itself — &amp;ldquo;When am I going to use this?&amp;rdquo; — is nearly always a lie, a front. The asker is not genuinely contemplating the use-value of Material X; rather, he or she is merely announcing the intent to give up.</description>
+      <guid>https://lukemperez.com/2015/10/when-am-i-going-to-use-this/</guid>
+      <description>
+
+&lt;h1 id=&#34;when-am-i-going-to-use-this&#34;&gt;When Am I Going to Use This&lt;/h1&gt;
+
+&lt;p&gt;Rebecca Eggenschwiler on the crux of the matter. Students never really ask &amp;ldquo;when am I going to use this?&amp;rdquo; honestly:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;And the question itself — &amp;ldquo;When am I going to use this?&amp;rdquo; — is nearly always a lie, a front. The asker is not genuinely contemplating the use-value of Material X; rather, he or she is merely announcing the intent to give up.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s important that as educators we recognize what&amp;rsquo;s really at stake when asked this question by anyone. If we value our product, i.e., that &amp;ldquo;thing,&amp;rdquo; which we are teaching then we must be ready to defend it&amp;rsquo;s value, &lt;em&gt;for its own sake&lt;/em&gt;. Full article at the &lt;a href=&#34;http://chronicle.com/article/Putting-an-End-to-When-Am-I/233901&#34; target=&#34;_blank&#34;&gt;Chronicle&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Just War on Luke M Perez</title>
-    <link>http://lukemperez.com/tags/just-war/</link>
-    <description>Recent content in Just War on Luke M Perez</description>
+    <title>Just War on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/tags/just-war/</link>
+    <description>Recent content in Just War on Luke Matthew Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
     <lastBuildDate>Tue, 03 Nov 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://lukemperez.com/tags/just-war/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/just-war/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unjustified Destruction: A case from Star Wars</title>
-      <link>http://lukemperez.com/post/alderaan/</link>
+      <link>https://lukemperez.com/2015/11/unjustified-destruction-a-case-from-star-wars/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://lukemperez.com/post/alderaan/</guid>
-      <description>The destruction of Alderaan was not Justified Sony Bunch is wrong (this time).</description>
+      <guid>https://lukemperez.com/2015/11/unjustified-destruction-a-case-from-star-wars/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-destruction-of-alderaan-was-not-justified-http-duckofminerva-com-2015-11-the-destruction-of-alderaan-was-not-justified-html&#34;&gt;&lt;a href=&#34;http://duckofminerva.com/2015/11/the-destruction-of-alderaan-was-not-justified.html&#34; target=&#34;_blank&#34;&gt;The destruction of Alderaan was &lt;em&gt;not&lt;/em&gt; Justified&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;Sony Bunch is wrong (this time).&lt;/p&gt;
+</description>
     </item>
     
   </channel>

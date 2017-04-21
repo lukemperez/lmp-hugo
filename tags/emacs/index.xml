@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emacs on Luke M Perez</title>
-    <link>http://lukemperez.com/tags/emacs/</link>
-    <description>Recent content in Emacs on Luke M Perez</description>
+    <title>Emacs on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/tags/emacs/</link>
+    <description>Recent content in Emacs on Luke Matthew Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
     <lastBuildDate>Sun, 20 Nov 2016 11:51:12 -0500</lastBuildDate>
-    
-	<atom:link href="http://lukemperez.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/emacs/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dot Emacs</title>
-      <link>http://lukemperez.com/post/dot-emacs/</link>
+      <link>https://lukemperez.com/2016/11/dot-emacs/</link>
       <pubDate>Sun, 20 Nov 2016 11:51:12 -0500</pubDate>
       
-      <guid>http://lukemperez.com/post/dot-emacs/</guid>
-      <description>My 2010 Macbook Pro finally died. I was hoping to get one more year so I could finish the PhD on the same machine I began it with, but alas. While setting up my new machine, I realized how much I benefited from having my .emacs file on GitHub. So here&amp;rsquo;s a link in case anyone finds it helpful. A note of caution that it is a work-in-progress and some of the features are not fully active (like RefTeX) but I&amp;rsquo;ve been too busy with the dissertation to fix it.</description>
+      <guid>https://lukemperez.com/2016/11/dot-emacs/</guid>
+      <description>&lt;p&gt;My 2010 Macbook Pro finally died. I was hoping to get one more year so I could finish the PhD on the same machine I began it with, but alas. While setting up my new machine, I realized how much I benefited from having my &lt;code&gt;.emacs&lt;/code&gt; file on GitHub. So here&amp;rsquo;s a &lt;a href=&#34;https://github.com/lukemperez/.emacs&#34; target=&#34;_blank&#34;&gt;link in case anyone finds it helpful&lt;/a&gt;. A note of caution that it is a work-in-progress and some of the features are not fully active (like RefTeX) but I&amp;rsquo;ve been too busy with the dissertation to fix it.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

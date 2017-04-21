@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Html on Luke M Perez</title>
-    <link>http://lukemperez.com/tags/html/</link>
-    <description>Recent content in Html on Luke M Perez</description>
+    <title>Html on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/tags/html/</link>
+    <description>Recent content in Html on Luke Matthew Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
     <lastBuildDate>Tue, 24 May 2016 17:16:58 -0500</lastBuildDate>
-    
-	<atom:link href="http://lukemperez.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/html/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://lukemperez.com/post/hello-hugo/</link>
+      <link>https://lukemperez.com/2016/05/hello-hugo/</link>
       <pubDate>Tue, 24 May 2016 17:16:58 -0500</pubDate>
       
-      <guid>http://lukemperez.com/post/hello-hugo/</guid>
+      <guid>https://lukemperez.com/2016/05/hello-hugo/</guid>
       <description>&lt;h1 id=&#34;farewell-squarespace&#34;&gt;Farewell Squarespace&lt;/h1&gt;
 
-&lt;p&gt;I&amp;rsquo;ve hosted my webpage on &lt;a href=&#34;https://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt; since sometime in my second
+&lt;p&gt;I&amp;rsquo;ve hosted my webpage on &lt;a href=&#34;https://www.squarespace.com&#34; target=&#34;_blank&#34;&gt;Squarespace&lt;/a&gt; since sometime in my second
 year at UT Austin. After several years on the platform, I have nothing
-but praise for the folks at &lt;a href=&#34;https://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt;: their reputation for
+but praise for the folks at &lt;a href=&#34;https://www.squarespace.com&#34; target=&#34;_blank&#34;&gt;Squarespace&lt;/a&gt;: their reputation for
 up-time, customer service, and all around technical bad-assery is well
 deserved. If you&amp;rsquo;re looking for a web-hosting/web-design company
 wherein you can build a beautiful looking site &lt;em&gt;without&lt;/em&gt; knowing &lt;em&gt;any&lt;/em&gt;
@@ -30,7 +28,124 @@ HTML, CSS, or anything of that stuff&amp;mdash;and I do mean it: without
 any&amp;mdash;then you cannot go wrong with a Squarespace site. But for me,
 the time has come to say goodbye.&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Why leave? If I&amp;rsquo;ve been so happy with Squarespace why make the fuss? I
+could list a lot of reasons ranging from technical curiosity to summer
+boredom or whatever. But really it comes down to handful of several
+small but significant reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Blog as text files (esp. in Markdown)&lt;/li&gt;
+&lt;li&gt;Needs of modern academics (syntax highlighting, e.g.)&lt;/li&gt;
+&lt;li&gt;Cost of hosting (esp. for a graduate student)&lt;/li&gt;
+&lt;li&gt;Reproducability&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;blogging-as-public-scholarship&#34;&gt;Blogging as public scholarship&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;d love to blog, er, post more &amp;ldquo;note&amp;rdquo; on teaching and learning (i.e.,
+scholarship) but Squarespace requires new posts come from within the
+browser. Sure, I could open Safari, go to my blog, click on new
+content, write a new post, and push it to website with a simplicity
+that only reinforces everything I&amp;rsquo;ve said above about why
+non-programming professionals should take a serious look at the
+platform. But Squarespace is a closed system. I couldn&amp;rsquo;t even export
+my content from their blog except into a Wordpress XML format. Which
+raises an interesting question why they make support for Markdown in
+the first place, since the whole point of Markdown, as I understand
+it, is to have human readable plain text files that can be converted
+into HTML when needed.&lt;/p&gt;
+
+&lt;h2 id=&#34;modern-academic&#34;&gt;Modern Academic&lt;/h2&gt;
+
+&lt;p&gt;Related to the first item is the need to integrate other tools of
+modern researchers. Whether it is linking to a &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; repo or
+conceptualizing blog posts as markdown files, working with a variety
+of open source tools have become every more integrated into the
+workflow of good scholarship. And although Squarespace can do some of
+those things, it is now much easier for me to work in an ecosystem of
+open, rather than closed systems.&lt;/p&gt;
+
+&lt;p&gt;But I need a few things that are not easy to do on their blogging
+module. First, as I begin to use R, Python, and other such programming
+tools, I need a way to work on a file in Markdown using code blocks to
+show my work and then easily convert that &lt;a href=&#34;http://plain-text.co/&#34; target=&#34;_blank&#34;&gt;plain-text&lt;/a&gt; file into
+HTML, PDF, or LaTeX as my needs require. Such a workflow is possible
+using MS Word, Squarespace, and other tools, but they are not the ones
+I use. (I&amp;rsquo;ve not &lt;strong&gt;installed&lt;/strong&gt; Microsoft Word on any computer I&amp;rsquo;ve
+owned since 2009 or so.)&lt;/p&gt;
+
+&lt;h2 id=&#34;costs-of-hosting&#34;&gt;Costs of hosting&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s face it, graduate students make little to nothing. Every dollar
+counts. When I started graduate school, I saw paying for my domain
+name as a &lt;em&gt;sine qua non&lt;/em&gt; of a good online presence. But I thought I
+could &amp;ldquo;roll my own&amp;rdquo; and avoid paying a monthly hosting fee. I had
+tinkered with using &lt;a href=&#34;https://www.tumblr.com/&#34; target=&#34;_blank&#34;&gt;Tumblr&lt;/a&gt; and &lt;a href=&#34;https://wordpress.com/&#34; target=&#34;_blank&#34;&gt;Wordpress&lt;/a&gt; but found mixed
+results: namely, although the hosting was free and the url could be
+custom, the layout was garbage for professional engagement. Eventually
+I realized that quality can&amp;rsquo;t faked. I needed a professional looking
+site. Squarespace delivered.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s changed is that (a) my technical skills are much better than
+they were a few years ago and (b) free static hosting on
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;. Now I can load an entire website to a &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; repo
+(short for &amp;ldquo;repository&amp;rdquo; if you&amp;rsquo;re not familiar), work a few settings,
+and host a website though GitHub. The only catch is that the webpages
+must be static rather than dynamic. The difference between the two is
+not really a topic for today, but the short of it is that each has
+their advantages. Every job needs different tools.&lt;/p&gt;
+
+&lt;p&gt;Anyway, the ease of which I can manage my website without paying a
+monthly fee was enough to finally push me to fill in a few gaps in my
+knowledge of website development.&lt;/p&gt;
+
+&lt;h2 id=&#34;replicate-research-replicate-blogging-replicate-anything&#34;&gt;Replicate research, replicate blogging, replicate anything&lt;/h2&gt;
+
+&lt;p&gt;I already mentioned this above:
+&lt;a href=&#34;https://support.squarespace.com/hc/en-us/articles/205814028-Importing-and-exporting-content&#34; target=&#34;_blank&#34;&gt;exporting on Squarespace&lt;/a&gt;
+is not easy. I&amp;rsquo;m still not sure at the time of this drafting if I&amp;rsquo;ll
+even get my old blog over. Not that it matters since the friction to
+getting a post online kept many a thought, good and bad, from seeing
+the digital light of day. Still, it&amp;rsquo;s worth repeating: modern scholars
+must be able to reproduce their work. If I can&amp;rsquo;t literally email a
+plain text file of my blog post, journal article, or whatever to a
+colleague for his or her approval, I&amp;rsquo;m not doing my job right. And
+having multiple of versions of the same document in different formats
+(HTML, .MD, etc.) only increases the likelihood that at some point one
+file will become out of sync with the others being edited. Much easier
+to simply version control with git, and push the same file, always in
+sync, wherever it needs to go.&lt;/p&gt;
+
+&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h1&gt;
+
+&lt;p&gt;So I finally bit the bullet and rebuilt the site as a static webpage
+using &lt;a href=&#34;gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; and some thoughts from
+&lt;a href=&#34;https://kieranhealy.org/blog/archives/2014/02/24/powered-by-hugo/&#34; target=&#34;_blank&#34;&gt;Kieran Healy&amp;rsquo;s post about using Hugo&lt;/a&gt;.
+I read repeatedly that the process was fast, but I was still surprised
+about how fast. Troubleshooting some terminal issues and downloading
+Hugo took more time than it did to port my major content into Hugo&amp;rsquo;s
+structure. Now I have a mostly hand-built site that relies on me, my
+GitHub, and some off the shelf tools.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll spare you the overview of command to build a site. If you&amp;rsquo;re
+reading this and interested in trying it, I suggest reading the docs
+at &lt;a href=&#34;gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;. They will certainly be updated by the time that anyone
+comes across this post anyway, so there&amp;rsquo;s no need to date my work with
+a workflow that will be largely out of date soon anyway.&lt;/p&gt;
+
+&lt;p&gt;I do recommend, however, spending some time thinking about what themes
+for webpage layouts you like best. A lot of folks mistaken conclude
+they must build every last piece of code on their websites for it to
+really look &amp;ldquo;right&amp;rdquo; or for them to say with confidence they have HTML
+skills on their CVs and Resumes. But if you think of website themes, which are
+built on CSS, as the webpage equivalent to a LaTeX documentclass or
+&lt;code&gt;.sty&lt;/code&gt; file, you&amp;rsquo;ll realize there isn&amp;rsquo;t much difference between the
+two and, more importantly, no need to completely re-invent the wheel.&lt;/p&gt;
+
+&lt;p&gt;So three cheers to Squarespace for getting me this far and three more
+for &lt;a href=&#34;gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; and &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
   </channel>

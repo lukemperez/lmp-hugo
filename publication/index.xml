@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/publication/</link>
+    <description>Recent content in Publications on Luke Matthew Perez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
+    <lastBuildDate>Fri, 21 Apr 2017 09:13:49 -0500</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Irony of Technological War</title>
+      <link>https://lukemperez.com/publication/niebuhr_2015/</link>
+      <pubDate>Fri, 21 Apr 2017 09:13:49 -0500</pubDate>
+      
+      <guid>https://lukemperez.com/publication/niebuhr_2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

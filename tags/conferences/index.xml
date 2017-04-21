@@ -1,35 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conferences on Luke M Perez</title>
-    <link>http://lukemperez.com/tags/conferences/</link>
-    <description>Recent content in Conferences on Luke M Perez</description>
+    <title>Conferences on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/tags/conferences/</link>
+    <description>Recent content in Conferences on Luke Matthew Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
     <lastBuildDate>Fri, 14 Apr 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://lukemperez.com/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/conferences/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>MPSA 2017</title>
-      <link>http://lukemperez.com/post/mpsa_2017/</link>
+      <link>https://lukemperez.com/2017/04/mpsa-2017/</link>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://lukemperez.com/post/mpsa_2017/</guid>
-      <description>&lt;h1 id=&#34;midwest-post-mortem&#34;&gt;Midwest post-mortem&lt;/h1&gt;
+      <guid>https://lukemperez.com/2017/04/mpsa-2017/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://lukemperez.com/img/seminary-coop.jpg&#34; alt=&#34;Seminary Coop&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Last week I attended the Midwest Political Science Association annual conference in Chicago. AS conferences go, I was pleased with the event and the payoff was well worth the time and energy it cost to attend. &lt;/p&gt;</description>
+&lt;h1 id=&#34;midwest-post-mortem&#34;&gt;Midwest post-mortem&lt;/h1&gt;
+
+&lt;p&gt;Last week I attended the Midwest Political Science Association annual conference in Chicago. AS conferences go, I was pleased with the event and the payoff was well worth the time and energy it cost to attend. &lt;/p&gt;
+
+&lt;h2 id=&#34;jss&#34;&gt;&amp;ldquo;JSS&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;This year, the organizers placed my paper in the &lt;em&gt;Junior Scholar Symposium&lt;/em&gt; (JSS), which is not an actual paper presentation but a round-table seminar. Each presenter is obligated to read the papers of everyone else and prepare feedback. Also, rather than a chair and discussant, two discussants are assigned who are senior scholars in the field. My paper, &amp;ldquo;For (God and) Country&amp;rdquo;, examines the rise of international religious freedom as an objective of U.S. foreign policy. What I presented was essentially a truncated and distilled version of what is my dissertation. I argue that international religious freedom has long been an integral component to American grand strategy throughout the 20th century. I couldn&amp;rsquo;t be more pleased with the process. Our senior discussants were terrific and, at least for me, provided feedback that will help make this project more analytically rigorous than it would otherwise be. Feedback at early stages of projects can often be more helpful because &lt;a href=&#34;https://vimeo.com/5895898&#34; target=&#34;_blank&#34;&gt;thrashing at early stages is easy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Many thanks to my colleagues who participated:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Soumi Chatterjee, UCLA&lt;/li&gt;
+&lt;li&gt;Brittnay L. Wood, WSU&lt;/li&gt;
+&lt;li&gt;Fernanda B. Almedia, WSU&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Discussants:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Christopher, F. Gelpi, Ohio State&lt;/li&gt;
+&lt;li&gt;Vinicius R. Vieria, Princeton&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;latino-caucus-networking&#34;&gt;Latino Caucus &amp;amp; Networking&lt;/h2&gt;
+
+&lt;p&gt;Some years ago, I applied for a travel grant for Latino scholars. I wanted to go to Rome and hit some archives on Augustine for my master&amp;rsquo;s thesis at &lt;a href=&#34;http://www1.villanova.edu/villanova/artsci/psc.html&#34; target=&#34;_blank&#34;&gt;Villanova&lt;/a&gt;. What I didn&amp;rsquo;t know was that the Latino Caucus exists primarily to help promote scholarship on Latino politics&amp;mdash;but that didn&amp;rsquo;t stop them from funding part of my airfare. And although my work has never fit with the prevailing interests of the Caucus, I have nevertheless been thankful for their support over the years. So I do my best to pay it forward, and in doing so I have made a number of acquaintances and friendships over the years. This year was no exception. I met &lt;a href=&#34;http://www.lsu.edu/hss/polisci/graduate_students/graduate_students/vitelag.php&#34; target=&#34;_blank&#34;&gt;Gaby Vitela&lt;/a&gt;, who is doing some interesting work on campaign finance in her dissertation. On Saturday, we attempted to hit up a joint that does Pizza Pot Pies but when we arrived to learn that the wait was 2+ hours, we called an audible. Still, the afternoon let us commiserate with a former classmate of hers and talk all things job market (this fall!).&lt;/p&gt;
+
+&lt;h2 id=&#34;seminary-co-op&#34;&gt;Seminary Co-Op&lt;/h2&gt;
+
+&lt;p&gt;So much could be said about this wonderful gem. I never made it to the original bookstore, but I wanted to see it, finally. It&amp;rsquo;s beautiful: one could get lost in wonderful collection of literature, philosophy, and social science collections. It&amp;rsquo;s a masterpiece.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Virtual APSA</title>
-      <link>http://lukemperez.com/post/virtual-apsa-postscript/</link>
+      <link>https://lukemperez.com/2012/09/virtual-apsa/</link>
       <pubDate>Tue, 04 Sep 2012 20:13:05 -0500</pubDate>
       
-      <guid>http://lukemperez.com/post/virtual-apsa-postscript/</guid>
-      <description>Would a conference by any other name smell as sweet? Last week the American Political Science Association (APSA) cancelled it annual conference which was to be held in New Orleans because of Hurricane/Tropical Storm Isaac. As as result, thousands of faculty, ABD interviewees, and other attendees suddenly had to think about practical implications of a year without the major conference. In their announcement about the cancellation, APSA suggested that all papers uploaded to SSRN (a public database where scholarly papers can be downloaded), would count for purposes of CV inclusion.</description>
+      <guid>https://lukemperez.com/2012/09/virtual-apsa/</guid>
+      <description>
+
+&lt;h1 id=&#34;would-a-conference-by-any-other-name-smell-as-sweet&#34;&gt;Would a conference by any other name smell as sweet?&lt;/h1&gt;
+
+&lt;p&gt;Last week the American Political Science Association (APSA) cancelled it annual conference which was to be held in New Orleans because of Hurricane/Tropical Storm Isaac.  As as result, thousands of faculty, ABD interviewees, and other attendees suddenly had to think about practical implications of a year without the major conference. In their announcement about the cancellation, APSA suggested that all papers uploaded to &lt;a href=&#34;http://www.ssrn.com/&#34; target=&#34;_blank&#34;&gt;SSRN&lt;/a&gt; (a public database where scholarly papers can be downloaded), would count for purposes of CV inclusion. This announcement caused Jacob Levy to remark on twitter, &lt;a href=&#34;https://twitter.com/jtlevy/status/241657580726935552&#34; target=&#34;_blank&#34;&gt;‘count to whom?’&lt;/a&gt;&amp;mdash;and with good reason. The norms of peer review and conference paper presentation, while not codified in law, typically require that a paper is, well, actually presented.&lt;/p&gt;
+
+&lt;p&gt;As it became clear that conference was not going to happen, political science faculty and grad students who are active on twitter began talking about “#virtualAPSA2012” (tweeting comments with that hash tag for others to find our comments and interact in the discussion) as one possible way to address the issues created by the cancellation of APSA. Dan Nexon, who blogs at Duck of Minerva and I were uncoordinated in our efforts but effectively were promoting the same idea: use the Web 2.0 technologies to give individual presentations or hold cancelled panels on Google+ Hangout and broadcast the discussion live with links to the video afterward. The idea was that by using emergent technologies we could replicate to some degree one of the major benefits of presenting at a conference: a public presentation of one’s paper, comments and feedback from other panelists and attendees, and a long term record of what occurred. Eventually, Phil Arena posted audio of his presentation with slides. He was followed by a video from Robert Farley, and again by Jane E. Fountain, who chaired her originally scheduled panel (albeit with a few missing presenters who couldn’t make it). I scheduled and ‘chaired’ an ad hoc panel with Robert Oprisko of Butler and William Winecoff of UNC. (Links to these and other virtual APSA events &lt;a href=&#34;http://www.lukemperez.com/virtualapsa2012&#34; target=&#34;_blank&#34;&gt;can be found here&lt;/a&gt;&amp;mdash;disclosure: this is a page on my personal site that I am hosting until APSA goes live with a page that will include both the ‘events’ already listed but also allow political science departments to list mini-APSA conferences that took place over the weekend and are still ongoing.)&lt;/p&gt;
+
+&lt;p&gt;The interesting thing isn’t that the handful of scholars actually pulled off an ad hoc mini conference via the web, nor even that APSA took note and is building an official site for it. What is truly interesting, and worth consideration, are the long term implications that Web 2.0 is having, and will have, on scholarly discourse. In other words, the events of #virtualAPSA2012 hint at ways in which Web 2.0 will introduce change into the academy.&lt;/p&gt;
+
+&lt;p&gt;I spoke with Phil Arena and Dan Nexon over email and their share my skepticism that events like virtual APSA will supplant the major conference. One of the greatest benefits to conferencing isn’t so much the presentation of individual papers but the larger networking and informal conversations that take place between panels. There are many reasons why virtual conferences and presentations are not going to become the norm. The obvious one is scale. I don’t have the numbers, but APSA gets thousands of attendees, perhaps tens of thousands. The participants in #virtualAPSA2012 measure in the dozens; and even if we include the mini-conferences held over the weekend and into this week, those combined numbers pale in comparison to the numbers who would have attended APSA.&lt;/p&gt;
+
+&lt;p&gt;But where virtual APSA was small, it was influential and more engaging. The intimacy of Web 2.0 helps scholars overcome the challenge of accessibility. Arena commented that “[perhaps] this is just because of the highly technical nature of my work, but I find it very difficult to get people to engage my arguments in any depth.” He extends this skepticism to the virtual conference, noting that viewership of a virtual panel or presentation is likely going to be from the very same people who will attend a panel in person. As a result, he thinks that social media outlets are likely not going to increase or enhance dialogue because in each case, the conversation is between the select group of scholars who are already familiar with the work. Although this observation seems accurate, it isn’t hard to see how a virtual presentation implies potential changes for the norms of the academy. Video and audio presentations will exist as long as the internet does. Like regular conference presentations, web presentations are limited to the highlights of a specific paper: the thesis, the data, and the conclusions. In a way, they are similar to abstracts for published papers. Unlike abstracts, they are records of papers yet to be published, if at all. And unlike conference presentations, they can be viewed again and again long after the conference took place. Archived presentations will offer scholars to point to truncated versions of their larger research agendas. Future researchers will be able to track the development of a project, inquire why a project was modified and abandoned, and may be able to revise previously discarded projects as new data or methods become available.&lt;/p&gt;
+
+&lt;p&gt;The long term value of new social media technologies goes beyond being able to hold an ad hoc conversations when a conference is cancelled because of &lt;a href=&#34;http://eoimages.gsfc.nasa.gov/images/imagerecords/79000/79008/isaac_tmo_2012241_lrg.jpg&#34; target=&#34;_blank&#34;&gt;a little rain&lt;/a&gt;. In the long view, Web 2.0 will eventually have a profound impact on scholarship because of the ease at which we will hold hold mini-conferences, present early drafts of their paper, or hold informal discussions between them and others engaged in like research. There is also no requirement that these be publicly broadcast if some choose to have private chats (instead of email), but the real utility will be in public video. Consider the potential in posting a video with the slides of a specific paper a week or two before a conference. Skeptics may argue that doing so will depress attendance of a specific panel because there is no longer the incentive to attend in person. And yet, on the other hand, presentations that provoke ideas and interest of others may increase attendance if those within a particular subfield want to engage the author in person. These and other technologies, if used well, will help enhance the fruitfulness of conferences by shaping the scope and depth of the conversations before a conference even begins.&lt;/p&gt;
+
+&lt;p&gt;These changes are not with out their challenges. Chief among them is quality control. Since anyone can write a blog or get a twitter account, there are very little control mechanisms compared to the peer review process of submitting a paper to a journal or even presenting at a conference. How then is the academy going to evaluate good research and discard bad? One suggestion is to view the order of peer review as reversed: rather than submit a paper to be evaluated, with the conclusion that published papers have met some threshold of quality, researchers may simply publish to the web and be evaluated after. This arrangement suggests that not the rank and influence of a publication itself but the quantity and quality of citations will become the ultimate arbiter of a specific paper or research agenda. This suggestion means more work for academics as the workload of review will become dispersed throughout an entire discipline or subfield; but it also implies more opportunity for new work to influence particular fields because good work will travel more quickly throughout the personal networks of scholars as they talk and discuss about what they have been reading. Another challenge worth consideration is the way in which we scholars will record and track publications on CVs and other archives. Certainly it would be both problematic and counter productive to list every blog post on one’s CV. But since academics have already begun citing webpages and articles in their research (as evidenced by the changes in academic style manuals to account for the practice), at some point influential blog posts, podcasts, and other digital publications will need to be refereed or otherwise evaluated as worthy both to include on the CV and considered when making hiring, tenure, and promotion decisions.&lt;/p&gt;
+
+&lt;p&gt;Even though young academics and other advocates of Web 2.0 technologies are prone to claim that technology is revolutionizing the academy, such claims overstate the case. Instead, they will introduce incremental change that solves problems with coordinating research while introducing new challenges to be solved. The academy, like most institutions, is slow to adopt change; but this is not a criticism. Part of the reason institutions do, and the real benefit, is that slow adaptation allows those within a profession time to adapt and integrate new tools into their work. Best practices have time to be evaluated, revised and discarded as needed in order to accommodate the norms within research traditions. Change, then, is best seen as an organic process. The events of #virtualAPSA2012 were, on the whole, minor in the grand scope of the academy, but they do hint at possibilities to come.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

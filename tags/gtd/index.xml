@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gtd on Luke M Perez</title>
-    <link>http://lukemperez.com/tags/gtd/</link>
-    <description>Recent content in Gtd on Luke M Perez</description>
+    <title>Gtd on Luke Matthew Perez</title>
+    <link>https://lukemperez.com/tags/gtd/</link>
+    <description>Recent content in Gtd on Luke Matthew Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Luke M Perez</copyright>
+    <copyright>&amp;copy; 2017 luke m perez</copyright>
     <lastBuildDate>Mon, 03 Oct 2016 08:30:00 -0500</lastBuildDate>
-    
-	<atom:link href="http://lukemperez.com/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/gtd/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Close the loops</title>
-      <link>http://lukemperez.com/post/close-loops/</link>
+      <link>https://lukemperez.com/2016/10/close-loops/</link>
       <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
       
-      <guid>http://lukemperez.com/post/close-loops/</guid>
-      <description>Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop afforded me the opportunity to reflect on the principles of productivity that I&amp;rsquo;ve learned over the years. Despite claims to the contrary, both from within and without, the academe is not unlike many other professions: it a profession fundamentally about knowledge work but with functionally infinite demands on otherwise scarce time and attention.</description>
+      <guid>https://lukemperez.com/2016/10/close-loops/</guid>
+      <description>&lt;p&gt;Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop afforded me the opportunity to reflect on the principles of productivity that I&amp;rsquo;ve learned over the years. Despite claims to the contrary, both from within and without, the academe is not unlike many other professions: it a profession fundamentally about knowledge work but with functionally infinite demands on otherwise scarce time and attention. For graduate students in particular, productivity wastes are especially pernicious because they are so deceptive.&lt;/p&gt;
+
+&lt;p&gt;This problem arises from a basic failure to see project
+management as anxiety management. Uncompleted tasks and to-do lists, or worse, half-hearted to-do lists, create a cognitive load on the mind that destroys the ability to concentrate and get into what Cal Newport calls &lt;em&gt;deep work&lt;/em&gt;. This isn&amp;rsquo;t the right space to outline the basics of GTD or any task management system; but whatever system one uses will work better if we realize the end goal is to free up the mental bandwidth to concentrate more deeply and more frequently to do the work that matters to us most.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/lukemperez/Project-Mgt-Short-Course&#34; target=&#34;_blank&#34;&gt;Links to my files for my part of the workshop are here.&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
