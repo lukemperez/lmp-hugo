@@ -26,7 +26,7 @@ defaultContentLanguageInSubdir = false
   name = "Luke M Perez"
   role = "Doctoral Candidate"
   organization = "University of Texas at Austin"
-  organization_url = ""
+  organization_url = "https://liberalarts.utexas.edu/government/"
   avatar = "portrait.jpg"
   email = "lukemperez@utexas.edu"
   address = "Dept. of Government, 158 W 21st ST STOP A1800, Austin, TX 78712--1704"
@@ -148,6 +148,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/lukemperez"
 
+  [[params.social]]
+    icon = "instagram"
+    icon-pack = "fa"
+    link = "//instagram.com/lukemperez"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
