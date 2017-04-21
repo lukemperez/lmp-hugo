@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -107,7 +107,9 @@ defaultContentLanguageInSubdir = false
     'Book',  # 5
     'Book chapter'  # 6
   ]
-
+# Permalinks
+[permalinks]
+  post = "/:year/:month/:slug"
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
@@ -159,7 +161,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
