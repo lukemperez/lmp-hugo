@@ -3,7 +3,7 @@
 baseurl = "https://lukemperez.com"
 title = "Luke Matthew Perez"
 copyright = "&copy; 2017 luke m perez"
-theme = "academic"
+# theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
@@ -191,7 +191,7 @@ defaultContentLanguageInSubdir = false
 [taxonomies]
   tag = "tags"
   category = "categories"
-  publication_type = "publication_types"
+  # publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
