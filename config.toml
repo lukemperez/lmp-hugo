@@ -1,322 +1,246 @@
-# For Academic
-#
-baseurl = "https://lukemperez.com"
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "https://www.lukemperez.com"
 title = "Luke Matthew Perez"
-copyright = "&copy; 2017 luke m perez"
-# theme = "academic"
+copyright = "&copy; 20017 lukemperez"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
+DefaultContentLanguage = "en"
+
+showRightSidebar = true
+
+# If you want all of the languages to be put below their
+# respective language code, enable DefaultContentLanguageInSubdir = true.
+# Without enabling it english content will be in the root and other languages
+# in their respective subfolder such as /sv/.
+# See [Languages] settings at the end of this file.
+
+# Language
+languageCode = "en"
+
+# SES friendly url:s
+canonifyurls = true
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-97407722-1"
 
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "yaml"
 
-[blackfriday]
-  hrefTargetBlank = true
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hugo-bootstrap-premium"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = ""
+
+[permalinks]
+    post = "/:year/:month/:day/:filename/"
+    code = "/:filename/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[author]
+    name = "yourname"
+    email = "yourname@example.com"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+
+# bootswatch theme name, unmark and select one: cerulean, cosmo, cyborg, darkly,
+# default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
+# slate, spacelab, superhero, united, yeti.
+
+[params.theme]
+  name = "simplex"
+
+# [params.popover]
+#   # This is a highly configurable popover form.
+#   enablepopover = false #enable or disable popover: true/false.
+#   posturl = "https://zapier.com/hooks/..."
+#   headerimage = "//placehold.it/1000x600"
+#   expirecookie = 5 #show it again after number of days to visitor that has not subscribed.
+#   cookiename = "mycookie1" #give the cookie a unique name variable (avoid spaces and strange characters).
+#   signupheader = "Join Our Newsletter"
+#   showmodaltimeout = 10000 #show popover modal after time interval in milliseconds.
+#   mouseleave = true #show popover when mouse leaves window: true/false.
+#   modalsize = "" #lg or sm. Empty is md. If phone is detected lg is used.
+#   imagedescription = "Placeholder image for this popover modal optin form"
+#   signuptext = "Signup today for free and be the first to get notified on new updates."
+#   inputplaceholder = "Enter your email"
+#   submitbutton = "Subscribe"
+#   successmessage = "Thanks for your subscription!"
+#   errormessage = "Submitting form failed!"
+#   optin = true #opt-in: true/false
 
 [params]
-  name = "Luke M Perez"
-  role = "Doctoral Candidate"
-  organization = "University of Texas at Austin"
-  organization_url = "https://liberalarts.utexas.edu/government/"
-  avatar = "portrait.jpg"
-  email = "lukemperez@utexas.edu"
-  address = "Dept. of Government, 158 W 21st ST STOP A1800, Austin, TX 78712--1704"
-  office_hours = "by appointment"
-  phone = "310 367--1348"
-  skype = ""
-  telegram = ""
-  # metaDataFormat = "yaml"
+    # menu for changing language. This changes languages with js and stores the choice with the help
+    # of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the
+    # md files needs to have the same name for each language abbreviation to work correctly. Example:
+    # showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
+    switchlang = false
 
-  # Enable Keybase in Contact section by entering your keybase.io username.
-  keybase = ""
+    # You can use markdown here.
+    # BrandImage = "" #top header brand image. urls permited:
+    brand = "" # brand image alt text.
+    topline = "Your friendly neighborhood grand strategist"
+    footline = "code with <i class='fa fa-heart'></i>"
 
-  # Date format (refer to Go's date format: http://flippinggodateformat.com )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Mon, 2 Jan 2006"
+    # Show a sidebar menu
+    showRightSidebar = false
 
-  # Enable global LaTeX math rendering?
-  #   If false, you can enable it locally on a per page basis.
-  math = true
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "home"
 
-  # Highlight.js options
-  #   highlight
-  #     Enable global source code highlighting?  If false, you can
-  #     override it for a particular page in that page's preamble.
-  #
-  #     Example: highlight = true
-  #
-  #   highlight_languages
-  #     Add support for highlighting additional languages. Support for
-  #     languages mentioned here will be included in all pages. You
-  #     can also set this variable for a particular page in that
-  #     page's preamble.
-  #
-  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
-  #
-  #   highlight_style
-  #     Choose a different CSS style for highlighting source
-  #     code. Setting this option in a page's preamble has no
-  #     effect.
-  #
-  #     Example: highlight_style = "github-gist"
-  #
-  #   highlight_version
-  #     Choose the version of highlight.js you want. Setting this
-  #     option in a page's preamble has no effect.
-  #
-  #     Example: highlight_version = "9.9.0"
-  #
-  #   For the list of supported languages, styles, and versions, see:
-  #   https://cdnjs.com/libraries/highlight.js/
-  #
-  #   For more info on the highlighting options, see:
-  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
-  highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
-  # highlight_version = "9.9.0"
+    mailmunchid = "" # Mailmunch site id
+    sumomeid = "" # Sumome id
 
-  # Enable native social sharing buttons?
-  sharing = true
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
 
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  custom_css = []
-  custom_js  = []
+    # Sidebar social links.
+    github = "lukemperez" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "lukemperez" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "lukemperez" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
 
-  # Publication types.
-  #   Used to categorize publications.
-  #   The index of the publication type in the list is used as its unique numerical identifier.
-  #   The numeric ID is used in a publication's frontmatter to categorize it.
-  #   The language can be edited below.
-  #   For multi-lingual sites, copy this block to each language section at the end of this file.
-  publication_types = [
-    'Uncategorized',  # 0
-    'Conference proceedings',  # 1
-    'Journal',  # 2
-    'Work in progress',  # 3
-    'Technical report',  # 4
-    'Book',  # 5
-    'Book chapter'  # 6
-  ]
-# Permalinks
-[permalinks]
-  post = "/:year/:month/:slug"
-  # Social/Academic Networking
-  #
-  # Icon pack "fa" includes the following social network icons:
-  #
-  #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-  #   youtube, instagram, soundcloud
-  #
-  #   For email icon, use "fa" icon pack, "envelope" icon, and
-  #   "mailto:your@email.com" as the link.
-  #
-  #   Full list: https://fortawesome.github.io/Font-Awesome/icons/
-  #
-  # Icon pack "ai" includes the following academic network icons:
-  #
-  #   google-scholar, arxiv, orcid, researchgate, mendeley
-  #
-  #   Full list: https://jpswalsh.github.io/academicons/
+    # Enable Keybase in Contact section by entering your keybase.io username.
+    keybase = ""
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:lukemperez@utexas.edu"
+    # Date format (refer to Go's date format: http://flippinggodateformat.com )
+    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+    date_format = "Mon, 2 Jan 2006"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/lukemperez"
+    # Enable LaTeX math rendering
+    # If 'false', you can enable it on a per-page basis
+    math = true
 
-  # [[params.social]]
-  #   icon = "google-scholar"
-  #   icon_pack = "ai"
-  #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/lukemperez"
+    # Menus
+    # If you want active menu items highlighted for internal pages don't add them here, they need to be added in each files front matter.
+    # like this:
+    [menu]
+        [[menu.main]]
+        name = "Home"
+        url = "/about"
+        weight = 1
 
-  [[params.social]]
-    icon = "instagram"
-    icon-pack = "fa"
-    link = "//instagram.com/lukemperez"
+        [[menu.main]]
+        name = "posts"
+        url = "#publications"
+        weight = 2
 
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+        [[menu.main]]
+        name = "Publications"
+        url = "#/publications"
+        weight = 3
 
-[[menu.main]]
-  name = "Home"
-  url = "#about"
-  weight = 1
+        [[menu.main]]
+        name = "Projects"
+        url = "#/projects"
+        weight = 4
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 2
+        [[menu.main]]
+        name = "Teaching"
+        url = "#teaching"
+        weight = 5
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+    #     [menu.main]
+    #        name = "Showcase"
+    #        weight = 3
+    #        identifier = "showcase"
+    # i18n menus. A menu will be added for each language to the right in the top menu. This menu will switch to the selected language. Remember to add the corresponding language in pathnamereplace.js.
+    #[[Languages.sv.menu.switchlang]]
+    #  name = "English"
+    #  identifier = ""
+    #  weight = 4
+    #  url = "en"
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+    # [Languages]
+    # [Languages.en]
+    # weight = 1
+    # # copyright = "(c) 2016 Copyright my blog"
+    # # title = "My blog" # Site title
+    # [[Languages.en.menu.main]]
+    # name = "Luke M Perez"
+    # pre = ""
+    # weight = 2
+    # identifier = "post"
+    # url = "/post/"
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+    # [[Languages.en.menu.main]]
+    # name = "About"
+    # weight = 1
+    # identifier = ""
+    # url = "/about"
+    # pre = "<i class='fa fa-road'></i>"
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+    # [[Languages.en.menu.main]]
+    # name = "Dashboard"
+    # identifier = ""
+    # weight = 3
+    # url = "https://appernetic.io/app/"
+    #
+    # [[Languages.en.menu.footer]] # add  links to the bottom right corner.
+    # name = "Disclaimer"
+    # pre = "<i>&middot;</i>"
+    # identifier = "disclaimer"
+    # weight = 1
+    # url = "/disclaimer/"
+    #
+    # [[Languages.en.menu.footer]]
+    # name = "Terms"
+    # identifier = "terms"
+    # weight = 2
+    # url = "/terms/"
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  # publication_type = "publication_types"
+    # [Languages.sv]
+    # weight = 2
+    # title = "Min blog" # Site title
+    # copyright = "(c) 2016 Alla rättigheter"
+    #
+    # [[Languages.sv.menu.main]]
+    # name = "Bloggen"
+    # pre = ""
+    # weight = 2
+    # identifier = "post"
+    # url = "/sv/post/"
 
-# Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
-
-# Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
-
-
-# For Blackburn
-#
-# baseurl = "http://lukemperez.com/"
-# languageCode = "en-us"
-# title = "Luke M Perez"
-# copyright = "&copy; 2017 Luke M Perez"
-# address = "Austin, TX"
-# publishdir = "public"
-# canonifyurls = "true"
-# googleAnalytics = "UA-97407722-1"
-# MetaDataFormat = "yaml"
-# # basic parameters
-# [params]
-#     name = "Luke M Perez"
-#     # role = "Doctoral Candidate"
-#     # organization = "University of Texas at Austin"
-#     # interests = ["International Relations", "National Security", "Just War", "Religion", "Political Philosophy","Philosophy of Social Science"]
-#     # qualifications = ["Research Design", "Qualitative Research Methods", "International Relations Theory", "Greek & Latin"]
-#     subtitle = "Doctoral Candidate"
-#     brand = "luke m perez"
-#     highlightjs = "androidstudio"
-#     email = "lukemperez@utexas.edu"
-#
-#     #date_format = "Mon, Jan 2, 2006"
-#     dateFormat = "Mon, Jan 2 2006"
-#     # Enable global LaTeX math rendering? If false, you can enable it locally on a per page basis.
-#     math = false
-#
-#     # Link custom CSS and JS assets (relative to /static/css and /static/js respectively)
-#     custom_css = []
-#     custom_js  = []
-#
-# 	# [[params.education]]
-# 	# 	course = "PhD in Government"
-# 	# 	institution = "University of Texas at Austin"
-# 	# 	year = "in-progress"
-# 	# [[params.education]]
-# 	# 	course = "MA in Political Science"
-# 	# 	institution = "Villanova University"
-# 	# 	year = "2011"
-#   #
-# 	# [[params.education]]
-# 	# 	course = "BA in Greek and Latin, Political Science"
-# 	# 	institution = "The Ohio State University"
-# 	# 	year = "2007"
-#   #
-# 	# # Social Media
-# 	# [[params.social]]
-# 	# 	icon = "github"
-# 	# 	icon_pack = "fa"
-# 	# 	link = "//github.com/lukemperez"
-#   #
-# 	# [[params.social]]
-# 	# 	icon = "twitter"
-# 	# 	icon_pack = "fa"
-# 	# 	link = "//twitter.com/lukemperez"
-#
-# # Navigation Links
-# #
-# # Weight parameters determine order of appearance for links
-# [menu]
-#    [[menu.main]]
-#       name = "Home"
-#       pre = "<i class='fa fa-home fa-fw'></i>"
-#       weight = 0
-#       identifier = "home"
-#       url = "/"
-#
-#   [[menu.main]]
-#     name = "About"
-#     pre = "<i class= 'fa fa-user fa-fw'></i>"
-#     weight = 2
-#     identifer = "about"
-#     url = "/about/"
-#
-# # [[menu.main]]
-# # 	name = "Publications"
-# # 	url = "#publications"
-# #   pre = "<i class='fa fa-list fa-fw'></i>"
-# # 	weight = 2
-# #
-#   [[menu.main]]
-# 	   name = "Posts"
-# 	   weight = 3
-#      pre = "<i class= 'fa fa-list fa-fw'></i>"
-#      identifier = "post"
-#      url = "/post/"
-# #
-#   [[menu.main]]
-# 	  name = "Projects"
-# 	  #  pre = "<i class= 'fa fa-list fa-fw'></i>"
-#     pre = "<i class='fa fa-file-text-o fa-fw'></i>"
-#     url = "/projects/"
-# 	  weight = 4
-#
-#   [[menu.main]]
-#     name = "Teaching"
-#     pre = "<i class ='fa fa-university fa-fw'></i>"
-#     url = "/teaching/"
-#     weight = 5
-# #
-# # [[menu.main]]
-# # 	name = "Contact"
-# # 	url = "#contact"
-# # 	weight = 6
-#
-# [social]
-#
-#   # SNS microblogging
-#   twitter = "lukemperez"
-#
-#   # photography & leisure
-#   instagram = "lukemperez"
-#   flickr = "lukemperez"
-#   # discogs = "lukemperez"
-#
-#   # Career
-#   linkedin = "lukemperez"
-#   github = "lukemperez"
+    # [[Languages.sv.menu.footer]] # add  links to the bottom right corner.
+    # name = "Ansvarsfriskrivning"
+    # pre = "<i>&middot;</i>"
+    # identifier = "friskrivning"
+    # weight = 1
+    # url = "/sv/friskrivning/"
+    #
+    # [[Languages.sv.menu.footer]]
+    # name = "Vilkor"
+    # identifier = "vilkor"
+    # weight = 2
+    # url = "/sv/vilkor/"
+    #
+    #
+    # [Languages.sv.taxonomies]
+    # tag = "Taggar"
+    # topic = "Ämne"

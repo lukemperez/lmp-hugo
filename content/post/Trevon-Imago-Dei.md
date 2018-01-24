@@ -2,8 +2,9 @@
 title: Social Justice, Violence, and the Imago Dei
 date: "2012-03-28T20:39:00-05:00"
 tags: ["Social Justice","Ethics"]
-draft: True
+draft:
 ---
+
 <!-- Two news trends have caught my attention this week: [Trayvon Martin](http://news.google.com/news/more?pz=1&cf=all&ncl=dFir_FJHC4ymbVM9j0As1_U7UREnM&topic=h), and [Maxim Magazine](http://www.theatlanticwire.com/entertainment/2012/03/cold-case-outrage-files-maxims-feminist-cure-offends-again/50461/). In both cases the shared theme can be understood as fundamentally about identity politics and as example of how two privileged classes (white males and simply males, respectively) continue to adjust their racist, sexist, elitist, and misogynist prejudices. But in countering these injustices, do the righteous go too far? -->
 
 <!-- Identity politics has a problem, it seems. A lot of themes in the news recently have me re-thinking whether and to what extend identity politics can be integrated into a classical ethical framework.  -->
