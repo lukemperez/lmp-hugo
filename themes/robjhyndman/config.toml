@@ -4,7 +4,7 @@ canonifyurls = true
 relativeurls = false
 paginate = 10
 theme = "robjhyndman"
-DisqusShortname = "researchtips"
+DisqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 pluralizeListTitles = false
@@ -16,13 +16,13 @@ buildFuture = true
 date_format = "2 January 2006"
 
 # Number of posts to show on main page.
-posts_count = 3
+posts_count = 4
 
 # Number of publications to show on main page.
-pubs_count = 2
+pubs_count = 4
 
 # Number of posts to show on main page.
-seminars_count = 2
+talks_count = 4
 
 # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion = "9.11.0"
@@ -33,7 +33,7 @@ seminars_count = 2
 [[params.social]]
   icon = "university"
   icon_pack = "fa"
-  link = "https://www.utexas.edu"
+  link = "https://www.government.utexas.edu"
   text = "Department of Governmemnt, The University of Texas at Austin."
 
 [[params.social]]
@@ -79,10 +79,10 @@ seminars_count = 2
 #   name = "Software"
 #   url = "/software/"
 #   weight = 3
-
+#
 # [[menu.main]]
-#   name = "Seminars"
-#   url = "/seminars/"
+#   name = "talks"
+#   url = "/talks/"
 #   weight = 4
 
 [[menu.main]]
@@ -90,12 +90,12 @@ seminars_count = 2
   url = "/teaching/"
   weight = 3
 
-[[menu.main]]
-  name = "Talks"
-  url = "/talks/"
-  weight = 4
+# [[menu.main]]
+#   name = "Research team"
+#   url = "/research-team/"
+#   weight = 5
 
 [[menu.main]]
   name = "About"
   url = "/#about/"
-  weight = 5
+  weight = 4
