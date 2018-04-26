@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>https://www.lukemperez.com/notes/liberating-faith/</loc>
+    <lastmod>2016-05-13T19:46:32-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lukemperez.com/notes/blindside/</loc>
     <lastmod>2015-11-13T21:05:15-05:00</lastmod>
   </url>
@@ -108,13 +113,28 @@
   </url>
   
   <url>
+    <loc>https://www.lukemperez.com/notes/social-fact/</loc>
+    <lastmod>2013-12-13T10:23:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lukemperez.com/notes/virtual-apsa-postscript/</loc>
     <lastmod>2012-09-04T20:13:05-05:00</lastmod>
   </url>
   
   <url>
+    <loc>https://www.lukemperez.com/notes/virtual-apsa-sessions/</loc>
+    <lastmod>2012-08-31T23:31:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.lukemperez.com/notes/trevon-imago-dei/</loc>
     <lastmod>2012-03-28T20:39:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.lukemperez.com/notes/syria-christian-statesman/</loc>
+    <lastmod>2012-03-17T12:04:00-05:00</lastmod>
   </url>
   
   <url>
@@ -166,6 +186,12 @@
   <url>
     <loc>https://www.lukemperez.com/tags/conferences/</loc>
     <lastmod>2017-04-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lukemperez.com/tags/constructivism/</loc>
+    <lastmod>2013-12-13T10:23:09-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -290,6 +316,12 @@
   </url>
   
   <url>
+    <loc>https://www.lukemperez.com/tags/norms/</loc>
+    <lastmod>2013-12-13T10:23:09-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.lukemperez.com/notes/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -346,6 +378,12 @@
   <url>
     <loc>https://www.lukemperez.com/tags/social-justice/</loc>
     <lastmod>2012-03-28T20:39:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lukemperez.com/tags/social-structure/</loc>
+    <lastmod>2013-12-13T10:23:09-05:00</lastmod>
     <priority>0</priority>
   </url>
   
