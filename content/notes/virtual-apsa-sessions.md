@@ -1,17 +1,17 @@
 ---
 date: "2012-08-31T23:31:00-05:00"
-draft: true
+draft:
 title: "Virtual APSA Sessions"
 tags: ["APSA","Conferences"]
 ---
 
 ## Concept
 
-In light of Hurricane Isaac, the American Political Science Association [cancelled](http://www.apsanet.org/content_82576.cfm?navID=988) its annual meeting scheduled to be held in New Orleans, LA. But with all these conference papers dressed up with nowhere to go, a small collection of faculty, graduate students, publishers, and the APSA decided to post our papers and give our presentations anyway. What follows is the Virtual Program for \#virtualAPSA2012 
+In light of Hurricane Isaac, the American Political Science Association [cancelled](http://www.apsanet.org/content_82576.cfm?navID=988) its annual meeting scheduled to be held in New Orleans, LA. But with all these conference papers dressed up with nowhere to go, a small collection of faculty, graduate students, publishers, and the APSA decided to post our papers and give our presentations anyway. What follows is the Virtual Program for \#virtualAPSA2012
 
 A shameless credit claiming here, [my tweet may have been the first to start it all](https://twitter.com/lukemperez/status/240459967788896256). I post here for my own recollection later than anything else.
 
-## The Twitter Feed: 
+## The Twitter Feed:
 
 The real-time twitter feed for the hash tag \#virtualAPSA2012 [can be found here](https://twitter.com/#!/search/%23virtualAPSA2012)
 
@@ -24,7 +24,7 @@ The real-time twitter feed for the hash tag \#virtualAPSA2012 [can be found here
 
 ## Video Presentations
 
-### V-1: [Abolish the Airforce](http://duckofminerva.blogspot.com/2012/08/virtualapsa2012-rob-farley-abolish.html) 
+### V-1: [Abolish the Airforce](http://duckofminerva.blogspot.com/2012/08/virtualapsa2012-rob-farley-abolish.html)
 
 [Rob Farley](http://www.uky.edu/~rmfarl2/), Patterson School of Diplomacy and International Commerce
 
@@ -44,11 +44,11 @@ Orginally, panel Issues of and Responses 40-3
 "Do Social Media Reproduce or Challenge Global Development Rituals? A Content Analysis of Blogs and Tweets on the 2010 MDG Summit"  
 - [Daniel E. Esser](http://www.american.edu/sis/id/Esser.cfm),
 American University  
-- [Tobias Denskus](http://sussex.academia.edu/TobiasDenskus), University of Sussex 
+- [Tobias Denskus](http://sussex.academia.edu/TobiasDenskus), University of Sussex
 
 **Discussant**  
 
-[Irene Wu](http://explore.georgetown.edu/people/iw24/?PageTemplateID=310), Federal Communications Commission 
+[Irene Wu](http://explore.georgetown.edu/people/iw24/?PageTemplateID=310), Federal Communications Commission
 
 ### V-3: Hurricanes, Hotel Refunds, and Lemonade: making a panel while Isaac gives you lemons (Link Forthcoming)
 

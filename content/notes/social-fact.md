@@ -1,6 +1,6 @@
 ---
 date: 2013-12-13T10:23:09-05:00
-draft: true
+draft:
 tags: ["Constructivism","Norms","Social Structure"]
 title: Social Facts
 ---

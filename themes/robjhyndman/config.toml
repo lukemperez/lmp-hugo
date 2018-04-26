@@ -34,7 +34,7 @@ seminars_count = 2
   icon = "university"
   icon_pack = "fa"
   link = "https://www.utexas.edu"
-  text = "Department of Governmemnt, The University of Texas at Austin."
+  text = "Department of Government, The University of Texas at Austin."
 
 [[params.social]]
   icon = "envelope"

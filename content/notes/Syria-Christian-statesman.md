@@ -1,7 +1,7 @@
 ---
 title: Syria and the Christian Statesman
 date: "2012-03-17T12:04:00-05:00"
-draft: True
+draft:
 tags: ["Ethics","Just War","Syria"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: "2016-05-13T19:46:32-05:00"
 title: "Liberating Faith: international religious freedom and American Grand Strategy"
-draft: True
+draft:
 authors: ["Luke M Perez"]
 external_link: "https://github.com/lukemperez/prospectus"
 ---
