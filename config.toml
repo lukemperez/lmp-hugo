@@ -4,7 +4,7 @@ canonifyurls = true
 relativeurls = false
 paginate = 10
 theme = "robjhyndman"
-DisqusShortname = "researchtips"
+DisqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 pluralizeListTitles = false
@@ -74,16 +74,6 @@ seminars_count = 2
   name = "Publications"
   url = "/publications/"
   weight = 2
-
-# [[menu.main]]
-#   name = "Software"
-#   url = "/software/"
-#   weight = 3
-
-# [[menu.main]]
-#   name = "Seminars"
-#   url = "/seminars/"
-#   weight = 4
 
 [[menu.main]]
   name = "Teaching"
