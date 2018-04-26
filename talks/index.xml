@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Luke M Perez</title>
-    <link>https://lukemperez.github.io/talks/</link>
+    <link>https://www.lukemperez.com/talks/</link>
     <description>Recent content in Talks on Luke M Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lukemperez.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukemperez.com/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Defender of the Faith</title>
-      <link>https://lukemperez.github.io/talks/2018_ndisc_conf/</link>
+      <link>https://www.lukemperez.com/talks/2018_ndisc_conf/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lukemperez.github.io/talks/2018_ndisc_conf/</guid>
+      <guid>https://www.lukemperez.com/talks/2018_ndisc_conf/</guid>
       <description>2018 Notre Dame conference for emerging scholars in grand strategy.</description>
     </item>
     
     <item>
       <title>Rhetoric, the Socratic Method, and Pedagogy</title>
-      <link>https://lukemperez.github.io/talks/2016-01-spurs/</link>
+      <link>https://www.lukemperez.com/talks/2016-01-spurs/</link>
       <pubDate>Sat, 14 Jan 2017 10:23:42 -0500</pubDate>
       
-      <guid>https://lukemperez.github.io/talks/2016-01-spurs/</guid>
+      <guid>https://www.lukemperez.com/talks/2016-01-spurs/</guid>
       <description>2017 Students Partnering for Undergraduate Rhetoric Success (SPURS) Winter Conference. Items covered including strategies and tactics for applying the socratic method and social science methodology to rhetoric instruction in high schools.</description>
     </item>
     

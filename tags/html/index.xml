@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on Luke M Perez</title>
-    <link>https://lukemperez.github.io/tags/html/</link>
+    <link>https://www.lukemperez.com/tags/html/</link>
     <description>Recent content in Html on Luke M Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 24 May 2016 17:16:58 -0500</lastBuildDate>
     
-	<atom:link href="https://lukemperez.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukemperez.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>https://lukemperez.github.io/notes/hello-hugo/</link>
+      <link>https://www.lukemperez.com/notes/hello-hugo/</link>
       <pubDate>Tue, 24 May 2016 17:16:58 -0500</pubDate>
       
-      <guid>https://lukemperez.github.io/notes/hello-hugo/</guid>
+      <guid>https://www.lukemperez.com/notes/hello-hugo/</guid>
       <description>&lt;h1 id=&#34;farewell-squarespace&#34;&gt;Farewell Squarespace&lt;/h1&gt;
 
 &lt;p&gt;I&amp;rsquo;ve hosted my webpage on &lt;a href=&#34;https://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt; since sometime in my second
