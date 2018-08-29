@@ -33,14 +33,14 @@ seminars_count = 2
 [[params.social]]
   icon = "university"
   icon_pack = "fa"
-  link = "https://www.utexas.edu"
-  text = "Department of Government, The University of Texas at Austin."
+  link = "https://www.democracy.missouiri.edu"
+  text = "Kinder Institute on Constitutional Democracy, University of Missouri."
 
 [[params.social]]
   icon = "envelope"
   icon_pack = "fa"
-  link = "mailto:lukemperez@utexas.edu"
-  text = "lukemperez@utexas.edu"
+  link = "mailto:perezlu@missouri.edu"
+  text = "perezlu@missouri.edu"
 
 [[params.social]]
   icon = "twitter"
