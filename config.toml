@@ -89,3 +89,10 @@ seminars_count = 2
   name = "About"
   url = "/#about/"
   weight = 5
+
+[outputFormats]
+  [outputFormats.PlainTextFile]
+  baseName = "keybase"
+  isPlainText = true
+  mediaType = "text/plain"
+  isHTML = false
