@@ -5,21 +5,27 @@
     <link>https://www.lukemperez.com/</link>
     <description>Recent content on Luke M Perez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 17 Sep 2018 14:10:28 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 09:30:00 -0600</lastBuildDate>
     
 	<atom:link href="https://www.lukemperez.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Keybase</title>
-      <link>https://www.lukemperez.com/keybase/</link>
-      <pubDate>Mon, 17 Sep 2018 14:10:28 -0500</pubDate>
+      <title>SPSA, Building the Strategy of Freedom</title>
+      <link>https://www.lukemperez.com/talks/2019_01_spsa/</link>
+      <pubDate>Thu, 17 Jan 2019 09:30:00 -0600</pubDate>
       
-      <guid>https://www.lukemperez.com/keybase/</guid>
-      <description>==================================================================
-https://keybase.io/lukemperez I hereby claim:
- I am an admin of http://lukemperez.com I am lukemperez (https://keybase.io/lukemperez) on keybase. I have a public key with fingerprint A654 7CC8 5968 67B1 2C34 D0C3 0FA4 FF8C 97DE 15AF  To do so, I am signing this object:
-{ &amp;ldquo;body&amp;rdquo;: { &amp;ldquo;key&amp;rdquo;: { &amp;ldquo;eldest_kid&amp;rdquo;: &amp;ldquo;0120c944d39fd49038edb2ee498efc5bf94ee77e3a2d815c6910fe53f236d14233890a&amp;rdquo;, &amp;ldquo;fingerprint&amp;rdquo;: &amp;ldquo;a6547cc8596867b12c34d0c30fa4ff8c97de15af&amp;rdquo;, &amp;ldquo;host&amp;rdquo;: &amp;ldquo;keybase.io&amp;rdquo;, &amp;ldquo;key_id&amp;rdquo;: &amp;ldquo;0fa4ff8c97de15af&amp;rdquo;, &amp;ldquo;kid&amp;rdquo;: &amp;ldquo;0101d1a89a20cacf99bc84b975590273ea0276b55141ba754dfce4b5d68e7e7442bd0a&amp;rdquo;, &amp;ldquo;uid&amp;rdquo;: &amp;ldquo;16c8aa948be71e36553dda10c6e3f919&amp;rdquo;, &amp;ldquo;username&amp;rdquo;: &amp;ldquo;lukemperez&amp;rdquo; }, &amp;ldquo;service&amp;rdquo;: { &amp;ldquo;hostname&amp;rdquo;: &amp;ldquo;lukemperez.com&amp;rdquo;, &amp;ldquo;protocol&amp;rdquo;: &amp;ldquo;http:&amp;rdquo; }, &amp;ldquo;type&amp;rdquo;: &amp;ldquo;web_service_binding&amp;rdquo;, &amp;ldquo;version&amp;rdquo;: 1 }, &amp;ldquo;ctime&amp;rdquo;: 1537210569, &amp;ldquo;expire_in&amp;rdquo;: 157680000, &amp;ldquo;prev&amp;rdquo;: &amp;ldquo;e0482faf99af22a35393809498f4ac10dc313fca2b8efc586c45d6dbdc2cfb3f&amp;rdquo;, &amp;ldquo;seqno&amp;rdquo;: 14, &amp;ldquo;tag&amp;rdquo;: &amp;ldquo;signature&amp;rdquo; }</description>
+      <guid>https://www.lukemperez.com/talks/2019_01_spsa/</guid>
+      <description>&amp;ldquo;Building the Strategy of Freedom&amp;rdquo; examines the impact of Jimmy Carter&amp;rsquo;s and Ronald Reagan&amp;rsquo;s national security strategies on international religious freedom. I argue that each attempted to use religious freedom in order to achieve larger national security goals. Carter&amp;rsquo;s moderate success came at a strategic failure (Iranian Revolution and Soviet Invasion of Afghanistan) because he relied on strict substitution of policies. Reagan, however, relied on policy compliments and therefore achieved greater success fusing religious freedom into American grand strategy.</description>
+    </item>
+    
+    <item>
+      <title>ISA Midwest, Defender of the Faith</title>
+      <link>https://www.lukemperez.com/talks/2018_11_isa_midwest/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lukemperez.com/talks/2018_11_isa_midwest/</guid>
+      <description>&amp;ldquo;Defender of the Faith&amp;rdquo; examines the impact of Dwight Eisenhower&amp;rsquo;s national security strategy on international religious freedom.</description>
     </item>
     
     <item>
@@ -32,12 +38,12 @@ https://keybase.io/lukemperez I hereby claim:
     </item>
     
     <item>
-      <title>Defender of the Faith</title>
-      <link>https://www.lukemperez.com/talks/2018_ndisc_conf/</link>
+      <title>Notre Dame International Security Conference, Defender of the Faith</title>
+      <link>https://www.lukemperez.com/talks/2018_05_ndisc_conf/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.lukemperez.com/talks/2018_ndisc_conf/</guid>
-      <description>2018 Notre Dame conference for emerging scholars in grand strategy.</description>
+      <guid>https://www.lukemperez.com/talks/2018_05_ndisc_conf/</guid>
+      <description>2018 Notre Dame conference for emerging scholars in grand strategy. Presenting dissertation chapter on Eisenhower&amp;rsquo;s national security strategy and religious freedom.</description>
     </item>
     
     <item>
