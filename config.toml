@@ -34,14 +34,14 @@ seminars_count = 2
 [[params.social]]
   icon = "university"
   icon_pack = "fa"
-  link = "https://www.democracy.missouiri.edu"
-  text = "Kinder Institute on Constitutional Democracy, University of Missouri."
+  link = "https://www.scetl.asu.edu"
+  text = "School of Civic and Economic Thought and Leadership, Arizona State University."
 
 [[params.social]]
   icon = "envelope"
   icon_pack = "fa"
-  link = "mailto:perezlu@missouri.edu"
-  text = "perezlu@missouri.edu"
+  link = "mailto:lukemperez@asu.edu"
+  text = "lukemperez@asu.edu"
 
 [[params.social]]
   icon = "twitter"
