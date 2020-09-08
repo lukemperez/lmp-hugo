@@ -1,4 +1,5 @@
-baseurl = "https://www.lukemperez.com/"
+# baseurl = "https://www.lukemperez.com/" -- Sept 8, 2020 troubleshoot
+baseurl = "lukemperez.github.io/lukemperez"
 title = "Luke M Perez"
 canonifyurls = true
 relativeurls = false
