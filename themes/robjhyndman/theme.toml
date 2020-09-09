@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "robjhyndman"
+license = "MIT"
+licenselink = "https://github.com/rbind/robjhyndman.com"
+description = "Theme to build a customizeable printable CV with minor web responsiveness."
+homepage = "https://github.com/rbind/robjhyndman.com"
+tags = ["cv", "resume", "minimal", "simple"]
+features = ["simple", "cv", "printable"]
+min_version = "0.41.0"
+
+[author]
+  name = "Luke M. Perez"
+  homepage = "www.lukemperez.com"
