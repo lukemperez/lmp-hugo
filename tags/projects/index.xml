@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Luke M Perez</title>
-    <link>https://www.lukemperez.com/tags/projects/</link>
+    <link>lukemperez.github.io/lukemperez/tags/projects/</link>
     <description>Recent content in Projects on Luke M Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 03 Oct 2016 08:30:00 -0500</lastBuildDate>
     
-	<atom:link href="https://www.lukemperez.com/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="lukemperez.github.io/lukemperez/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Close the loops</title>
-      <link>https://www.lukemperez.com/notes/close-loops/</link>
+      <link>lukemperez.github.io/lukemperez/notes/close-loops/</link>
       <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
       
-      <guid>https://www.lukemperez.com/notes/close-loops/</guid>
+      <guid>lukemperez.github.io/lukemperez/notes/close-loops/</guid>
       <description>Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop afforded me the opportunity to reflect on the principles of productivity that I&amp;rsquo;ve learned over the years. Despite claims to the contrary, both from within and without, the academe is not unlike many other professions: it a profession fundamentally about knowledge work but with functionally infinite demands on otherwise scarce time and attention.</description>
     </item>
     
