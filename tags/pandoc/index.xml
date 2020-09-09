@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pandoc on Luke M Perez</title>
-    <link>lukemperez.github.io/lukemperez/tags/pandoc/</link>
+    <link>https://www.lukemperez.com/tags/pandoc/</link>
     <description>Recent content in Pandoc on Luke M Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 Oct 2017 10:46:50 -0500</lastBuildDate>
     
-	<atom:link href="lukemperez.github.io/lukemperez/tags/pandoc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukemperez.com/tags/pandoc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Letterhead Template for Pandoc</title>
-      <link>lukemperez.github.io/lukemperez/notes/letterhead/</link>
+      <link>https://www.lukemperez.com/notes/letterhead/</link>
       <pubDate>Mon, 23 Oct 2017 10:46:50 -0500</pubDate>
       
-      <guid>lukemperez.github.io/lukemperez/notes/letterhead/</guid>
+      <guid>https://www.lukemperez.com/notes/letterhead/</guid>
       <description>This is not a workflow post. I don&amp;rsquo;t normally post about process or things related to my workflow because, having tried in the past, have concluded that it is more of a procrastination tactic than anything else. Even my post about switching to Hugo for webhosting was written for me rather than anyone else.
 You don&amp;rsquo;t care about my workflow. You have your own. You don&amp;rsquo;t need to know how I produce what I do.</description>
     </item>

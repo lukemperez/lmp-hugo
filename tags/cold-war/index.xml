@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cold War on Luke M Perez</title>
-    <link>lukemperez.github.io/lukemperez/tags/cold-war/</link>
+    <link>https://www.lukemperez.com/tags/cold-war/</link>
     <description>Recent content in Cold War on Luke M Perez</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="lukemperez.github.io/lukemperez/tags/cold-war/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.lukemperez.com/tags/cold-war/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ISA Midwest, Defender of the Faith</title>
-      <link>lukemperez.github.io/lukemperez/talks/2018_11_isa_midwest/</link>
+      <link>https://www.lukemperez.com/talks/2018_11_isa_midwest/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>lukemperez.github.io/lukemperez/talks/2018_11_isa_midwest/</guid>
+      <guid>https://www.lukemperez.com/talks/2018_11_isa_midwest/</guid>
       <description>&amp;ldquo;Defender of the Faith&amp;rdquo; examines the impact of Dwight Eisenhower&amp;rsquo;s national security strategy on international religious freedom.</description>
     </item>
     
