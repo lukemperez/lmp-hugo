@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reagan on Luke M Perez</title>
-    <link>https://www.lukemperez.com/tags/reagan/</link>
-    <description>Recent content in Reagan on Luke M Perez</description>
+    <title>Reagan on Luke M. Perez</title>
+    <link>https://lukemperez.com/tags/reagan/</link>
+    <description>Recent content in Reagan on Luke M. Perez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 17 Jan 2019 09:30:00 -0600</lastBuildDate>
-    
-	<atom:link href="https://www.lukemperez.com/tags/reagan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 09:30:00 -0600</lastBuildDate><atom:link href="https://lukemperez.com/tags/reagan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SPSA, Building the Strategy of Freedom</title>
-      <link>https://www.lukemperez.com/talks/2019_01_spsa/</link>
+      <link>https://lukemperez.com/talks/2019_01_spsa/</link>
       <pubDate>Thu, 17 Jan 2019 09:30:00 -0600</pubDate>
       
-      <guid>https://www.lukemperez.com/talks/2019_01_spsa/</guid>
+      <guid>https://lukemperez.com/talks/2019_01_spsa/</guid>
       <description>&amp;ldquo;Building the Strategy of Freedom&amp;rdquo; examines the impact of Jimmy Carter&amp;rsquo;s and Ronald Reagan&amp;rsquo;s national security strategies on international religious freedom. I argue that each attempted to use religious freedom in order to achieve larger national security goals. Carter&amp;rsquo;s moderate success came at a strategic failure (Iranian Revolution and Soviet Invasion of Afghanistan) because he relied on strict substitution of policies. Reagan, however, relied on policy compliments and therefore achieved greater success fusing religious freedom into American grand strategy.</description>
     </item>
     

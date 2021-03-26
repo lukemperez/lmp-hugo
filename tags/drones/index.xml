@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>drones on Luke M Perez</title>
-    <link>https://www.lukemperez.com/tags/drones/</link>
-    <description>Recent content in drones on Luke M Perez</description>
+    <title>drones on Luke M. Perez</title>
+    <link>https://lukemperez.com/tags/drones/</link>
+    <description>Recent content in drones on Luke M. Perez</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Apr 2017 09:13:49 -0500</lastBuildDate>
-    
-	<atom:link href="https://www.lukemperez.com/tags/drones/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Apr 2017 09:13:49 -0500</lastBuildDate><atom:link href="https://lukemperez.com/tags/drones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Irony of Technological Warfare</title>
-      <link>https://www.lukemperez.com/publications/2015-niebuhr-drones/</link>
+      <link>https://lukemperez.com/publications/irony-of-technological-warfare/</link>
       <pubDate>Fri, 21 Apr 2017 09:13:49 -0500</pubDate>
       
-      <guid>https://www.lukemperez.com/publications/2015-niebuhr-drones/</guid>
+      <guid>https://lukemperez.com/publications/irony-of-technological-warfare/</guid>
       <description>Reinhold Neibuhr&amp;rsquo;s critique of Natural Law just war theory informs our understanding of the complications posed by the use of drones and other autonomous technology in war</description>
     </item>
     
