@@ -4,10 +4,12 @@ title: The Irony of Technological Warfare
 date: "2017-04-21T09:13:49-05:00"
 highlight: true
 kind: unpublished
-tags:
+tags: 
 - Christian Realism
 - drones
 - Just War
+link: www.example.com
+slug: Irony of technological warfare
 ---
 <!-- citation: *Politikon*, forthcoming -->
 

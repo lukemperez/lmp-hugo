@@ -1,8 +1,11 @@
 ---
 title: "Show Me"
-date: 2018-08-29T11:18:09-05:00
+date: "2018-08-29"
 draft: false
+tags: [Jobs, Academe]
 ---
-Earlier this month I defended my dissertation and submitted all paperwork to complete my PhD. It has been a long time coming and I am obviously glad to be finished. My dissertation examined the development of international religious freedom and U.S. foreign policy during the Cold War. In it I make a very simple claim that efforts to promote religious freedom have been present in American national security strategy for much longer than most realize. I'm not the first to argue this. Anna Su ([Twitter](Exporting Freedom)) has argued something very similar in [Exporting Freedom](http://www.hup.harvard.edu/catalog.php?isbn=9780674286023). (Indeed, when I first learned of her book my stomach sank because I thought my dissertation project had been scooped, as it were. Thankfully there are enough differences that my advisors and I agreed that I was good to go.) These are welcome developments in the IR scholarship. I am eager to add my voice to the scholarly discussion. 
+Earlier this month I defended my dissertation and submitted all paperwork to complete my PhD. It has been a long time coming and I am obviously glad to be finished. My dissertation examined the development of international religious freedom and U.S. foreign policy during the Cold War. In it I make a very simple claim that efforts to promote religious freedom have been present in American national security strategy for much longer than most realize. I'm not the first to argue this. Anna Su ([Twitter](Exporting Freedom)) has argued something very similar in [Exporting Freedom](http://www.hup.harvard.edu/catalog.php?isbn=9780674286023). (Indeed, when I first learned of her book my stomach sank because I thought my dissertation project had been scooped, as it were. Thankfully there are enough differences that my advisors and I agreed that I was good to go.) These are welcome developments in the IR scholarship. I am eager to add my voice to the scholarly discussion.
 
 Shortly after defending---by which I mean the next day---my wife and I packed up our place. This fall I begin a two-year appointment as a postdoc fellow at [Kinder Institute on Constituional Democracy](democracy.missouri.edu). My primary duties will be working with undergraduates in some of Kinder's very excellent programming for first and second year students. In the spring I am slated to teach a course on U.S. Foreign Policies. In addition to my book project, I have some other manuscripts in progress, but more on those later as they get closer to completion. For now, it is time to settle in and crank out my widgets.
+
+<!-- 2018-08-29T11:18:09-05:00 -->
