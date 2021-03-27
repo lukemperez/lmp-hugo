@@ -2,14 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/covid/</loc>
-    <lastmod>2020-04-07T14:24:13-05:00</lastmod>
+    <loc>http://localhost:1313/tags/cyber/</loc>
+    <lastmod>2021-03-26T19:43:33-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publications/cyber-realism/</loc>
+    <lastmod>2021-03-26T19:43:33-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/just-war/</loc>
+    <lastmod>2021-03-26T19:43:33-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2021-03-26T19:43:33-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publications/</loc>
+    <lastmod>2021-03-26T19:43:33-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2021-03-26T19:43:33-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/publications/cces-2018-international-religious-freedom/</loc>
+    <lastmod>2021-03-21T16:11:42-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/public-opinion/</loc>
+    <lastmod>2021-03-21T16:11:42-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/religious-freedom/</loc>
+    <lastmod>2021-03-21T16:11:42-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/covid/</loc>
     <lastmod>2020-04-07T14:24:13-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -51,21 +107,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/religious-freedom/</loc>
-    <lastmod>2019-01-17T09:30:00-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/talks/2019_01_spsa/</loc>
-    <lastmod>2019-01-17T09:30:00-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -199,20 +241,6 @@
   
   <url>
     <loc>http://localhost:1313/tags/drones/</loc>
-    <lastmod>2017-04-21T09:13:49-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/just-war/</loc>
-    <lastmod>2017-04-21T09:13:49-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publications/</loc>
     <lastmod>2017-04-21T09:13:49-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Opinion on Luke M. Perez, Ph.D.</title>
+    <link>http://localhost:1313/tags/public-opinion/</link>
+    <description>Recent content in Public Opinion on Luke M. Perez, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 21 Mar 2021 16:11:42 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/public-opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assessing Support for International Religious Freedom</title>
+      <link>http://localhost:1313/publications/cces-2018-international-religious-freedom/</link>
+      <pubDate>Sun, 21 Mar 2021 16:11:42 -0700</pubDate>
+      
+      <guid>http://localhost:1313/publications/cces-2018-international-religious-freedom/</guid>
+      <description>Assessing Support for International Religious Freedom, International Journal of Religious Freedom, [Conditional Accept] The International Religious Freedom Act of 1998 (IRFA) provides the U.S. government with additional tools and information in order to promote the rights of religious minorities around the world. In addition to mandating annual reporting from the State Department, the law created an independent watchdog agency to monitor religious freedom around the world and provides the executive with additional sanction powers for states which abuse religious minorities.</description>
+    </item>
+    
+  </channel>
+</rss>
