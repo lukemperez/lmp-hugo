@@ -1,160 +1,229 @@
-baseURL = "https://lukemperez.com"
-languageCode = "en-us"
-title = "Luke M. Perez"
-theme = "Avicenna"
-googleAnalytics = "UA-97407722-1"
-timeout=3000
+# baseURL = "https:://www.lukemperez.com"
+baseURL= "http://localhost:1313"
+languageCode = "en"
+defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+title = "Luke M. Perez, Ph.D."
+preserveTaxonomyNames = true
+enableRobotsTXT = true
+enableEmoji = true
+theme = "even"
+enableGitInfo = false # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
+
+# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
+pygmentsOptions = "linenos=table"
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
+hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
+paginate = 5                                              # 首页每页显示的文章数
+disqusShortname = ""      # disqus_shortname
+googleAnalytics = ""      # UA-XXXXXXXX-X
+copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+
+[author]                  # essential                     # 必需
+  name = "Luke M. Perez"
+
+[sitemap]                 # essential                     # 必需
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]             # config your menu              # 配置目录
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Notes"
+  weight = 20
+  identifier = "archives"
+  url = "/notes/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
 
 [params]
-  subtitle= "Assist. Professor, Arizona State"
-  interests="National Security, Just War, religion and ethics"
-  cv_name= "Perez_Vitae.pdf"
-  # blog = "https://micro.lukemperez.com/"
-  blog="https://micro.lukemperez.com"
+  version = "4.x"           # Used to give a friendly message when you have an incompatible update
+  debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-[[params.affilation]]
-  name = "Arizona State University"
-  position = "Assistant Professor"
-  contact = "lukemperez@asu.edu"
+  since = "2011"            # Site creation time          # 站点建立时间
+  # use public git repo url to link lastmod git commit, enableGitInfo should be true.
+  # 指定 git 仓库地址，可以生成指向最近更新的 git commit 的链接，需要将 enableGitInfo 设置成 true.
+  gitRepo = ""
 
-# [[params.affilation]]
-#   name = "MyCoolStartup"
-#   position = "Co-Founder"
-#   contact = "hadi@mycoolstartup.ai"
+  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
+  logoTitle = "Luke M. Perez, Ph.D."        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Hugo", "theme","even"]
+  description = "Assistant Professor at Arizona State."
 
-[[params.social]]
-  name = "GitHub"
-  icon = "github"
-  url = "https://github.com/lukemperez"
+  # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
+  archivePaginate = 50
 
-[[params.social]]
-  name = "Twitter"
-  icon = "twitter"
-  url = "https://twitter.com/lukemperez"
+  # show 'xx Posts In Total' in archive page ?            # 是否在归档页显示文章的总数
+  showArchiveCount = false
 
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
 
-[[params.social]]
-  name = "LinkedIn"
-  icon = "linkedin"
-  url = "https://linkedin.com/in/lukemperez/"
+  # show word count and read time ?                       # 是否显示字数统计与阅读时间
+  moreMeta = false
 
-[[params.social]]
-  name = "Academia"
-  icon = "academia"
-  url = "https://asu.academia.edu/lukemperez"
+  # Syntax highlighting by highlight.js
+  highlightInClient = false
 
-# [[params.social]]
-#   name = "Micro.Blog"
-#   icon = "micro.blog"
-#   url = "micro.lukemperez.com"
+  # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = true                                                                            # 是否开启目录
+  autoCollapseToc = false   # Auto expand and collapse toc                              # 目录自动展开/折叠
+  fancybox = true           # see https://github.com/fancyapps/fancybox                 # 是否启用fancybox（图片可点击）
 
+  # mathjax
+  mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
+  mathjaxEnableSingleDollar = false                                                     # 是否使用 $...$ 即可進行inline latex渲染
+  mathjaxEnableAutoNumber = false                                                       # 是否使用公式自动编号
+  mathjaxUseLocalFiles = false  # You should install mathjax in `your-site/static/lib/mathjax`
 
-[[params.introduction.paragraph]]
-  text="""
+  postMetaInFooter = true   # contain author, lastMod, markdown link, license           # 包含作者，上次修改时间，markdown链接，许可信息
+  linkToMarkDown = false    # Only effective when hugo will output .md files.           # 链接到markdown原始文件（仅当允许hugo生成markdown文件时有效）
+  contentCopyright = ''     # e.g. '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
-  I am an Assistant Professor in the [School of Civic and Economic Thought and Leadership](https://scetl.asu.edu) at Arizona State. Prior to that I was a postdoctoral fellow at the [Kinder Institute](https://democracy.missouri.edu/). I completed my doctoral work at [Texas](https://liberalarts.utexas.edu/government/).
+  changyanAppid = ""        # Changyan app id             # 畅言
+  changyanAppkey = ""       # Changyan app key
 
-  Broadly, my work examines US grand strategy and decision-making. More narrowly, it examines strategic leadership, or the intersection of strategy and ethics. My full CV can be found at the above link. Prior to Texas I worked at the Jack Miller Center and am a 12 year veteran of the Air National Guard where I served as a avionics maintainer. I earned my B.A. at The Ohio State University and M.A. at Villanova University.
+  livereUID = ""            # LiveRe UID                  # 来必力
 
-  My personal-family blog is linked for those who know me personally; professional colleagues will find the posts mundane, I suspect. I am (ocassionally) on Twitter, but your best to find me at LinkedIn and Academia.
-   """
-# [[params.introduction.paragraph]]
-#   text=""" Pellentesque nec nam aliquam sem et tortor consequat id porta.
-# 	Viverra suspendisse potenti nullam ac. Leo vel orci porta non pulvinar neque laoreet.
-# 	Nulla facilisi nullam vehicula ipsum a arcu. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse.
-# 	Ullamcorper velit sed ullamcorper morbi tincidunt ornare. Dui sapien eget mi proin sed libero.
-# 	Quam pellentesque nec nam aliquam sem et tortor consequat id. Aliquet lectus proin nibh nisl.
-#   """
+  baiduPush = false        # baidu push                  # 百度
+  baiduAnalytics = ""      # Baidu Analytics
+  baiduVerification = ""   # Baidu Verification
+  googleVerification = ""  # Google Verification         # 谷歌
 
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []
+  customJS = []
 
-[[params.projects]]
-	[[params.projects.project]]
-		name = "Liberating Faith: American Grand Strategy and the Origins of International Religious Freedom"
-		description  = "Book manuscript examining how Cold War strategy fused the pursuit of human rights, chiefly religious freedom, with American foreign policy."
+  uglyURLs = false          # please keep same with uglyurls setting
 
-# 		project_page = "https://myprojecthomepage.com"
-# 		code_link = "https://coderepo.com"
-# 		blog_link = "https://ablogpost.com"
+  [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
+    enable = true
+    jquery = '<script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>'
+    slideout = '<script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>'
+    fancyboxJS = '<script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>'
+    fancyboxCSS = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">'
+    timeagoJS = '<script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.min.js" integrity="sha256-jwCP0NAdCBloaIWTWHmW4i3snUNMHUNO+jr9rYd2iOI=" crossorigin="anonymous"></script>'
+    timeagoLocalesJS = '<script src="https://cdn.jsdelivr.net/npm/timeago.js@3.0.2/dist/timeago.locales.min.js" integrity="sha256-ZwofwC1Lf/faQCzN7nZtfijVV6hSwxjQMwXL4gn9qU8=" crossorigin="anonymous"></script>'
+    flowchartDiagramsJS = '<script src="https://cdn.jsdelivr.net/npm/raphael@2.2.7/raphael.min.js" integrity="sha256-67By+NpOtm9ka1R6xpUefeGOY8kWWHHRAKlvaTJ7ONI=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/flowchart.js@1.8.0/release/flowchart.min.js" integrity="sha256-zNGWjubXoY6rb5MnmpBNefO0RgoVYfle9p0tvOQM+6k=" crossorigin="anonymous"></script>'
+    sequenceDiagramsCSS = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bramp/js-sequence-diagrams@2.0.1/dist/sequence-diagram-min.css" integrity="sha384-6QbLKJMz5dS3adWSeINZe74uSydBGFbnzaAYmp+tKyq60S7H2p6V7g1TysM5lAaF" crossorigin="anonymous">'
+    sequenceDiagramsJS = '<script src="https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.js" integrity="sha256-4O4pS1SH31ZqrSO2A/2QJTVjTPqVe+jnYgOWUVr7EEc=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/snapsvg@0.5.1/dist/snap.svg-min.js" integrity="sha256-oI+elz+sIm+jpn8F/qEspKoKveTc5uKeFHNNVexe6d8=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/npm/underscore@1.8.3/underscore-min.js" integrity="sha256-obZACiHd7gkOk9iIL/pimWMTJ4W/pBsKu+oZnSeBIek=" crossorigin="anonymous"></script> <script src="https://cdn.jsdelivr.net/gh/bramp/js-sequence-diagrams@2.0.1/dist/sequence-diagram-min.js" integrity="sha384-8748Vn52gHJYJI0XEuPB2QlPVNUkJlJn9tHqKec6J3q2r9l8fvRxrgn/E5ZHV0sP" crossorigin="anonymous"></script>'
 
- # [[params.projects.project]]
-# 		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
-# 		description  = ""
-# 		project_page = "https://myprojecthomepage.com"
-# 		code_link = "https://coderepo.com"
-# 		blog_link = ""
+  # Display a message at the beginning of an article to warn the readers that it's content may be outdated.
+  # 在文章开头显示提示信息，提醒读者文章内容可能过时。
+  [params.outdatedInfoWarning]
+    enable = false
+    hint = 30               # Display hint if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示提醒
+    warn = 180              # Display warning if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示警告
+
+  [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
+
+  [params.utterances]       # https://utteranc.es/
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+
+  [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
+
+  # Valine.
+  # You can get your appid and appkey from https://leancloud.cn
+  # more info please open https://valine.js.org
+  [params.valine]
+    enable = false
+    appId = '你的appId'
+    appKey = '你的appKey'
+    notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+    verify = false # Verification code
+    avatar = 'mm'
+    placeholder = '说点什么吧...'
+    visitor = false
+
+  [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
+    enable = false
+    options = ""
+
+  [params.sequenceDiagrams] # see https://blog.olowolo.com/example-site/post/js-sequence-diagrams/
+    enable = false
+    options = ""            # default: "{theme: 'simple'}"
+
+  [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
+    enable = false
+    siteUV = true
+    sitePV = true
+    pagePV = true
+
+  [params.reward]                                         # 文章打赏
+    enable = false
+    wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
+    alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
+
+  [params.social]                                         # 社交链接
+    a-email = "mailto:lukemperez@asu.edu"
+    # b-stack-overflow = "http://localhost:1313"
+    c-twitter = "http://twitter.com/lukemperez"
+    # d-facebook = "http://localhost:1313"
+    e-linkedin = "http://linkedin.com/in/lukemperez"
+    # f-google = "http://localhost:1313"
+    g-github = "https://github.com/lukemperez"
+    # h-weibo = "http://localhost:1313"
+    # i-zhihu = "http://localhost:1313"
+    # j-douban = "http://localhost:1313"
+    # k-pocket = "http://localhost:1313"
+    # l-tumblr = "http://localhost:1313"
+    # m-instagram = "http://localhost:1313"
+    # n-gitlab = "http://localhost:1313"
+    # o-bilibili = "http://localhost:1313"
+
+# See https://gohugo.io/about/hugo-and-gdpr/
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true      # 12.214.31.144 -> 12.214.31.0
+  [privacy.youtube]
+    privacyEnhanced = true
+
+# see https://gohugo.io/getting-started/configuration-markup
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+  [markup.goldmark.renderer]
+    unsafe = true
+
+# 将下面这段配置取消注释可以使 hugo 生成 .md 文件
+# Uncomment these options to make hugo output .md files.
+#[mediaTypes]
+#  [mediaTypes."text/plain"]
+#    suffixes = ["md"]
 #
-#  [[params.projects.project]]
-# 		name = "Integer eget aliquet nibh praesent tristique magna"
-# 		description  = ""
-# 		project_page = "https://myprojecthomepage.com"
-# 		code_link = ""
-# 		blog_link = "https://ablogpost.com"
-
-# [[params.publications]]
-#   year="Preprint"
+#[outputFormats.MarkDown]
+#  mediaType = "text/plain"
+#  isPlainText = true
+#  isHTML = false
 #
-#   [[params.publications.paper]]
-#     name = "Enim nunc faucibus a pellentesque sit amet porttitor"
-#     authors = "Ana Alvardo, William Worthley, __Hadi Sinaee__"
-#     dest  = "Helga Zita Journal"
-#     link = "https://mypaperishere.com"
-#     code_link = "https://thecoderepo.com"
-#     blog_link = "https://myblogaboutit.com"
-#
-#   [[params.publications.paper]]
-#     name = "In cursus turpis massa tincidunt dui ut ornare lectus sit"
-#     authors = "__Hadi Sinaee__,Les Larkins, Edra Ethier"
-#     dest  = "Meklit Katlego Conference"
-#     link = "https://mypaperishere.com"
-#     code_link = "https://thecoderepo.com"
-#     blog_link = "https://myblogaboutit.com"
-
-[[params.publications]]
-  year="Forthcoming"
-
-  [[params.publications.paper]]
-		name = "Assessing Support for International Religious Freedom"
-		authors = ""
-		dest  = "*International Journal of Religious Freedom*"
-		# link = ""
-		# code_link = ""
-		# blog_link = ""
-
-[[params.publications]]
-year = "Working Papers"
-
-  [[params.publications.paper]]
-    name = "Cyber Realism and Just War"
-    authors= ""
-    dest = "Wheaton Center for Faith, Politics, and Economics Colloquium"
-    link = "https://www.academia.edu/45601769/Cyber_realism_and_just_war?source=swp_share"
-
-  [[params.publications.paper]]
-    name = "John Locke's Natural Right to Immigration"
-    authors = "with Aaron Kushner"
-    dest = "Draft"
-	# blog_link = "example.com"
-#
-#   [[params.publications.paper]]
-# 		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
-# 		authors = "Les Larkins, Ana Alvardo, __Hadi Sinaee__ "
-# 		dest  = "Zorka Vita Conference"
-# 		link = "https://mypaperishere.com"
-# 		code_link = ""
-# 		blog_link = "https://myblogaboutit.com"
-#
-#   [[params.publications.paper]]
-# 		name = "Aliquet eget sit amet tellus cras adipiscing enim eu turpis"
-# 		authors = "Les Larkins, __Hadi Sinaee__, Ana Alvardo"
-# 		dest  = "Lena Randa Conference"
-# 		link = "https://mypaperishere.com"
-# 		code_link = ""
-# 		blog_link = ""
-#
-#   [[params.publications.paper]]
-# 		name = "Orci eu lobortis elementum nibh tellus molestie nunc non blandit"
-# 		authors = "__Hadi Sinaee__, Caroll Comes"
-# 		dest  = "Thandeka Radhika Conference"
-# 		link = ""
-# 		code_link = ""
-# 		blog_link = ""
+#[outputs]
+#  home = ["HTML", "RSS"]
+#  page = ["HTML", "MarkDown"]
+#  section = ["HTML", "RSS"]
+#  taxonomy = ["HTML", "RSS"]
+#  taxonomyTerm = ["HTML"]
