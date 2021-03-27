@@ -1,7 +1,7 @@
 ---
 title: "Assessing Support for International Religious Freedom"
 date: 2021-03-21T16:11:42-07:00
-draft: TRUE
+draft: false
 highlight: true
 kind: APSR
 tags: [Religious Freedom, Public Opinion]
