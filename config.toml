@@ -1,8 +1,8 @@
 baseURL = "https://lukemperez.com"
 languageCode = "en-us"
 title = "Luke M. Perez"
-theme = "avicenna"
-googleAnalytics = ""
+theme = "Avicenna"
+googleAnalytics = "UA-97407722-1"
 timeout=3000
 
 [params]
@@ -10,7 +10,7 @@ timeout=3000
   interests="National Security, Just War, religion and ethics"
   cv_name= "Perez_Vitae.pdf"
   # blog = "https://micro.lukemperez.com/"
-  blog="/notes/"
+  blog="https://micro.lukemperez.com"
 
 [[params.affilation]]
   name = "Arizona State University"
