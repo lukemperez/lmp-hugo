@@ -6,6 +6,7 @@ title = "Luke M. Perez, Ph.D."
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
+# theme = "even"
 theme = "even"
 enableGitInfo = false # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
 
@@ -38,17 +39,28 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Notes"
   weight = 20
   identifier = "archives"
-  url = "/notes/"
+  url = "/post/"
 [[menu.main]]
-  name = "Tags"
+  name = "Publications"
   weight = 30
-  identifier = "tags"
-  url = "/tags/"
+  identifier = "publications"
+  url = "/publications/"
+
 [[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
+  name = "About"
+  weight = "40"
+  identifier = "about"
+  url = "/about/"
+# [[menu.main]]
+#   name = "Tags"
+#   weight = 30
+#   identifier = "tags"
+#   url = "/tags/"
+# [[menu.main]]
+#   name = "Categories"
+#   weight = 40
+#   identifier = "categories"
+#   url = "/categories/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
