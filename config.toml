@@ -2,7 +2,7 @@
 baseURL= "http://localhost:1313"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "Luke M. Perez, Ph.D."
+title = "Luke M. Perez, Ph.D." # for tab in browswer, not name at top of page
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -23,7 +23,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "Luke M. Perez"
+  name = "Luke M. Perez"  # For copyright in footer
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
