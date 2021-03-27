@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Luke M. Perez</title>
+    <title>Hugo on Luke M. Perez, Ph.D.</title>
     <link>https://lukemperez.com/tags/hugo/</link>
-    <description>Recent content in Hugo on Luke M. Perez</description>
+    <description>Recent content in Hugo on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 May 2016 17:16:58 -0500</lastBuildDate><atom:link href="https://lukemperez.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />

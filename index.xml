@@ -1,19 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luke M. Perez</title>
+    <title>Luke M. Perez, Ph.D.</title>
     <link>https://lukemperez.com/</link>
-    <description>Recent content on Luke M. Perez</description>
+    <description>Recent content on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 09:30:00 -0600</lastBuildDate><atom:link href="https://lukemperez.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Apr 2020 14:24:13 -0500</lastBuildDate><atom:link href="https://lukemperez.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>covid</title>
+      <link>https://lukemperez.com/notes/covid/</link>
+      <pubDate>Tue, 07 Apr 2020 14:24:13 -0500</pubDate>
+      
+      <guid>https://lukemperez.com/notes/covid/</guid>
+      <description>Things are getting interesting. As it happens, I assigned students in my course on Grand Strategy broad regions of the globe for which they are responsible: South East Asia, Europe, Latin America, etc.</description>
+    </item>
+    
     <item>
       <title>SPSA, Building the Strategy of Freedom</title>
       <link>https://lukemperez.com/talks/2019_01_spsa/</link>
       <pubDate>Thu, 17 Jan 2019 09:30:00 -0600</pubDate>
       
       <guid>https://lukemperez.com/talks/2019_01_spsa/</guid>
-      <description>&amp;ldquo;Building the Strategy of Freedom&amp;rdquo; examines the impact of Jimmy Carter&amp;rsquo;s and Ronald Reagan&amp;rsquo;s national security strategies on international religious freedom. I argue that each attempted to use religious freedom in order to achieve larger national security goals. Carter&amp;rsquo;s moderate success came at a strategic failure (Iranian Revolution and Soviet Invasion of Afghanistan) because he relied on strict substitution of policies. Reagan, however, relied on policy compliments and therefore achieved greater success fusing religious freedom into American grand strategy.</description>
+      <description>&amp;ldquo;Building the Strategy of Freedom&amp;rdquo; examines the impact of Jimmy Carter&amp;rsquo;s and Ronald Reagan&amp;rsquo;s national security strategies on international religious freedom. I argue that each attempted to use religious freedom in order to achieve larger national security goals.</description>
+    </item>
+    
+    <item>
+      <title>ASU</title>
+      <link>https://lukemperez.com/notes/asu/</link>
+      <pubDate>Mon, 07 Jan 2019 14:24:13 -0500</pubDate>
+      
+      <guid>https://lukemperez.com/notes/asu/</guid>
+      <description>Well, how do you like that. I got a tenure track job. Moving to Tempe in the fall.</description>
     </item>
     
     <item>
@@ -31,7 +49,7 @@
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lukemperez.com/notes/showme/</guid>
-      <description>Earlier this month I defended my dissertation and submitted all paperwork to complete my PhD. It has been a long time coming and I am obviously glad to be finished. My dissertation examined the development of international religious freedom and U.S. foreign policy during the Cold War. In it I make a very simple claim that efforts to promote religious freedom have been present in American national security strategy for much longer than most realize.</description>
+      <description>Earlier this month I defended my dissertation and submitted all paperwork to complete my PhD. It has been a long time coming and I am obviously glad to be finished. My dissertation examined the development of international religious freedom and U.</description>
     </item>
     
     <item>
@@ -58,8 +76,7 @@
       <pubDate>Mon, 23 Oct 2017 10:46:50 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/letterhead/</guid>
-      <description>This is not a workflow post. I don&amp;rsquo;t normally post about process or things related to my workflow because, having tried in the past, have concluded that it is more of a procrastination tactic than anything else. Even my post about switching to Hugo for webhosting was written for me rather than anyone else.
-You don&amp;rsquo;t care about my workflow. You have your own. You don&amp;rsquo;t need to know how I produce what I do.</description>
+      <description>This is not a workflow post. I don&amp;rsquo;t normally post about process or things related to my workflow because, having tried in the past, have concluded that it is more of a procrastination tactic than anything else.</description>
     </item>
     
     <item>
@@ -68,7 +85,7 @@ You don&amp;rsquo;t care about my workflow. You have your own. You don&amp;rsquo
       <pubDate>Sun, 27 Aug 2017 21:50:51 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/apsa_2017/</guid>
-      <description>Heading to &amp;lsquo;Frisco for APSA this week.^[NB: I use this term &amp;lsquo;frisco&amp;rsquo; not without some reservation as I know locals of San Francisco loath it with a fiery passion of a 1000 suns. But as a native of Southern California, I couldn&amp;rsquo;t resist.] Not much planned save for flurry of job market interviews and meetings with old colleagues, advisors, and friends. To be sure, I planned this trip not without some degree of trepidation.</description>
+      <description>Heading to &amp;lsquo;Frisco for APSA this week.^[NB: I use this term &amp;lsquo;frisco&amp;rsquo; not without some reservation as I know locals of San Francisco loath it with a fiery passion of a 1000 suns.</description>
     </item>
     
     <item>
@@ -77,7 +94,7 @@ You don&amp;rsquo;t care about my workflow. You have your own. You don&amp;rsquo
       <pubDate>Mon, 01 May 2017 14:19:09 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/field_work/</guid>
-      <description>I will be in Orange County, CA and Seattle, WA the last week of May and first week of June conducting field work for my dissertation. Should be fun &amp;ldquo;practicing history without a license&amp;rdquo; as my co-chair is fond of saying. But in truth, I think good empirical research on foreign policy needs archival work now more than ever. I can only show so much with a formal model or regression; as important as those are to rigorous social science, getting into the historical weeds is equally as essential because it shows us which of the variables we thought were important actually are.</description>
+      <description>I will be in Orange County, CA and Seattle, WA the last week of May and first week of June conducting field work for my dissertation. Should be fun &amp;ldquo;practicing history without a license&amp;rdquo; as my co-chair is fond of saying.</description>
     </item>
     
     <item>
@@ -99,8 +116,7 @@ You don&amp;rsquo;t care about my workflow. You have your own. You don&amp;rsquo
 Matt Gobush	on the moral tragedy of doing nothing.
 How Clausewitz became a great strategic thinker
 Vanya Eftimova Bellinger explains:
- The French Revolution Mentorship A good partner Experience Time (for ideas to mature).   Will More: A student&amp;rsquo;s perspective
- The sadness I feel now as I write this is that he won’t get to see the ways he changed and is changing the discipline.</description>
+ The French Revolution Mentorship A good partner Experience Time (for ideas to mature).</description>
     </item>
     
     <item>
@@ -110,7 +126,7 @@ Vanya Eftimova Bellinger explains:
       
       <guid>https://lukemperez.com/notes/student-pro-dev-2017-info/</guid>
       <description>Quick note for UT undergraduate and graduate students who are interested in National Security. This week, The Clements Center is holding a Student Professional Development Fund Info Session.
-The short of it is, if you find an unpaid internship in National Security, the Clements Center has funds to help you pay for living expenses.</description>
+ The short of it is, if you find an unpaid internship in National Security, the Clements Center has funds to help you pay for living expenses.</description>
     </item>
     
     <item>
@@ -123,8 +139,7 @@ The short of it is, if you find an unpaid internship in National Security, the C
 Details
 Wednesday, April 19, 5:00&amp;ndash;6:00PM
 Student Activity Center (SAC), Room 1.106
-Cryptocurrencies and the decentralized computing networks that power them, such as Bitcoin and Ethereum, have become a global phenomenon. The problem is, most people, including policymakers, don&amp;rsquo;t have a deep understanding of how these new networks operate, what they can do, and what risks and opportunities they present.
-Peter Van Valkenburgh, Research Director at Coin Center, will explain how cryptocurrencies work, examine the many policy issues they raise, and discuss the future of this innovative yet disruptive technology.</description>
+Cryptocurrencies and the decentralized computing networks that power them, such as Bitcoin and Ethereum, have become a global phenomenon.</description>
     </item>
     
     <item>
@@ -134,8 +149,7 @@ Peter Van Valkenburgh, Research Director at Coin Center, will explain how crypto
       
       <guid>https://lukemperez.com/notes/end-strategic-restraint/</guid>
       <description>Mike Pence says the era of strategic restraint is over.
- Pointing to the quarter-century since the United States first confronted North Korea over its attempts to build nuclear weapons, the vice president said a period of patience had followed.
-  &amp;ldquo;But the era of strategic patience is over,&amp;rdquo; Pence declared. &amp;ldquo;President Trump has made it clear that the patience of the United States and our allies in this region has run out and we want to see change.</description>
+ Pointing to the quarter-century since the United States first confronted North Korea over its attempts to build nuclear weapons, the vice president said a period of patience had followed.</description>
     </item>
     
     <item>
@@ -164,7 +178,7 @@ Peter Van Valkenburgh, Research Director at Coin Center, will explain how crypto
       <pubDate>Wed, 18 Jan 2017 11:50:41 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/su-internat-rel-freedom/</guid>
-      <description>Wonderful new book, Exporting Freedom (Anna Su 2016), on the rise of religious freedom in American foreign policy. Anna Su looks at the construction of the international legal regime during the 20th century and finds that the efforts of promoting international religious freedom long predate the Jackson-Vanik Amendment. Although I&amp;rsquo;m skeptical that some of the early cases could rightly be read into the history of American foreign policy regarding religious freedom, I am open to persuasion and, more importantly, she didn&amp;rsquo;t write this book on the grand strategy of international religious freedom.</description>
+      <description>Wonderful new book, Exporting Freedom (Anna Su 2016), on the rise of religious freedom in American foreign policy. Anna Su looks at the construction of the international legal regime during the 20th century and finds that the efforts of promoting international religious freedom long predate the Jackson-Vanik Amendment.</description>
     </item>
     
     <item>
@@ -182,7 +196,7 @@ Peter Van Valkenburgh, Research Director at Coin Center, will explain how crypto
       <pubDate>Sun, 20 Nov 2016 11:51:12 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/dot-emacs/</guid>
-      <description>My 2010 Macbook Pro finally died. I was hoping to get one more year so I could finish the PhD on the same machine I began it with, but alas. While setting up my new machine, I realized how much I benefited from having my .emacs file on GitHub. So here&amp;rsquo;s a link in case anyone finds it helpful. A note of caution that it is a work-in-progress and some of the features are not fully active (like RefTeX) but I&amp;rsquo;ve been too busy with the dissertation to fix it.</description>
+      <description>My 2010 Macbook Pro finally died. I was hoping to get one more year so I could finish the PhD on the same machine I began it with, but alas. While setting up my new machine, I realized how much I benefited from having my .</description>
     </item>
     
     <item>
@@ -191,7 +205,7 @@ Peter Van Valkenburgh, Research Director at Coin Center, will explain how crypto
       <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/close-loops/</guid>
-      <description>Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop afforded me the opportunity to reflect on the principles of productivity that I&amp;rsquo;ve learned over the years. Despite claims to the contrary, both from within and without, the academe is not unlike many other professions: it a profession fundamentally about knowledge work but with functionally infinite demands on otherwise scarce time and attention.</description>
+      <description>Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -219,7 +233,7 @@ the time has come to say goodbye.&lt;/p&gt;</description>
       
       <guid>https://lukemperez.com/notes/liberating-faith/</guid>
       <description>Took a while but I have a dissertation topic.
-Summary My dissertation investigates the rise of religious liberty in American grand strategy. I begin by noting the empirical oddity of America&amp;rsquo;s international religious freedom agenda vis-a-vis other global powers and argue that religious freedom has long been an integral component to American statecraft. Although religion has recently garnered renewed attention from international relations scholars, the subject remains under-theorized. My project seeks to help us understand more fully how American views of liberty have shaped the efforts to remake and rebuild international order.</description>
+Summary My dissertation investigates the rise of religious liberty in American grand strategy. I begin by noting the empirical oddity of America&amp;rsquo;s international religious freedom agenda vis-a-vis other global powers and argue that religious freedom has long been an integral component to American statecraft.</description>
     </item>
     
     <item>
@@ -247,7 +261,7 @@ Summary My dissertation investigates the rise of religious liberty in American g
       
       <guid>https://lukemperez.com/notes/when-to-use-this/</guid>
       <description>When Am I Going to Use This Rebecca Eggenschwiler on the crux of the matter. Students never really ask &amp;ldquo;when am I going to use this?&amp;rdquo; honestly:
- And the question itself — &amp;ldquo;When am I going to use this?&amp;rdquo; — is nearly always a lie, a front. The asker is not genuinely contemplating the use-value of Material X; rather, he or she is merely announcing the intent to give up.</description>
+ And the question itself — &amp;ldquo;When am I going to use this?</description>
     </item>
     
     <item>
@@ -256,7 +270,7 @@ Summary My dissertation investigates the rise of religious liberty in American g
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
       
       <guid>https://lukemperez.com/notes/acwrimo-every-month/</guid>
-      <description>Let&amp;rsquo;s Write The hashtags for #NaNoWriMo (National Novel Write Month) are starting to populate my twitter feed; yet conspicuously absent thus far are those for academics, affectionately hacked to #AcWriMo. Although #AcWriMo does not begin until November, often in this final week of October, blogs, academic websites and e-journals begin posting on the theme, writing up tips on how to take advantage of #AcWriMo. This year, now that I recently begun my dissertation prospectus and studying for a prelim exam on international politics, I wanted to jump start my writing by making a public commitment to regular writing during November.</description>
+      <description>Let&amp;rsquo;s Write The hashtags for #NaNoWriMo (National Novel Write Month) are starting to populate my twitter feed; yet conspicuously absent thus far are those for academics, affectionately hacked to #AcWriMo. Although #AcWriMo does not begin until November, often in this final week of October, blogs, academic websites and e-journals begin posting on the theme, writing up tips on how to take advantage of #AcWriMo.</description>
     </item>
     
     <item>
@@ -265,7 +279,7 @@ Summary My dissertation investigates the rise of religious liberty in American g
       <pubDate>Fri, 13 Dec 2013 10:23:09 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/social-fact/</guid>
-      <description>Social constructivism, a research school found largely in international relations, should also aid identity politics research. No doubt it may seem malapropos to import a research agenda used largely to investigate questions of inter-state behavior, international security, and the like. However, the methods employed by the social theorists are simply those: social science methods. As such, when applicable, researchers should borrow and adapt whatever methods helps them investigate the questions driving their research.</description>
+      <description>Social constructivism, a research school found largely in international relations, should also aid identity politics research. No doubt it may seem malapropos to import a research agenda used largely to investigate questions of inter-state behavior, international security, and the like.</description>
     </item>
     
     <item>
@@ -274,7 +288,7 @@ Summary My dissertation investigates the rise of religious liberty in American g
       <pubDate>Tue, 04 Sep 2012 20:13:05 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/virtual-apsa-postscript/</guid>
-      <description>Would a conference by any other name smell as sweet? Last week the American Political Science Association (APSA) cancelled it annual conference which was to be held in New Orleans because of Hurricane/Tropical Storm Isaac. As as result, thousands of faculty, ABD interviewees, and other attendees suddenly had to think about practical implications of a year without the major conference. In their announcement about the cancellation, APSA suggested that all papers uploaded to SSRN (a public database where scholarly papers can be downloaded), would count for purposes of CV inclusion.</description>
+      <description>Would a conference by any other name smell as sweet? Last week the American Political Science Association (APSA) cancelled it annual conference which was to be held in New Orleans because of Hurricane/Tropical Storm Isaac.</description>
     </item>
     
     <item>
@@ -283,8 +297,7 @@ Summary My dissertation investigates the rise of religious liberty in American g
       <pubDate>Fri, 31 Aug 2012 23:31:00 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/virtual-apsa-sessions/</guid>
-      <description>Concept In light of Hurricane Isaac, the American Political Science Association cancelled its annual meeting scheduled to be held in New Orleans, LA. But with all these conference papers dressed up with nowhere to go, a small collection of faculty, graduate students, publishers, and the APSA decided to post our papers and give our presentations anyway. What follows is the Virtual Program for #virtualAPSA2012
-A shameless credit claiming here, my tweet may have been the first to start it all.</description>
+      <description>Concept In light of Hurricane Isaac, the American Political Science Association cancelled its annual meeting scheduled to be held in New Orleans, LA. But with all these conference papers dressed up with nowhere to go, a small collection of faculty, graduate students, publishers, and the APSA decided to post our papers and give our presentations anyway.</description>
     </item>
     
     <item>
@@ -293,8 +306,7 @@ A shameless credit claiming here, my tweet may have been the first to start it a
       <pubDate>Wed, 28 Mar 2012 20:39:00 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/trevon-imago-dei/</guid>
-      <description>Identity politics as I have always understood it strives to highlight the forms of domination against communities and classes of people who have been systematically marginalized and oppressed. It aims to right those injustices by privileging modes of discourse of the marginalized against the historically privileged (White Males first and foremost). But in countering injustice, do the advocates for social justice go too far?
-Writing at Bitch Media, Sharday Mosurinjohn seems to think so.</description>
+      <description>Identity politics as I have always understood it strives to highlight the forms of domination against communities and classes of people who have been systematically marginalized and oppressed. It aims to right those injustices by privileging modes of discourse of the marginalized against the historically privileged (White Males first and foremost).</description>
     </item>
     
     <item>
@@ -303,7 +315,7 @@ Writing at Bitch Media, Sharday Mosurinjohn seems to think so.</description>
       <pubDate>Sat, 17 Mar 2012 12:04:00 -0500</pubDate>
       
       <guid>https://lukemperez.com/notes/syria-christian-statesman/</guid>
-      <description>Western moral ethics has a long tradition of protecting the innocent. At least since the Christian teaching to care for the least among us (Mt 24:40), ethicists have advocated that the responsibility to protect takes a variety of forms, including a central concern for those who are suffering beyond the borders of one&amp;rsquo;s nations. It should not surprise us then, that the strife in Syria and recent “Kony 2012” video have captured the attention of liberal and conservative alike.</description>
+      <description>Western moral ethics has a long tradition of protecting the innocent. At least since the Christian teaching to care for the least among us (Mt 24:40), ethicists have advocated that the responsibility to protect takes a variety of forms, including a central concern for those who are suffering beyond the borders of one&amp;rsquo;s nations.</description>
     </item>
     
     <item>
@@ -314,9 +326,7 @@ Writing at Bitch Media, Sharday Mosurinjohn seems to think so.</description>
       <guid>https://lukemperez.com/notes/promise-to-california/</guid>
       <description>A PROMISE to California,
   Also to the great Pastoral Plains, and for Oregon:
-  Sojourning east a while longer, soon I travel toward you, to remain, to teach robust American love;
-  For I know very well that I and robust love belong among you, inland, and along the Western Sea;
-  For These States tend inland, and toward the Western Sea—and I will also.</description>
+  Sojourning east a while longer, soon I travel toward you, to remain, to teach robust American love;</description>
     </item>
     
     <item>
@@ -325,7 +335,7 @@ Writing at Bitch Media, Sharday Mosurinjohn seems to think so.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lukemperez.com/about/</guid>
-      <description>Luke M. Perez is an Assistant Professor in the School of Civic and Economic Thought and Leadership at Arizona State University.</description>
+      <description>I am an Assistant Professor in the School of Civic and Economic Thought and Leadership at Arizona State. Prior to that I was a postdoctoral fellow at the Kinder Institute. I completed my doctoral work at Texas.</description>
     </item>
     
     <item>
@@ -334,8 +344,7 @@ Writing at Bitch Media, Sharday Mosurinjohn seems to think so.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lukemperez.com/teaching/</guid>
-      <description>2018 Spring 2018: Introduction to American and Texas Government This course provides an introduction to American and Texas politics. The class will examine the American political system and explore the fundamental interaction between liberty and equality both as designed and as experienced in every day political life. The course will also examine these themes in the Texas context and present them in a comparative perspective where appropriate.
-Course topics include an introduction to America’s constitutional foundations, federalism, the functions of institutions (Congress, Presidency, Courts), Political Economy, and Public Policy.</description>
+      <description>2018 Spring 2018: Introduction to American and Texas Government This course provides an introduction to American and Texas politics. The class will examine the American political system and explore the fundamental interaction between liberty and equality both as designed and as experienced in every day political life.</description>
     </item>
     
   </channel>
