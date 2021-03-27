@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/asu/</loc>
+    <lastmod>2019-06-07T14:24:13-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/carter/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -67,13 +74,6 @@
   <url>
     <loc>http://localhost:1313/talks/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/asu/</loc>
-    <lastmod>2019-01-07T14:24:13-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
