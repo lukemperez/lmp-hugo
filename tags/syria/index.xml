@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Syria on Luke M. Perez</title>
-    <link>https://lukemperez.com/tags/syria/</link>
-    <description>Recent content in Syria on Luke M. Perez</description>
+    <title>Syria on Luke M. Perez, Ph.D.</title>
+    <link>http://localhost:1313/tags/syria/</link>
+    <description>Recent content in Syria on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2015 21:05:15 -0500</lastBuildDate><atom:link href="https://lukemperez.com/tags/syria/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Nov 2015 21:05:15 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/syria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Blindsided U.S. Foreign Policy?</title>
-      <link>https://lukemperez.com/notes/blindside/</link>
+      <link>http://localhost:1313/post/blindside/</link>
       <pubDate>Fri, 13 Nov 2015 21:05:15 -0500</pubDate>
       
-      <guid>https://lukemperez.com/notes/blindside/</guid>
+      <guid>http://localhost:1313/post/blindside/</guid>
       <description>Blindside&amp;mdash;U.S. Foreign Policy My post is up at Real Clear Defense. Close watching required: this issue isn&amp;rsquo;t going to go away any time soon.</description>
     </item>
     
     <item>
       <title>Syria and the Christian Statesman</title>
-      <link>https://lukemperez.com/notes/syria-christian-statesman/</link>
+      <link>http://localhost:1313/post/syria-christian-statesman/</link>
       <pubDate>Sat, 17 Mar 2012 12:04:00 -0500</pubDate>
       
-      <guid>https://lukemperez.com/notes/syria-christian-statesman/</guid>
+      <guid>http://localhost:1313/post/syria-christian-statesman/</guid>
       <description>Western moral ethics has a long tradition of protecting the innocent. At least since the Christian teaching to care for the least among us (Mt 24:40), ethicists have advocated that the responsibility to protect takes a variety of forms, including a central concern for those who are suffering beyond the borders of one&amp;rsquo;s nations. It should not surprise us then, that the strife in Syria and recent “Kony 2012” video have captured the attention of liberal and conservative alike.</description>
     </item>
     

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Family on Luke M. Perez</title>
-    <link>https://lukemperez.com/tags/family/</link>
-    <description>Recent content in Family on Luke M. Perez</description>
+    <title>Family on Luke M. Perez, Ph.D.</title>
+    <link>http://localhost:1313/tags/family/</link>
+    <description>Recent content in Family on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2017 06:43:51 -0500</lastBuildDate><atom:link href="https://lukemperez.com/tags/family/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Apr 2017 06:43:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/family/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easter Joy</title>
-      <link>https://lukemperez.com/notes/easter-joy/</link>
+      <link>http://localhost:1313/post/easter-joy/</link>
       <pubDate>Sun, 16 Apr 2017 06:43:51 -0500</pubDate>
       
-      <guid>https://lukemperez.com/notes/easter-joy/</guid>
+      <guid>http://localhost:1313/post/easter-joy/</guid>
       <description>The kiddo enjoyed his &amp;ldquo;first&amp;rdquo; Easter this weekend. At 18 months, he&amp;rsquo;s now self-aware of the fun.</description>
     </item>
     

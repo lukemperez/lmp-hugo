@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on Luke M. Perez</title>
-    <link>https://lukemperez.com/talks/</link>
-    <description>Recent content in Talks on Luke M. Perez</description>
+    <title>Talks on Luke M. Perez, Ph.D.</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content in Talks on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 17 Jan 2019 09:30:00 -0600</lastBuildDate><atom:link href="https://lukemperez.com/talks/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Jan 2019 09:30:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SPSA, Building the Strategy of Freedom</title>
-      <link>https://lukemperez.com/talks/2019_01_spsa/</link>
+      <link>http://localhost:1313/talks/2019_01_spsa/</link>
       <pubDate>Thu, 17 Jan 2019 09:30:00 -0600</pubDate>
       
-      <guid>https://lukemperez.com/talks/2019_01_spsa/</guid>
+      <guid>http://localhost:1313/talks/2019_01_spsa/</guid>
       <description>&amp;ldquo;Building the Strategy of Freedom&amp;rdquo; examines the impact of Jimmy Carter&amp;rsquo;s and Ronald Reagan&amp;rsquo;s national security strategies on international religious freedom. I argue that each attempted to use religious freedom in order to achieve larger national security goals. Carter&amp;rsquo;s moderate success came at a strategic failure (Iranian Revolution and Soviet Invasion of Afghanistan) because he relied on strict substitution of policies. Reagan, however, relied on policy compliments and therefore achieved greater success fusing religious freedom into American grand strategy.</description>
     </item>
     
     <item>
       <title>ISA Midwest, Defender of the Faith</title>
-      <link>https://lukemperez.com/talks/2018_11_isa_midwest/</link>
+      <link>http://localhost:1313/talks/2018_11_isa_midwest/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lukemperez.com/talks/2018_11_isa_midwest/</guid>
+      <guid>http://localhost:1313/talks/2018_11_isa_midwest/</guid>
       <description>&amp;ldquo;Defender of the Faith&amp;rdquo; examines the impact of Dwight Eisenhower&amp;rsquo;s national security strategy on international religious freedom.</description>
     </item>
     
     <item>
       <title>Notre Dame International Security Conference, Defender of the Faith</title>
-      <link>https://lukemperez.com/talks/2018_05_ndisc_conf/</link>
+      <link>http://localhost:1313/talks/2018_05_ndisc_conf/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://lukemperez.com/talks/2018_05_ndisc_conf/</guid>
+      <guid>http://localhost:1313/talks/2018_05_ndisc_conf/</guid>
       <description>2018 Notre Dame conference for emerging scholars in grand strategy. Presenting dissertation chapter on Eisenhower&amp;rsquo;s national security strategy and religious freedom.</description>
     </item>
     
     <item>
       <title>Rhetoric, the Socratic Method, and Pedagogy</title>
-      <link>https://lukemperez.com/talks/2016-01-spurs/</link>
+      <link>http://localhost:1313/talks/2016-01-spurs/</link>
       <pubDate>Sat, 14 Jan 2017 10:23:42 -0500</pubDate>
       
-      <guid>https://lukemperez.com/talks/2016-01-spurs/</guid>
+      <guid>http://localhost:1313/talks/2016-01-spurs/</guid>
       <description>2017 Students Partnering for Undergraduate Rhetoric Success (SPURS) Winter Conference. Items covered including strategies and tactics for applying the socratic method and social science methodology to rhetoric instruction in high schools.</description>
     </item>
     

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pandoc on Luke M. Perez</title>
-    <link>https://lukemperez.com/tags/pandoc/</link>
-    <description>Recent content in Pandoc on Luke M. Perez</description>
+    <title>Pandoc on Luke M. Perez, Ph.D.</title>
+    <link>http://localhost:1313/tags/pandoc/</link>
+    <description>Recent content in Pandoc on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Oct 2017 10:46:50 -0500</lastBuildDate><atom:link href="https://lukemperez.com/tags/pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Oct 2017 10:46:50 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/pandoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Letterhead Template for Pandoc</title>
-      <link>https://lukemperez.com/notes/letterhead/</link>
+      <link>http://localhost:1313/post/letterhead/</link>
       <pubDate>Mon, 23 Oct 2017 10:46:50 -0500</pubDate>
       
-      <guid>https://lukemperez.com/notes/letterhead/</guid>
+      <guid>http://localhost:1313/post/letterhead/</guid>
       <description>This is not a workflow post. I don&amp;rsquo;t normally post about process or things related to my workflow because, having tried in the past, have concluded that it is more of a procrastination tactic than anything else. Even my post about switching to Hugo for webhosting was written for me rather than anyone else.
 You don&amp;rsquo;t care about my workflow. You have your own. You don&amp;rsquo;t need to know how I produce what I do.</description>
     </item>

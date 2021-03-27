@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clements Center on Luke M. Perez</title>
-    <link>https://lukemperez.com/tags/clements-center/</link>
-    <description>Recent content in Clements Center on Luke M. Perez</description>
+    <title>Clements Center on Luke M. Perez, Ph.D.</title>
+    <link>http://localhost:1313/tags/clements-center/</link>
+    <description>Recent content in Clements Center on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 14:57:27 -0500</lastBuildDate><atom:link href="https://lukemperez.com/tags/clements-center/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Apr 2017 14:57:27 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/clements-center/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info Session: Student Professional Development Fund</title>
-      <link>https://lukemperez.com/notes/student-pro-dev-2017-info/</link>
+      <link>http://localhost:1313/post/student-pro-dev-2017-info/</link>
       <pubDate>Tue, 18 Apr 2017 14:57:27 -0500</pubDate>
       
-      <guid>https://lukemperez.com/notes/student-pro-dev-2017-info/</guid>
+      <guid>http://localhost:1313/post/student-pro-dev-2017-info/</guid>
       <description>Quick note for UT undergraduate and graduate students who are interested in National Security. This week, The Clements Center is holding a Student Professional Development Fund Info Session.
-The short of it is, if you find an unpaid internship in National Security, the Clements Center has funds to help you pay for living expenses.</description>
+ The short of it is, if you find an unpaid internship in National Security, the Clements Center has funds to help you pay for living expenses.</description>
     </item>
     
   </channel>
