@@ -1,6 +1,4 @@
-# lukemperez.com
-
-Personal and technical files to host webpage on GitHub Pages. Copyright 2020. 
+Personal and technical files to host [webpage](www.lukemperez.com) on GitHub Pages. Copyright 2011--2021. 
 
 Work in progress---I'm basically a plain a website amateur. 
 
