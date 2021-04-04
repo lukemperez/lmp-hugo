@@ -93,8 +93,36 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/camus/</loc>
+    <lastmod>2021-03-14T09:01:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/covid/</loc>
+    <lastmod>2021-03-14T09:01:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2020-03-secular-religion/</loc>
+    <lastmod>2021-03-14T09:01:00-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2020-03-pandemic-dialogues/</loc>
+    <lastmod>2020-03-30T07:40:51-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/covid/</loc>
-    <lastmod>2020-04-07T14:24:13-05:00</lastmod>
+    <lastmod>2020-03-07T14:24:13-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
