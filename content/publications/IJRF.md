@@ -6,7 +6,7 @@ highlight: true
 kind: APSR
 tags: [Religious Freedom, Public Opinion]
 slug: CCES 2018 International Religious Freedom
-file: IJRF-2020.pdf
+file: "IJRF-2020.pdf"
 ---
 
 ## Assessing Support for International Religious Freedom, *International Journal of Religious Freedom*, [Conditional Accept]{.smallcaps}
@@ -15,4 +15,4 @@ The International Religious Freedom Act of 1998 (IRFA) provides the U.S. governm
 
 This paper investigates the contours of American public opinion on international religious freedom. It relies on original data from the 2018 CCES survey and attempts to identify the level of support for international religious freedom among the American electorate. The data suggest that many respondents are unaware of the law. But among those who are knowledgeable about the scope of IRFA, support for international religious freedom remains strong. The data also suggest that US respondents who believe US-China competition is among the most important national security concerns are among the most likely to believe that IRFA policies strengthen US national security.
 
-+ [PDF](/static/IJRF-2020.pdf)
++ [PDF](/IJRF-2020.pdf)
