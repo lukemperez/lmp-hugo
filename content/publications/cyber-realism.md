@@ -21,6 +21,6 @@ Although much of contemporary scholarship on cyberwar has investigated whether a
 
 This paper advances the argument that whatever the critcisms of cyberwar, not only is it warfighting, but also that the just war tradition is more than adequate for dealing with the novel challenges unique to cyber. It also advances caution for two risks on the horizon to which military and strategic ethicists must remain attentive. The first is legalist-atrophy from an myopically technical approach which seeks ever granular definitions, categories, and procedure. The second is a mirror, wherein overly optimistic analyses of cyberwar invite moral hazard---creating conditions that increase human suffering and risk escalating physical violence when none would other have occurred. In short, rather than focusing our moral anlysis on the quite modern *jus ad bellum*-*jus in bello* distinctions, we should remember that the just war tradition is about the prudential, just ordering of statecraft writ large. In this vein, the main categories of the just war tradition are more akin to principles of thinking, not formal laws.
 
-[PDF &rarr;](https://www.academia.edu/45601769/Cyber_realism_and_just_war?source=swp_share)
+[PDF &rarr;](/PDFs/cyberRealism-2021.pdf)
 
 <!--more-->
