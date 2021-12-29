@@ -6,7 +6,17 @@
     <description>Recent content in GitHub on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Nov 2016 11:51:12 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 09:43:37 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github in 2022 and Beyond</title>
+      <link>http://localhost:1313/post/github2022/</link>
+      <pubDate>Mon, 27 Dec 2021 09:43:37 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/github2022/</guid>
+      <description>This is more a place-mark for myself when I invariably need to re-source the tutorials.
+Halfway through 2021, Github changed how users interact with the service in the command line. Instead of authenticating through a username and password, users must now use a Personal Access Token. The upsides in the aggregate are plenty, but mostly centering on better security for everyone. The downside, for infrequent users of Github are that I need to update all my repos.</description>
+    </item>
+    
     <item>
       <title>Dot Emacs</title>
       <link>http://localhost:1313/post/dot-emacs/</link>

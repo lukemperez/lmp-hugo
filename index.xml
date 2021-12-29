@@ -6,7 +6,17 @@
     <description>Recent content on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Mar 2021 07:40:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 09:43:37 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github in 2022 and Beyond</title>
+      <link>http://localhost:1313/post/github2022/</link>
+      <pubDate>Mon, 27 Dec 2021 09:43:37 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/github2022/</guid>
+      <description>This is more a place-mark for myself when I invariably need to re-source the tutorials.
+Halfway through 2021, Github changed how users interact with the service in the command line. Instead of authenticating through a username and password, users must now use a Personal Access Token. The upsides in the aggregate are plenty, but mostly centering on better security for everyone. The downside, for infrequent users of Github are that I need to update all my repos.</description>
+    </item>
+    
     <item>
       <title>Simplified Research</title>
       <link>http://localhost:1313/post/simplyresearch/</link>
@@ -81,6 +91,16 @@
       
       <guid>http://localhost:1313/talks/2019_01_spsa/</guid>
       <description>&amp;ldquo;Building the Strategy of Freedom&amp;rdquo; examines the impact of Jimmy Carter&amp;rsquo;s and Ronald Reagan&amp;rsquo;s national security strategies on international religious freedom. I argue that each attempted to use religious freedom in order to achieve larger national security goals. Carter&amp;rsquo;s moderate success came at a strategic failure (Iranian Revolution and Soviet Invasion of Afghanistan) because he relied on strict substitution of policies. Reagan, however, relied on policy compliments and therefore achieved greater success fusing religious freedom into American grand strategy.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am an Assistant Professor in the School of Civic and Economic Thought and Leadership at Arizona State. Prior to that I was a postdoctoral fellow at the Kinder Institute on Constitutional Democracy at Missouri. I completed my doctoral work at UT-Austin.
+Broadly, my work examines US grand strategy and decision-making. More narrowly, it examines strategic leadership, or the intersection of strategy and ethics. My full CV can be found at the above link.</description>
     </item>
     
     <item>
@@ -384,16 +404,6 @@ Writing at Bitch Media, Sharday Mosurinjohn seems to think so.</description>
   Sojourning east a while longer, soon I travel toward you, to remain, to teach robust American love;
   For I know very well that I and robust love belong among you, inland, and along the Western Sea;
   For These States tend inland, and toward the Western Sea—and I will also.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      <description>I am an Assistant Professor in the School of Civic and Economic Thought and Leadership at Arizona State. Prior to that I was a postdoctoral fellow at the Kinder Institute on Constitutional Democracy at Missouri. I completed my doctoral work at UT-Austin.
-Broadly, my work examines US grand strategy and decision-making. More narrowly, it examines strategic leadership, or the intersection of strategy and ethics. My full CV can be found at the above link.</description>
     </item>
     
     <item>
