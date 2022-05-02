@@ -24,7 +24,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.91.2 with theme even" />
+<meta name="generator" content="Hugo 0.97.3 with theme even" />
 
 
 <link rel="canonical" href="http://localhost:1313/post/simplyresearch/" />
@@ -50,7 +50,7 @@
 <meta itemprop="name" content="Simplified Research">
 <meta itemprop="description" content="My research organization has gotten a little too byzantine over the years. Navigating to an active research project is now six levels deep on my computer. If I want to get to my book manuscript, e.g., I have to do the following: Dropbox/AcademicWork/Projects/Inprogress/mssBook Then, I still have to navigate within that folder between my archival material, grant reporting, the book proposal, and the manuscript. It&rsquo;s a mess."><meta itemprop="datePublished" content="2021-03-27T07:40:51-05:00" />
 <meta itemprop="dateModified" content="2021-03-27T07:40:51-05:00" />
-<meta itemprop="wordCount" content="454">
+<meta itemprop="wordCount" content="453">
 <meta itemprop="keywords" content="Family,Leisure," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Simplified Research"/>
 <meta name="twitter:description" content="My research organization has gotten a little too byzantine over the years. Navigating to an active research project is now six levels deep on my computer. If I want to get to my book manuscript, e.g., I have to do the following: Dropbox/AcademicWork/Projects/Inprogress/mssBook Then, I still have to navigate within that folder between my archival material, grant reporting, the book proposal, and the manuscript. It&rsquo;s a mess."/>
@@ -157,28 +157,28 @@
 </span><span class="lnt">21
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh">AcademicWork/Projects/Inprogress
-
-- IRJRF_CCES_2018
-	- Accepted_Changes
-	- Analysis
-	- Data
-	- Paper
-	- Presentation
-	- RnR_Notes
-	- RnR_Letter
-- Locke_Immg
-- Mss_book
-	- Archival_Materials
-	- Archive_Staged
-	- GrantReporting
-	- Proposal
-	- ResearchMaterials
-	- RA_Hiring
-	- mss
-		- chapter01
-		- chapter02
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">AcademicWork/Projects/Inprogress
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">- IRJRF_CCES_2018
+</span></span><span class="line"><span class="cl">	- Accepted_Changes
+</span></span><span class="line"><span class="cl">	- Analysis
+</span></span><span class="line"><span class="cl">	- Data
+</span></span><span class="line"><span class="cl">	- Paper
+</span></span><span class="line"><span class="cl">	- Presentation
+</span></span><span class="line"><span class="cl">	- RnR_Notes
+</span></span><span class="line"><span class="cl">	- RnR_Letter
+</span></span><span class="line"><span class="cl">- Locke_Immg
+</span></span><span class="line"><span class="cl">- Mss_book
+</span></span><span class="line"><span class="cl">	- Archival_Materials
+</span></span><span class="line"><span class="cl">	- Archive_Staged
+</span></span><span class="line"><span class="cl">	- GrantReporting
+</span></span><span class="line"><span class="cl">	- Proposal
+</span></span><span class="line"><span class="cl">	- ResearchMaterials
+</span></span><span class="line"><span class="cl">	- RA_Hiring
+</span></span><span class="line"><span class="cl">	- mss
+</span></span><span class="line"><span class="cl">		- chapter01
+</span></span><span class="line"><span class="cl">		- chapter02
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>In the example above, I included the folder structure for another paper I am working which is in the final stages. Project directories are structured right. <a href="https://kbroman.org/steps2rr/pages/organize.html">Lincoln Mullen&rsquo;s tutorial</a> recommends keeping all the associated files together. He is not alone. Folders like <code>data</code>, <code>paper</code>, and <code>figures</code> keep things neat and tidy. They especially make things reproducible because they create walls between things like raw data which should never be modified from the sausage of writing a paper.</p>
 <p>The rest needs to be revised. How I got here is somewhat understandable. I got lazy. When I started graduate school, I worked primarily in <a href="https://www.literatureandlatte.com/scrivener/overview">Scrivener</a>, which is still an amazing app, and a pot-pourri of iOS apps on my iPhone (and later iPad). Much of the complexity creep was abated even more (read: ignored) by moving the <code>Inprogress</code> folder in my Mac&rsquo;s Finder sidebar. That made getting to an active project one level deep on my Mac and as simple as opening the app I needed to manipulate files on an iOS device. And once I got past my comp exams and started the disseration, I didn&rsquo;t want to change horses midstream.</p>
@@ -190,16 +190,14 @@
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
-</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-makefile" data-lang="makefile">
-<span class="nv">PREFIX</span> <span class="o">=</span> /Users/lmp/Dropbox/AcademicWork/Pandoc_Templates
-
-<span class="nv">BIB</span> <span class="o">=</span> /Users/lmp/Dropbox/AcademicWork/Bibs/refs.bib
-<span class="nv">BIB2</span> <span class="o">=</span> /Users/lmp/Dropbox/AcademicWork/Bibs/primary.bib
-
-</code></pre></td></tr></table>
+<pre tabindex="0" class="chroma"><code class="language-makefile" data-lang="makefile"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nv">PREFIX</span> <span class="o">=</span> /Users/lmp/Dropbox/AcademicWork/Pandoc_Templates
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nv">BIB</span> <span class="o">=</span> /Users/lmp/Dropbox/AcademicWork/Bibs/refs.bib
+</span></span><span class="line"><span class="cl"><span class="nv">BIB2</span> <span class="o">=</span> /Users/lmp/Dropbox/AcademicWork/Bibs/primary.bib
+</span></span></code></pre></td></tr></table>
 </div>
 </div><p>I haven&rsquo;t found a good set of best practices beyond Mullen&rsquo;s tutorial and a few others. It was very helpful to re-read them after a few years. What I need, however, is something beyond mere guidelines and some working examples. In a few weeks I will update what I settled with, but for now, I just want to get a good statement of the problem.</p>
     </div>
@@ -286,7 +284,7 @@
 
 
 
-<script type="text/javascript" src="/js/main.min.c99b103c33d1539acf3025e1913697534542c4a5aa5af0ccc20475ed2863603b.js"></script>
+<script type="text/javascript" src="/js/main.min.64437849d125a2d603b3e71d6de5225d641a32d17168a58106e0b61852079683.js"></script>
 
 
 
