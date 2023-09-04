@@ -1,723 +1,518 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.lukemperez.com/</loc>
     <lastmod>2023-09-04T12:14:51-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/</loc>
     <lastmod>2023-09-04T12:14:51-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/riphoward/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/riphoward/</loc>
     <lastmod>2023-09-04T12:14:51-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/sociology/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/sociology/</loc>
     <lastmod>2023-09-04T12:14:51-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/</loc>
     <lastmod>2023-09-04T12:14:51-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/writing/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/writing/</loc>
     <lastmod>2023-09-04T12:14:51-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/academe/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/academe/</loc>
     <lastmod>2021-12-27T09:43:37-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/github/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/github/</loc>
     <lastmod>2021-12-27T09:43:37-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/github2022/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/github2022/</loc>
     <lastmod>2021-12-27T09:43:37-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/tech/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/tech/</loc>
     <lastmod>2021-12-27T09:43:37-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/family/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/family/</loc>
     <lastmod>2021-03-27T07:40:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/leisure/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/leisure/</loc>
     <lastmod>2021-03-27T07:40:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/simplyresearch/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/simplyresearch/</loc>
     <lastmod>2021-03-27T07:40:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/cyber/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/cyber/</loc>
     <lastmod>2021-03-26T19:43:33-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publications/cyber-realism/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/publications/cyber-realism/</loc>
     <lastmod>2021-03-26T19:43:33-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/just-war/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/just-war/</loc>
     <lastmod>2021-03-26T19:43:33-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publications/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/publications/</loc>
     <lastmod>2021-03-26T19:43:33-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publications/cces-2018-international-religious-freedom/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/publications/cces-2018-international-religious-freedom/</loc>
     <lastmod>2021-03-21T16:11:42-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/public-opinion/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/public-opinion/</loc>
     <lastmod>2021-03-21T16:11:42-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/religious-freedom/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/religious-freedom/</loc>
     <lastmod>2021-03-21T16:11:42-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/camus/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/camus/</loc>
     <lastmod>2021-03-14T09:01:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/covid/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/covid/</loc>
     <lastmod>2021-03-14T09:01:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/2021-03-secular-religion/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/2021-03-secular-religion/</loc>
     <lastmod>2021-03-14T09:01:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/2020-03-pandemic-dialogues/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/2020-03-pandemic-dialogues/</loc>
     <lastmod>2020-03-30T07:40:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/covid/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/covid/</loc>
     <lastmod>2020-03-07T14:24:13-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/asu/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/asu/</loc>
     <lastmod>2019-06-07T14:24:13-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/carter/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/carter/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/grand-strategy/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/grand-strategy/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/reagan/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/reagan/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/talks/2019_01_spsa/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/talks/2019_01_spsa/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/talks/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/talks/</loc>
     <lastmod>2019-01-17T09:30:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/about/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/cold-war/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/cold-war/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/eisenhower/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/eisenhower/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/talks/2018_11_isa_midwest/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/talks/2018_11_isa_midwest/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/jobs/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/jobs/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/showme/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/showme/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/talks/2018_05_ndisc_conf/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/talks/2018_05_ndisc_conf/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/intro_logic_government/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/intro_logic_government/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/teaching/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/teaching/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/academia/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/academia/</loc>
     <lastmod>2017-10-23T10:46:50-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/letterhead/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/letterhead/</loc>
     <lastmod>2017-10-23T10:46:50-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/pandoc/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/pandoc/</loc>
     <lastmod>2017-10-23T10:46:50-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/apsa_2017/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/apsa_2017/</loc>
     <lastmod>2017-08-27T21:50:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/job-market/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/job-market/</loc>
     <lastmod>2017-08-27T21:50:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/dissertation/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/dissertation/</loc>
     <lastmod>2017-05-01T14:19:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/field_work/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/field_work/</loc>
     <lastmod>2017-05-01T14:19:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/christian-realism/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/christian-realism/</loc>
     <lastmod>2017-04-21T09:13:49-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/drones/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/drones/</loc>
     <lastmod>2017-04-21T09:13:49-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/publications/irony-of-technological-warfare/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/publications/irony-of-technological-warfare/</loc>
     <lastmod>2017-04-21T09:13:49-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/news/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/news/</loc>
     <lastmod>2017-04-21T07:45:10-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/readings-21-april-2017/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/readings-21-april-2017/</loc>
     <lastmod>2017-04-21T07:45:10-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/week-in-review/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/week-in-review/</loc>
     <lastmod>2017-04-21T07:45:10-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/career/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/career/</loc>
     <lastmod>2017-04-18T14:57:27-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/clements-center/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/clements-center/</loc>
     <lastmod>2017-04-18T14:57:27-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/student-pro-dev-2017-info/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/student-pro-dev-2017-info/</loc>
     <lastmod>2017-04-18T14:57:27-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/professional-development/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/professional-development/</loc>
     <lastmod>2017-04-18T14:57:27-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/cpg/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/cpg/</loc>
     <lastmod>2017-04-17T15:51:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/cpg-cryptocurrency/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/cpg-cryptocurrency/</loc>
     <lastmod>2017-04-17T15:51:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/events/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/events/</loc>
     <lastmod>2017-04-17T15:51:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/national-security/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/national-security/</loc>
     <lastmod>2017-04-17T14:24:13-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/end-strategic-restraint/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/end-strategic-restraint/</loc>
     <lastmod>2017-04-17T14:24:13-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/easter-joy/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/easter-joy/</loc>
     <lastmod>2017-04-16T06:43:51-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/conferences/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/conferences/</loc>
     <lastmod>2017-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/mpsa_2017/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/mpsa_2017/</loc>
     <lastmod>2017-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/international-religious-freedom/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/international-religious-freedom/</loc>
     <lastmod>2017-01-18T11:50:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/su-internat-rel-freedom/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/su-internat-rel-freedom/</loc>
     <lastmod>2017-01-18T11:50:41-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/talks/2016-01-spurs/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/talks/2016-01-spurs/</loc>
     <lastmod>2017-01-14T10:23:42-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/dot-emacs/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/dot-emacs/</loc>
     <lastmod>2016-11-20T11:51:12-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/emacs/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/emacs/</loc>
     <lastmod>2016-11-20T11:51:12-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/close-loops/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/close-loops/</loc>
     <lastmod>2016-10-03T08:30:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/gtd/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/gtd/</loc>
     <lastmod>2016-10-03T08:30:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/projects/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/projects/</loc>
     <lastmod>2016-10-03T08:30:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/hello-hugo/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/hello-hugo/</loc>
     <lastmod>2016-05-24T17:16:58-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/html/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/html/</loc>
     <lastmod>2016-05-24T17:16:58-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/hugo/</loc>
     <lastmod>2016-05-24T17:16:58-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/liberating-faith/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/liberating-faith/</loc>
     <lastmod>2016-05-13T19:46:32-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/blindside/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/blindside/</loc>
     <lastmod>2015-11-13T21:05:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/foreign-policy/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/foreign-policy/</loc>
     <lastmod>2015-11-13T21:05:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/publications/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/publications/</loc>
     <lastmod>2015-11-13T21:05:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/russia/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/russia/</loc>
     <lastmod>2015-11-13T21:05:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/syria/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/syria/</loc>
     <lastmod>2015-11-13T21:05:15-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/starwars/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/starwars/</loc>
     <lastmod>2015-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/alderaan/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/alderaan/</loc>
     <lastmod>2015-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/when-to-use-this/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/when-to-use-this/</loc>
     <lastmod>2015-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/acwrimo/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/acwrimo/</loc>
     <lastmod>2015-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/acwrimo-every-month/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/acwrimo-every-month/</loc>
     <lastmod>2015-10-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/constructivism/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/constructivism/</loc>
     <lastmod>2013-12-13T10:23:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/norms/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/norms/</loc>
     <lastmod>2013-12-13T10:23:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/social-fact/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/social-fact/</loc>
     <lastmod>2013-12-13T10:23:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/social-structure/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/social-structure/</loc>
     <lastmod>2013-12-13T10:23:09-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/apsa/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/apsa/</loc>
     <lastmod>2012-09-04T20:13:05-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/virtual-apsa-postscript/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/virtual-apsa-postscript/</loc>
     <lastmod>2012-09-04T20:13:05-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/virtual-apsa-sessions/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/virtual-apsa-sessions/</loc>
     <lastmod>2012-08-31T23:31:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/ethics/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/ethics/</loc>
     <lastmod>2012-03-28T20:39:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/social-justice/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/social-justice/</loc>
     <lastmod>2012-03-28T20:39:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/trevon-imago-dei/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/trevon-imago-dei/</loc>
     <lastmod>2012-03-28T20:39:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/syria-christian-statesman/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/syria-christian-statesman/</loc>
     <lastmod>2012-03-17T12:04:00-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/promise-to-california/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/post/promise-to-california/</loc>
     <lastmod>2011-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/poetry/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/poetry/</loc>
     <lastmod>2011-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/quotes/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/tags/quotes/</loc>
     <lastmod>2011-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>https://www.lukemperez.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.lukemperez.com/teaching/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
-  
-  <url>
-    <loc>http://localhost:1313/teaching/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>

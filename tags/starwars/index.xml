@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>StarWars on Luke M. Perez, Ph.D.</title>
-    <link>http://localhost:1313/tags/starwars/</link>
+    <link>https://www.lukemperez.com/tags/starwars/</link>
     <description>Recent content in StarWars on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/starwars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://www.lukemperez.com/tags/starwars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unjustified Destruction: A case from Star Wars</title>
-      <link>http://localhost:1313/post/alderaan/</link>
+      <link>https://www.lukemperez.com/post/alderaan/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/alderaan/</guid>
+      <guid>https://www.lukemperez.com/post/alderaan/</guid>
       <description>The destruction of Alderaan was not Justified Sony Bunch is wrong (this time).</description>
     </item>
     

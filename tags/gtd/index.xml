@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GTD on Luke M. Perez, Ph.D.</title>
-    <link>http://localhost:1313/tags/gtd/</link>
+    <link>https://www.lukemperez.com/tags/gtd/</link>
     <description>Recent content in GTD on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Oct 2016 08:30:00 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Oct 2016 08:30:00 -0500</lastBuildDate><atom:link href="https://www.lukemperez.com/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Close the loops</title>
-      <link>http://localhost:1313/post/close-loops/</link>
+      <link>https://www.lukemperez.com/post/close-loops/</link>
       <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/close-loops/</guid>
+      <guid>https://www.lukemperez.com/post/close-loops/</guid>
       <description>Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop afforded me the opportunity to reflect on the principles of productivity that I&amp;rsquo;ve learned over the years. Despite claims to the contrary, both from within and without, the academe is not unlike many other professions: it a profession fundamentally about knowledge work but with functionally infinite demands on otherwise scarce time and attention.</description>
     </item>
     

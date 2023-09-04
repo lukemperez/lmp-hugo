@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luke M. Perez, Ph.D.</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.lukemperez.com/</link>
     <description>Recent content on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Sep 2023 12:14:51 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2023 12:14:51 -0700</lastBuildDate><atom:link href="https://www.lukemperez.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RIP, Howard</title>
-      <link>http://localhost:1313/post/riphoward/</link>
+      <link>https://www.lukemperez.com/post/riphoward/</link>
       <pubDate>Mon, 04 Sep 2023 12:14:51 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/riphoward/</guid>
+      <guid>https://www.lukemperez.com/post/riphoward/</guid>
       <description>I missed the news in late-August that Howard Becker had passed away
 A phenomenal social scientist. Not mentioned in his obit is that many who have never read is scholarly work have poured over and dog eared is, arguably magisterial, writing for social scientists, Writing for Social Scientists, Third Edition, recently reissued and updated.
 I happened to re-read it earlier this year. After reading the obit over the weekend, I flipped through the book to look at my annotations.</description>
@@ -20,179 +20,179 @@ I happened to re-read it earlier this year. After reading the obit over the week
     
     <item>
       <title>Github in 2022 and Beyond</title>
-      <link>http://localhost:1313/post/github2022/</link>
+      <link>https://www.lukemperez.com/post/github2022/</link>
       <pubDate>Mon, 27 Dec 2021 09:43:37 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/github2022/</guid>
+      <guid>https://www.lukemperez.com/post/github2022/</guid>
       <description>This is more a place-mark for myself when I invariably need to re-source the tutorials.
 Halfway through 2021, Github changed how users interact with the service in the command line. Instead of authenticating through a username and password, users must now use a Personal Access Token. The upsides in the aggregate are plenty, but mostly centering on better security for everyone. The downside, for infrequent users of Github are that I need to update all my repos.</description>
     </item>
     
     <item>
       <title>Simplified Research</title>
-      <link>http://localhost:1313/post/simplyresearch/</link>
+      <link>https://www.lukemperez.com/post/simplyresearch/</link>
       <pubDate>Sat, 27 Mar 2021 07:40:51 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/simplyresearch/</guid>
+      <guid>https://www.lukemperez.com/post/simplyresearch/</guid>
       <description>&lt;p&gt;My research organization has gotten a little too byzantine over the years. Navigating to an active research project is now &lt;em&gt;six&lt;/em&gt; levels deep on my computer. If I want to get to my book manuscript, e.g., I have to do the following: &lt;code&gt;Dropbox/AcademicWork/Projects/Inprogress/mssBook&lt;/code&gt; Then, I still have to navigate within that folder between my archival material, grant reporting, the book proposal, and the manuscript. It&amp;rsquo;s a mess.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cyber Realism &amp; Just War</title>
-      <link>http://localhost:1313/publications/cyber-realism/</link>
+      <link>https://www.lukemperez.com/publications/cyber-realism/</link>
       <pubDate>Fri, 26 Mar 2021 19:43:33 -0700</pubDate>
       
-      <guid>http://localhost:1313/publications/cyber-realism/</guid>
+      <guid>https://www.lukemperez.com/publications/cyber-realism/</guid>
       <description>&lt;h2 id=&#34;cyber-realism-and-just-war-wheaton-center-for-faith-politics-and-economics-colloquium&#34;&gt;Cyber Realism and Just War, &lt;em&gt;Wheaton Center for Faith, Politics, and Economics Colloquium&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;Although much of contemporary scholarship on cyberwar has investigated whether and to what extent cyberwar will (or will not) have a role in the future of warfare, many ethical questions remain either unanswered or insufficiently so. What is at stake, as with any new technological advancement, is the potential that cyberwars will undermine our ethical thinking, invite abuse, and potentially lead to an increase of human suffering. Unlike other technological innovations, the risk is not that the new technology is more deadly (nuclear weapons) or blurs traditional just war categories in order to gain more precision in others (drones). Rather, cyberwar&amp;rsquo;s defensive vulnerabilities are overemphasized, while the offensive risks are underemphasized. That is, we have come think of only &amp;ldquo;Cyber-Pearl Harbors&amp;rdquo;&amp;mdash;to use the words of Leon Panetta&amp;mdash;while simultaneously characterizing our offensive capabilities as &lt;em&gt;always&lt;/em&gt; a just response in the escalation of coercive force by the state.&lt;/p&gt;
 &lt;p&gt;This paper advances the argument that whatever the critcisms of cyberwar, not only is it warfighting, but also that the just war tradition is more than adequate for dealing with the novel challenges unique to cyber. It also advances caution for two risks on the horizon to which military and strategic ethicists must remain attentive. The first is legalist-atrophy from an myopically technical approach which seeks ever granular definitions, categories, and procedure. The second is a mirror, wherein overly optimistic analyses of cyberwar invite moral hazard&amp;mdash;creating conditions that increase human suffering and risk escalating physical violence when none would other have occurred. In short, rather than focusing our moral anlysis on the quite modern &lt;em&gt;jus ad bellum&lt;/em&gt;-&lt;em&gt;jus in bello&lt;/em&gt; distinctions, we should remember that the just war tradition is about the prudential, just ordering of statecraft writ large. In this vein, the main categories of the just war tradition are more akin to principles of thinking, not formal laws.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/PDFs/cyberRealism-2021.pdf&#34;&gt;PDF →&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://www.lukemperez.com/PDFs/cyberRealism-2021.pdf&#34;&gt;PDF →&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Assessing Support for International Religious Freedom</title>
-      <link>http://localhost:1313/publications/cces-2018-international-religious-freedom/</link>
+      <link>https://www.lukemperez.com/publications/cces-2018-international-religious-freedom/</link>
       <pubDate>Sun, 21 Mar 2021 16:11:42 -0700</pubDate>
       
-      <guid>http://localhost:1313/publications/cces-2018-international-religious-freedom/</guid>
+      <guid>https://www.lukemperez.com/publications/cces-2018-international-religious-freedom/</guid>
       <description>Assessing Support for International Religious Freedom, International Journal of Religious Freedom, 2019. The International Religious Freedom Act of 1998 (IRFA) provides the U.S. government with additional tools and information in order to promote the rights of religious minorities around the world. In addition to mandating annual reporting from the State Department, the law created an independent watchdog agency to monitor religious freedom around the world and provides the executive with additional sanction powers for states which abuse religious minorities.</description>
     </item>
     
     <item>
       <title>Secular Religious Morality</title>
-      <link>http://localhost:1313/post/2021-03-secular-religion/</link>
+      <link>https://www.lukemperez.com/post/2021-03-secular-religion/</link>
       <pubDate>Sun, 14 Mar 2021 09:01:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/2021-03-secular-religion/</guid>
+      <guid>https://www.lukemperez.com/post/2021-03-secular-religion/</guid>
       <description>Antonio Garcia-Martinez, at his Substack, The Pull Request:
 The point isn’t the predictive power of the scientific hypothesis, but how it gets actionably internalized as religious doctrine: It’s possible to speak of objective empirical realities religiously and mythically, and that’s mostly what we do. Note how many climate-change discussions fixate on the flooding aspect of global warming (among the last of the effects we’ll actually see), flooding being a near-universal myth seen everywhere from Native American origin stories to the Greeks, the Hindus, numerous Mesopotamian traditions, and (of course) Genesis.</description>
     </item>
     
     <item>
       <title>Pandemic Dialogues</title>
-      <link>http://localhost:1313/post/2020-03-pandemic-dialogues/</link>
+      <link>https://www.lukemperez.com/post/2020-03-pandemic-dialogues/</link>
       <pubDate>Mon, 30 Mar 2020 07:40:51 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/2020-03-pandemic-dialogues/</guid>
+      <guid>https://www.lukemperez.com/post/2020-03-pandemic-dialogues/</guid>
       <description>It seems like everyone has new projects during the pandemic. I certainly do. A colleague and I are reading Albert Camus&amp;rsquo;, The Plague, and posting our thoughts as a series of podcast. The first is up now on Podbean, and of course, you can easily find them on your favorite podcast app. Additionally, you can find links to the episodes as they are published, here.</description>
     </item>
     
     <item>
       <title>covid</title>
-      <link>http://localhost:1313/post/covid/</link>
+      <link>https://www.lukemperez.com/post/covid/</link>
       <pubDate>Sat, 07 Mar 2020 14:24:13 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/covid/</guid>
+      <guid>https://www.lukemperez.com/post/covid/</guid>
       <description>Things are getting interesting. As it happens, I assigned students in my course on Grand Strategy broad regions of the globe for which they are responsible: South East Asia, Europe, Latin America, etc. One of their big assignments is a Marshall brief on the region. But they have to give up dates during the term. So we&amp;rsquo;ve all been watching this pandemic unfold in more or less real time as it spreads from China to Asia to Europe and the like.</description>
     </item>
     
     <item>
       <title>ASU</title>
-      <link>http://localhost:1313/post/asu/</link>
+      <link>https://www.lukemperez.com/post/asu/</link>
       <pubDate>Fri, 07 Jun 2019 14:24:13 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/asu/</guid>
+      <guid>https://www.lukemperez.com/post/asu/</guid>
       <description>Well, how do you like that. I got a tenure track job. Moving to Tempe in the fall.</description>
     </item>
     
     <item>
       <title>SPSA, Building the Strategy of Freedom</title>
-      <link>http://localhost:1313/talks/2019_01_spsa/</link>
+      <link>https://www.lukemperez.com/talks/2019_01_spsa/</link>
       <pubDate>Thu, 17 Jan 2019 09:30:00 -0600</pubDate>
       
-      <guid>http://localhost:1313/talks/2019_01_spsa/</guid>
+      <guid>https://www.lukemperez.com/talks/2019_01_spsa/</guid>
       <description>&amp;ldquo;Building the Strategy of Freedom&amp;rdquo; examines the impact of Jimmy Carter&amp;rsquo;s and Ronald Reagan&amp;rsquo;s national security strategies on international religious freedom. I argue that each attempted to use religious freedom in order to achieve larger national security goals. Carter&amp;rsquo;s moderate success came at a strategic failure (Iranian Revolution and Soviet Invasion of Afghanistan) because he relied on strict substitution of policies. Reagan, however, relied on policy compliments and therefore achieved greater success fusing religious freedom into American grand strategy.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.lukemperez.com/about/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://www.lukemperez.com/about/</guid>
       <description>I am an Assistant Professor in the School of Civic and Economic Thought and Leadership at Arizona State. Prior to that I was a postdoctoral fellow at the Kinder Institute on Constitutional Democracy at Missouri. I completed my doctoral work at UT-Austin.
 Broadly, my work examines US grand strategy and decision-making. More narrowly, it examines strategic leadership, or the intersection of strategy and ethics. My full CV can be found at the above link.</description>
     </item>
     
     <item>
       <title>ISA Midwest, Defender of the Faith</title>
-      <link>http://localhost:1313/talks/2018_11_isa_midwest/</link>
+      <link>https://www.lukemperez.com/talks/2018_11_isa_midwest/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/talks/2018_11_isa_midwest/</guid>
+      <guid>https://www.lukemperez.com/talks/2018_11_isa_midwest/</guid>
       <description>&amp;ldquo;Defender of the Faith&amp;rdquo; examines the impact of Dwight Eisenhower&amp;rsquo;s national security strategy on international religious freedom.</description>
     </item>
     
     <item>
       <title>Show Me</title>
-      <link>http://localhost:1313/post/showme/</link>
+      <link>https://www.lukemperez.com/post/showme/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/showme/</guid>
+      <guid>https://www.lukemperez.com/post/showme/</guid>
       <description>Earlier this month I defended my dissertation and submitted all paperwork to complete my PhD. It has been a long time coming and I am obviously glad to be finished. My dissertation examined the development of international religious freedom and U.S. foreign policy during the Cold War. In it I make a very simple claim that efforts to promote religious freedom have been present in American national security strategy for much longer than most realize.</description>
     </item>
     
     <item>
       <title>Notre Dame International Security Conference, Defender of the Faith</title>
-      <link>http://localhost:1313/talks/2018_05_ndisc_conf/</link>
+      <link>https://www.lukemperez.com/talks/2018_05_ndisc_conf/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/talks/2018_05_ndisc_conf/</guid>
+      <guid>https://www.lukemperez.com/talks/2018_05_ndisc_conf/</guid>
       <description>2018 Notre Dame conference for emerging scholars in grand strategy. Presenting dissertation chapter on Eisenhower&amp;rsquo;s national security strategy and religious freedom.</description>
     </item>
     
     <item>
       <title>Introducing Logic for political science</title>
-      <link>http://localhost:1313/post/intro_logic_government/</link>
+      <link>https://www.lukemperez.com/post/intro_logic_government/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/intro_logic_government/</guid>
+      <guid>https://www.lukemperez.com/post/intro_logic_government/</guid>
       <description>A different introduction to Government This semester I decided to take a different approach to the early introduction to my American government class, really for all my teaching. I usually begin my classes with something I call &amp;ldquo;the mini-lecture&amp;rdquo;, a short 5 minute (or less) outline of a key concept that doesn&amp;rsquo;t actually fit within the confines of the material but which will help the students learn to grasp the materials easier or produce better academic work overall.</description>
     </item>
     
     <item>
       <title>Letterhead Template for Pandoc</title>
-      <link>http://localhost:1313/post/letterhead/</link>
+      <link>https://www.lukemperez.com/post/letterhead/</link>
       <pubDate>Mon, 23 Oct 2017 10:46:50 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/letterhead/</guid>
+      <guid>https://www.lukemperez.com/post/letterhead/</guid>
       <description>This is not a workflow post. I don&amp;rsquo;t normally post about process or things related to my workflow because, having tried in the past, have concluded that it is more of a procrastination tactic than anything else. Even my post about switching to Hugo for webhosting was written for me rather than anyone else.
 You don&amp;rsquo;t care about my workflow. You have your own. You don&amp;rsquo;t need to know how I produce what I do.</description>
     </item>
     
     <item>
       <title>APSA 2017, Job Market Edition</title>
-      <link>http://localhost:1313/post/apsa_2017/</link>
+      <link>https://www.lukemperez.com/post/apsa_2017/</link>
       <pubDate>Sun, 27 Aug 2017 21:50:51 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/apsa_2017/</guid>
+      <guid>https://www.lukemperez.com/post/apsa_2017/</guid>
       <description>Heading to &amp;lsquo;Frisco for APSA this week.^[NB: I use this term &amp;lsquo;frisco&amp;rsquo; not without some reservation as I know locals of San Francisco loath it with a fiery passion of a 1000 suns. But as a native of Southern California, I couldn&amp;rsquo;t resist.] Not much planned save for flurry of job market interviews and meetings with old colleagues, advisors, and friends. To be sure, I planned this trip not without some degree of trepidation.</description>
     </item>
     
     <item>
       <title>Field Work</title>
-      <link>http://localhost:1313/post/field_work/</link>
+      <link>https://www.lukemperez.com/post/field_work/</link>
       <pubDate>Mon, 01 May 2017 14:19:09 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/field_work/</guid>
+      <guid>https://www.lukemperez.com/post/field_work/</guid>
       <description>I will be in Orange County, CA and Seattle, WA the last week of May and first week of June conducting field work for my dissertation. Should be fun &amp;ldquo;practicing history without a license&amp;rdquo; as my co-chair is fond of saying. But in truth, I think good empirical research on foreign policy needs archival work now more than ever. I can only show so much with a formal model or regression; as important as those are to rigorous social science, getting into the historical weeds is equally as essential because it shows us which of the variables we thought were important actually are.</description>
     </item>
     
     <item>
       <title>The Irony of Technological Warfare</title>
-      <link>http://localhost:1313/publications/irony-of-technological-warfare/</link>
+      <link>https://www.lukemperez.com/publications/irony-of-technological-warfare/</link>
       <pubDate>Fri, 21 Apr 2017 09:13:49 -0500</pubDate>
       
-      <guid>http://localhost:1313/publications/irony-of-technological-warfare/</guid>
+      <guid>https://www.lukemperez.com/publications/irony-of-technological-warfare/</guid>
       <description>Reinhold Neibuhr&amp;rsquo;s critique of Natural Law just war theory informs our understanding of the complications posed by the use of drones and other autonomous technology in war</description>
     </item>
     
     <item>
       <title>Week in Review</title>
-      <link>http://localhost:1313/post/readings-21-april-2017/</link>
+      <link>https://www.lukemperez.com/post/readings-21-april-2017/</link>
       <pubDate>Fri, 21 Apr 2017 07:45:10 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/readings-21-april-2017/</guid>
+      <guid>https://www.lukemperez.com/post/readings-21-april-2017/</guid>
       <description>Reading: A just war unjustly disowned
 Matt Gobush	on the moral tragedy of doing nothing.
 How Clausewitz became a great strategic thinker
@@ -203,20 +203,20 @@ The sadness I feel now as I write this is that he won’t get to see the ways he
     
     <item>
       <title>Info Session: Student Professional Development Fund</title>
-      <link>http://localhost:1313/post/student-pro-dev-2017-info/</link>
+      <link>https://www.lukemperez.com/post/student-pro-dev-2017-info/</link>
       <pubDate>Tue, 18 Apr 2017 14:57:27 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/student-pro-dev-2017-info/</guid>
+      <guid>https://www.lukemperez.com/post/student-pro-dev-2017-info/</guid>
       <description>Quick note for UT undergraduate and graduate students who are interested in National Security. This week, The Clements Center is holding a Student Professional Development Fund Info Session.
 The short of it is, if you find an unpaid internship in National Security, the Clements Center has funds to help you pay for living expenses.</description>
     </item>
     
     <item>
       <title>Cryptocurrencies: Challenges, disruption &amp; Opportunities</title>
-      <link>http://localhost:1313/post/cpg-cryptocurrency/</link>
+      <link>https://www.lukemperez.com/post/cpg-cryptocurrency/</link>
       <pubDate>Mon, 17 Apr 2017 15:51:41 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/cpg-cryptocurrency/</guid>
+      <guid>https://www.lukemperez.com/post/cpg-cryptocurrency/</guid>
       <description>This week at the Center for Politics and Governance.
 Details
 Wednesday, April 19, 5:00&amp;ndash;6:00PM
@@ -227,10 +227,10 @@ Peter Van Valkenburgh, Research Director at Coin Center, will explain how crypto
     
     <item>
       <title>The End Strategic Restraint</title>
-      <link>http://localhost:1313/post/end-strategic-restraint/</link>
+      <link>https://www.lukemperez.com/post/end-strategic-restraint/</link>
       <pubDate>Mon, 17 Apr 2017 14:24:13 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/end-strategic-restraint/</guid>
+      <guid>https://www.lukemperez.com/post/end-strategic-restraint/</guid>
       <description>Mike Pence says the era of strategic restraint is over.
 Pointing to the quarter-century since the United States first confronted North Korea over its attempts to build nuclear weapons, the vice president said a period of patience had followed.
 &amp;ldquo;But the era of strategic patience is over,&amp;rdquo; Pence declared. &amp;ldquo;President Trump has made it clear that the patience of the United States and our allies in this region has run out and we want to see change.</description>
@@ -238,66 +238,66 @@ Pointing to the quarter-century since the United States first confronted North K
     
     <item>
       <title>Easter Joy</title>
-      <link>http://localhost:1313/post/easter-joy/</link>
+      <link>https://www.lukemperez.com/post/easter-joy/</link>
       <pubDate>Sun, 16 Apr 2017 06:43:51 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/easter-joy/</guid>
+      <guid>https://www.lukemperez.com/post/easter-joy/</guid>
       <description>The kiddo enjoyed his &amp;ldquo;first&amp;rdquo; Easter this weekend. At 18 months, he&amp;rsquo;s now self-aware of the fun.</description>
     </item>
     
     <item>
       <title>MPSA 2017</title>
-      <link>http://localhost:1313/post/mpsa_2017/</link>
+      <link>https://www.lukemperez.com/post/mpsa_2017/</link>
       <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/mpsa_2017/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/seminary-coop.jpg&#34; alt=&#34;Seminary Coop&#34;&gt;&lt;/p&gt;
+      <guid>https://www.lukemperez.com/post/mpsa_2017/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.lukemperez.com/img/seminary-coop.jpg&#34; alt=&#34;Seminary Coop&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;midwest-post-mortem&#34;&gt;Midwest post-mortem&lt;/h1&gt;
 &lt;p&gt;Last week I attended the Midwest Political Science Association annual conference in Chicago. AS conferences go, I was pleased with the event and the payoff was well worth the time and energy it cost to attend.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Su on International Religious Freedom</title>
-      <link>http://localhost:1313/post/su-internat-rel-freedom/</link>
+      <link>https://www.lukemperez.com/post/su-internat-rel-freedom/</link>
       <pubDate>Wed, 18 Jan 2017 11:50:41 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/su-internat-rel-freedom/</guid>
+      <guid>https://www.lukemperez.com/post/su-internat-rel-freedom/</guid>
       <description>Wonderful new book, Exporting Freedom (Anna Su 2016), on the rise of religious freedom in American foreign policy. Anna Su looks at the construction of the international legal regime during the 20th century and finds that the efforts of promoting international religious freedom long predate the Jackson-Vanik Amendment. Although I&amp;rsquo;m skeptical that some of the early cases could rightly be read into the history of American foreign policy regarding religious freedom, I am open to persuasion and, more importantly, she didn&amp;rsquo;t write this book on the grand strategy of international religious freedom.</description>
     </item>
     
     <item>
       <title>Rhetoric, the Socratic Method, and Pedagogy</title>
-      <link>http://localhost:1313/talks/2016-01-spurs/</link>
+      <link>https://www.lukemperez.com/talks/2016-01-spurs/</link>
       <pubDate>Sat, 14 Jan 2017 10:23:42 -0500</pubDate>
       
-      <guid>http://localhost:1313/talks/2016-01-spurs/</guid>
+      <guid>https://www.lukemperez.com/talks/2016-01-spurs/</guid>
       <description>2017 Students Partnering for Undergraduate Rhetoric Success (SPURS) Winter Conference. Items covered including strategies and tactics for applying the socratic method and social science methodology to rhetoric instruction in high schools.</description>
     </item>
     
     <item>
       <title>Dot Emacs</title>
-      <link>http://localhost:1313/post/dot-emacs/</link>
+      <link>https://www.lukemperez.com/post/dot-emacs/</link>
       <pubDate>Sun, 20 Nov 2016 11:51:12 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/dot-emacs/</guid>
+      <guid>https://www.lukemperez.com/post/dot-emacs/</guid>
       <description>My 2010 Macbook Pro finally died. I was hoping to get one more year so I could finish the PhD on the same machine I began it with, but alas. While setting up my new machine, I realized how much I benefited from having my .emacs file on GitHub. So here&amp;rsquo;s a link in case anyone finds it helpful. A note of caution that it is a work-in-progress and some of the features are not fully active (like RefTeX) but I&amp;rsquo;ve been too busy with the dissertation to fix it.</description>
     </item>
     
     <item>
       <title>Close the loops</title>
-      <link>http://localhost:1313/post/close-loops/</link>
+      <link>https://www.lukemperez.com/post/close-loops/</link>
       <pubDate>Mon, 03 Oct 2016 08:30:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/close-loops/</guid>
+      <guid>https://www.lukemperez.com/post/close-loops/</guid>
       <description>Last week I presented a best practices workshop on project management for my fellow graduate students. The purpose was to provide younger students in the program with ideas and concepts for managing projects &amp;ldquo;from idea to publication&amp;rdquo;. Preparing my presentation for the workshop afforded me the opportunity to reflect on the principles of productivity that I&amp;rsquo;ve learned over the years. Despite claims to the contrary, both from within and without, the academe is not unlike many other professions: it a profession fundamentally about knowledge work but with functionally infinite demands on otherwise scarce time and attention.</description>
     </item>
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://localhost:1313/post/hello-hugo/</link>
+      <link>https://www.lukemperez.com/post/hello-hugo/</link>
       <pubDate>Tue, 24 May 2016 17:16:58 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/hello-hugo/</guid>
+      <guid>https://www.lukemperez.com/post/hello-hugo/</guid>
       <description>&lt;h1 id=&#34;farewell-squarespace&#34;&gt;Farewell Squarespace&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;ve hosted my webpage on &lt;a href=&#34;https://www.squarespace.com&#34;&gt;Squarespace&lt;/a&gt; since sometime in my second
 year at UT Austin. After several years on the platform, I have nothing
@@ -312,104 +312,104 @@ the time has come to say goodbye.&lt;/p&gt;</description>
     
     <item>
       <title>Liberating Faith: international religious freedom and American Grand Strategy</title>
-      <link>http://localhost:1313/post/liberating-faith/</link>
+      <link>https://www.lukemperez.com/post/liberating-faith/</link>
       <pubDate>Fri, 13 May 2016 19:46:32 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/liberating-faith/</guid>
+      <guid>https://www.lukemperez.com/post/liberating-faith/</guid>
       <description>Took a while but I have a dissertation topic.
 Summary My dissertation investigates the rise of religious liberty in American grand strategy. I begin by noting the empirical oddity of America&amp;rsquo;s international religious freedom agenda vis-a-vis other global powers and argue that religious freedom has long been an integral component to American statecraft. Although religion has recently garnered renewed attention from international relations scholars, the subject remains under-theorized. My project seeks to help us understand more fully how American views of liberty have shaped the efforts to remake and rebuild international order.</description>
     </item>
     
     <item>
       <title>A Blindsided U.S. Foreign Policy?</title>
-      <link>http://localhost:1313/post/blindside/</link>
+      <link>https://www.lukemperez.com/post/blindside/</link>
       <pubDate>Fri, 13 Nov 2015 21:05:15 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/blindside/</guid>
+      <guid>https://www.lukemperez.com/post/blindside/</guid>
       <description>Blindside&amp;mdash;U.S. Foreign Policy My post is up at Real Clear Defense. Close watching required: this issue isn&amp;rsquo;t going to go away any time soon.</description>
     </item>
     
     <item>
       <title>Unjustified Destruction: A case from Star Wars</title>
-      <link>http://localhost:1313/post/alderaan/</link>
+      <link>https://www.lukemperez.com/post/alderaan/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/alderaan/</guid>
+      <guid>https://www.lukemperez.com/post/alderaan/</guid>
       <description>The destruction of Alderaan was not Justified Sony Bunch is wrong (this time).</description>
     </item>
     
     <item>
       <title>When am I going to use this?</title>
-      <link>http://localhost:1313/post/when-to-use-this/</link>
+      <link>https://www.lukemperez.com/post/when-to-use-this/</link>
       <pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/when-to-use-this/</guid>
+      <guid>https://www.lukemperez.com/post/when-to-use-this/</guid>
       <description>When Am I Going to Use This Rebecca Eggenschwiler on the crux of the matter. Students never really ask &amp;ldquo;when am I going to use this?&amp;rdquo; honestly:
 And the question itself — &amp;ldquo;When am I going to use this?&amp;rdquo; — is nearly always a lie, a front. The asker is not genuinely contemplating the use-value of Material X; rather, he or she is merely announcing the intent to give up.</description>
     </item>
     
     <item>
       <title>AcWriMo should be every month</title>
-      <link>http://localhost:1313/post/acwrimo-every-month/</link>
+      <link>https://www.lukemperez.com/post/acwrimo-every-month/</link>
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/acwrimo-every-month/</guid>
+      <guid>https://www.lukemperez.com/post/acwrimo-every-month/</guid>
       <description>Let&amp;rsquo;s Write The hashtags for #NaNoWriMo (National Novel Write Month) are starting to populate my twitter feed; yet conspicuously absent thus far are those for academics, affectionately hacked to #AcWriMo. Although #AcWriMo does not begin until November, often in this final week of October, blogs, academic websites and e-journals begin posting on the theme, writing up tips on how to take advantage of #AcWriMo. This year, now that I recently begun my dissertation prospectus and studying for a prelim exam on international politics, I wanted to jump start my writing by making a public commitment to regular writing during November.</description>
     </item>
     
     <item>
       <title>Social Facts</title>
-      <link>http://localhost:1313/post/social-fact/</link>
+      <link>https://www.lukemperez.com/post/social-fact/</link>
       <pubDate>Fri, 13 Dec 2013 10:23:09 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/social-fact/</guid>
+      <guid>https://www.lukemperez.com/post/social-fact/</guid>
       <description>Social constructivism, a research school found largely in international relations, should also aid identity politics research. No doubt it may seem malapropos to import a research agenda used largely to investigate questions of inter-state behavior, international security, and the like. However, the methods employed by the social theorists are simply those: social science methods. As such, when applicable, researchers should borrow and adapt whatever methods helps them investigate the questions driving their research.</description>
     </item>
     
     <item>
       <title>Virtual APSA</title>
-      <link>http://localhost:1313/post/virtual-apsa-postscript/</link>
+      <link>https://www.lukemperez.com/post/virtual-apsa-postscript/</link>
       <pubDate>Tue, 04 Sep 2012 20:13:05 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/virtual-apsa-postscript/</guid>
+      <guid>https://www.lukemperez.com/post/virtual-apsa-postscript/</guid>
       <description>Would a conference by any other name smell as sweet? Last week the American Political Science Association (APSA) cancelled it annual conference which was to be held in New Orleans because of Hurricane/Tropical Storm Isaac. As as result, thousands of faculty, ABD interviewees, and other attendees suddenly had to think about practical implications of a year without the major conference. In their announcement about the cancellation, APSA suggested that all papers uploaded to SSRN (a public database where scholarly papers can be downloaded), would count for purposes of CV inclusion.</description>
     </item>
     
     <item>
       <title>Virtual APSA Sessions</title>
-      <link>http://localhost:1313/post/virtual-apsa-sessions/</link>
+      <link>https://www.lukemperez.com/post/virtual-apsa-sessions/</link>
       <pubDate>Fri, 31 Aug 2012 23:31:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/virtual-apsa-sessions/</guid>
+      <guid>https://www.lukemperez.com/post/virtual-apsa-sessions/</guid>
       <description>Concept In light of Hurricane Isaac, the American Political Science Association cancelled its annual meeting scheduled to be held in New Orleans, LA. But with all these conference papers dressed up with nowhere to go, a small collection of faculty, graduate students, publishers, and the APSA decided to post our papers and give our presentations anyway. What follows is the Virtual Program for #virtualAPSA2012
 A shameless credit claiming here, my tweet may have been the first to start it all.</description>
     </item>
     
     <item>
       <title>Social Justice, Violence, and the Imago Dei</title>
-      <link>http://localhost:1313/post/trevon-imago-dei/</link>
+      <link>https://www.lukemperez.com/post/trevon-imago-dei/</link>
       <pubDate>Wed, 28 Mar 2012 20:39:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/trevon-imago-dei/</guid>
+      <guid>https://www.lukemperez.com/post/trevon-imago-dei/</guid>
       <description>Identity politics as I have always understood it strives to highlight the forms of domination against communities and classes of people who have been systematically marginalized and oppressed. It aims to right those injustices by privileging modes of discourse of the marginalized against the historically privileged (White Males first and foremost). But in countering injustice, do the advocates for social justice go too far?
 Writing at Bitch Media, Sharday Mosurinjohn seems to think so.</description>
     </item>
     
     <item>
       <title>Syria and the Christian Statesman</title>
-      <link>http://localhost:1313/post/syria-christian-statesman/</link>
+      <link>https://www.lukemperez.com/post/syria-christian-statesman/</link>
       <pubDate>Sat, 17 Mar 2012 12:04:00 -0500</pubDate>
       
-      <guid>http://localhost:1313/post/syria-christian-statesman/</guid>
+      <guid>https://www.lukemperez.com/post/syria-christian-statesman/</guid>
       <description>Western moral ethics has a long tradition of protecting the innocent. At least since the Christian teaching to care for the least among us (Mt 24:40), ethicists have advocated that the responsibility to protect takes a variety of forms, including a central concern for those who are suffering beyond the borders of one&amp;rsquo;s nations. It should not surprise us then, that the strife in Syria and recent “Kony 2012” video have captured the attention of liberal and conservative alike.</description>
     </item>
     
     <item>
       <title>A Promise to California</title>
-      <link>http://localhost:1313/post/promise-to-california/</link>
+      <link>https://www.lukemperez.com/post/promise-to-california/</link>
       <pubDate>Tue, 08 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/promise-to-california/</guid>
+      <guid>https://www.lukemperez.com/post/promise-to-california/</guid>
       <description>A PROMISE to California,
 Also to the great Pastoral Plains, and for Oregon:
 Sojourning east a while longer, soon I travel toward you, to remain, to teach robust American love;
@@ -421,10 +421,10 @@ Nice motto for the homeland. I&amp;rsquo;ll be remembering this as I being the l
     
     <item>
       <title>Teaching archive</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://www.lukemperez.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/teaching/</guid>
+      <guid>https://www.lukemperez.com/teaching/</guid>
       <description>2018 Spring 2018: Introduction to American and Texas Government This course provides an introduction to American and Texas politics. The class will examine the American political system and explore the fundamental interaction between liberty and equality both as designed and as experienced in every day political life. The course will also examine these themes in the Texas context and present them in a comparative perspective where appropriate.
 Course topics include an introduction to America’s constitutional foundations, federalism, the functions of institutions (Congress, Presidency, Courts), Political Economy, and Public Policy.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Luke M. Perez, Ph.D.</title>
-    <link>http://localhost:1313/tags/tech/</link>
+    <link>https://www.lukemperez.com/tags/tech/</link>
     <description>Recent content in Tech on Luke M. Perez, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Dec 2021 09:43:37 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Dec 2021 09:43:37 -0700</lastBuildDate><atom:link href="https://www.lukemperez.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github in 2022 and Beyond</title>
-      <link>http://localhost:1313/post/github2022/</link>
+      <link>https://www.lukemperez.com/post/github2022/</link>
       <pubDate>Mon, 27 Dec 2021 09:43:37 -0700</pubDate>
       
-      <guid>http://localhost:1313/post/github2022/</guid>
+      <guid>https://www.lukemperez.com/post/github2022/</guid>
       <description>This is more a place-mark for myself when I invariably need to re-source the tutorials.
 Halfway through 2021, Github changed how users interact with the service in the command line. Instead of authenticating through a username and password, users must now use a Personal Access Token. The upsides in the aggregate are plenty, but mostly centering on better security for everyone. The downside, for infrequent users of Github are that I need to update all my repos.</description>
     </item>
