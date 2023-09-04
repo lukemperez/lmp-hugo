@@ -1,5 +1,5 @@
-# baseURL = "https:://www.lukemperez.com"
-baseURL= "http://localhost:1313"
+baseURL = "https://www.lukemperez.com"
+# baseURL= "http://localhost:1313"
 languageCode = "en"
 defaultContentLanguage = "en"  # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Luke M. Perez, Ph.D." # for tab in browswer, not name at top of page
